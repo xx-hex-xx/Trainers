@@ -1,6 +1,6 @@
 # APTI
 Version: [VersionBegin]1.0[VersionEnd]
-Link: [LinkBegin][LinkEnd]
+Link: [LinkBegin]https://www.playground.ru/a_plague_tale_innocence/cheat/a_plague_tale_innocence_trejner_6_1_00_1_07_hex-1673828[LinkEnd]
 Changes:
 [ChangesBegin_EN][ChangesEnd_EN]
 [ChangesBegin_RU][ChangesEnd_RU]
