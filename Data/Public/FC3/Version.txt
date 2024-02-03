@@ -1,6 +1,6 @@
 # FC3
 Version: [VersionBegin]1.0[VersionEnd]
-Link: [LinkBegin][LinkEnd]
+Link: [LinkBegin]https://www.playground.ru/far_cry_3/cheat/far_cry_3_trejner_42_1_05_1_06_hex-1144082[LinkEnd]
 Changes:
 [ChangesBegin_EN][ChangesEnd_EN]
 [ChangesBegin_RU][ChangesEnd_RU]
