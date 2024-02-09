@@ -1,6 +1,6 @@
 # HA
 Version: [VersionBegin]1.0[VersionEnd]
-Link: [LinkBegin][LinkEnd]
+Link: [LinkBegin]https://www.playground.ru/hitman_absolution/cheat/hitman_absolution_trejner_10_1_0_447_0_hex-1121095[LinkEnd]
 Changes:
 [ChangesBegin_EN][ChangesEnd_EN]
 [ChangesBegin_RU][ChangesEnd_RU]
