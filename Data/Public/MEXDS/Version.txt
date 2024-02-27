@@ -1,6 +1,6 @@
 # MEXDS
-Version: [VersionBegin]1.2[VersionEnd]
+Version: [VersionBegin]1.1[VersionEnd]
 Link: [LinkBegin][LinkEnd]
 Changes:
-[ChangesBegin_EN]Test[ChangesEnd_EN]
-[ChangesBegin_RU]Тест[ChangesEnd_RU]
+[ChangesBegin_EN][ChangesEnd_EN]
+[ChangesBegin_RU][ChangesEnd_RU]
