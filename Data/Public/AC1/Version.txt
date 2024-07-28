@@ -1,0 +1,8 @@
+# <ID>
+Version: [VersionBegin][VersionEnd]
+Link:
+[LinkBegin_PlayGround.ru]<nolink>[LinkEnd_PlayGround.ru]
+[LinkBegin_NexusMods]<nolink>[LinkEnd_NexusMods]
+Changes:
+[ChangesBegin_EN][ChangesEnd_EN]
+[ChangesBegin_RU][ChangesEnd_RU]
