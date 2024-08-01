@@ -1,6 +1,8 @@
 # APTI
-Version: [VersionBegin]1.0[VersionEnd]
-Link: [LinkBegin]https://www.playground.ru/a_plague_tale_innocence/cheat/a_plague_tale_innocence_trejner_6_1_00_1_07_hex-1673828[LinkEnd]
+Version: [VersionBegin]1.2[VersionEnd]
+Link: [LinkBegin]https://www.playground.ru/a_plague_tale_innocence/cheat/a_plague_tale_innocence_trejner_7_1_00_1_07_steam_egs_gog_galaxy_i_piratki_hex-1673828[LinkEnd] // For backward compatibility
+[LinkBegin_PlayGround.ru]https://www.playground.ru/a_plague_tale_innocence/cheat/a_plague_tale_innocence_trejner_7_1_00_1_07_steam_egs_gog_galaxy_i_piratki_hex-1673828[LinkEnd_PlayGround.ru]
+[LinkBegin_NexusMods]<nolink>[LinkEnd_NexusMods]
 Changes:
-[ChangesBegin_EN][ChangesEnd_EN]
-[ChangesBegin_RU][ChangesEnd_RU]
+[ChangesBegin_EN]***Update: 07/31/2024 (version 1.2)***<n>Fixed:<n>◦ Bug in the "Infinite torch" function due to which it was impossible to extinguish torches with Extinguis.<n><n>***Update: 06/13/2024 (version 1.1)***<n>Added:<n>◦ The "Free items craft" function;<n>◦ Possibility of autoloading of saved functions when finding a game process. To enable this option go to the trainer settings window (disabled by default);<n>◦ Notifications during autoload as well as when manually saving/loading saved functions. You can disable them by selecting "Don't show again" in the notification.<n>Changed:<n>◦ The F12 key can no longer be assigned as a hotkey unless combined with Alt or Ctrl.[ChangesEnd_EN]
+[ChangesBegin_RU]***Обновление: 31.07.2024 (версия 1.2)***<n>Исправлено:<n>◦ Ошибка в функции "Бесконечный факел", из-за которой невозможно было тушить факелы с помощью Экстингуиса.<n><n>***Обновление: 13.06.2024 (версия 1.1)***<n>Добавлено:<n>◦ Функция "Свободное создание предметов";<n>◦ Возможность автозагрузки сохраненных функций при нахождении процесса игры. Для включения этого параметра перейдите в окно настроек трейнера (по умолчанию – отключен);<n>◦ Уведомления при автозагрузке, а также при ручном сохранении/загрузке сохраненных функций. Вы можете отключить их, выбрав в уведомлении "Больше не показывать".<n>Изменено:<n>◦ Клавишу F12 больше нельзя назначить, как горячую, если только в комбинации с Alt или Ctrl.[ChangesEnd_RU]
