@@ -5,8 +5,25 @@ Link:
 [LinkBegin_NexusMods]https://www.nexusmods.com/assassinscreed/mods/80?tab=files[LinkEnd_NexusMods]
 Changes:
 [ChangesBegin_EN]
-***Update: 09/17/2024 (version 1.5)***<n>Fixed:<n>◦ Bug in the "Fast movement speed" function due to which the Left Ctrl and Space keys could be disabled when using the "No clip mode" function.<n>Added:<n>◦ The "Freeze everyone in place" function.<n>Changed:<n>◦ The "Invisibility" function has been reworked. The player is not noticed by guards standing guard, archers on the roof, guards rescuing townspeople and drunkards;<n>◦ The "Fast movement speed" function affects the player when he climbs the stairs;<n>◦ The "Teleport to custom marker" function has been reworked. The teleport works stably and no longer throws the player upward in some cases.<n><n>
-***Update: 07/27/2024 (version 1.4)***<n>The trainer has been completely reworked.<n>Fixed:<n>◦ Bug in the "Invulnerability" function due to which enemies did not receive damage when falling;<n>◦ Bug in the "Invisibility" function due to which eavesdropping quests could become impassable;<n>◦ Bug in the "Teleport to custom marker" function due to which the teleport could not work in some memory sequences.<n>Added:<n>◦ The "No clip mode" function.<n>Changed:<n>◦ The "Stop countdown timer" function. When you turn off the function the timer will immediately resume instead of remaining frozen until the game is minimized;<n>◦ The "Fast movement speed" function also affects Desmond;<n>◦ The "Teleport to custom marker" function. Teleport also works using icons on the map.<n><n>
+***Update: 09/17/2024 (version 1.5)***
+Fixed:
+◦ Bug in the "Fast movement speed" function due to which the Left Ctrl and Space keys could be disabled when using the "No clip mode" function.<n>Added:<n>◦ The "Freeze everyone in place" function.<n>Changed:<n>◦ The "Invisibility" function has been reworked. The player is not noticed by guards standing guard, archers on the roof, guards rescuing townspeople and drunkards;<n>◦ The "Fast movement speed" function affects the player when he climbs the stairs;
+◦ The "Teleport to custom marker" function has been reworked. The teleport works stably and no longer throws the player upward in some cases.
+
+
+***Update: 07/27/2024 (version 1.4)***
+The trainer has been completely reworked.
+Fixed:
+◦ Bug in the "Invulnerability" function due to which enemies did not receive damage when falling;
+◦ Bug in the "Invisibility" function due to which eavesdropping quests could become impassable;
+◦ Bug in the "Teleport to custom marker" function due to which the teleport could not work in some memory sequences.
+Added:
+◦ The "No clip mode" function.
+Changed:
+◦ The "Stop countdown timer" function. When you turn off the function the timer will immediately resume instead of remaining frozen until the game is minimized;<n>◦ The "Fast movement speed" function also affects Desmond;
+◦ The "Teleport to custom marker" function. Teleport also works using icons on the map.
+
+
 ***Update: 05/29/2024 (version 1.3)***<n>Fixed:<n>◦ Bug with text display on high-resolution monitors.<n>Changed:<n>◦ General optimization of the trainer.<n><n>
 ***Update: 05/29/2024 (version 1.2)***<n>Fixed:<n>◦ Bug with the Delete hotkey.<n><n>
 ***Update: 05/19/2024 (version 1.1)***<n>Changed:<n>◦ The "Invulnerability" function.
