@@ -29,7 +29,8 @@ Changed:
 ◦ The "Invulnerability" function. No damage animation;
 ◦ The "Low enemies health" function. Enemies immediately have low health after taking damage;
 ◦ The "No notoriety" function. The current notoriety is instantly reset to zero;
-◦ The "No armor break" function;<n>◦ The "Infinite allies health" function. Allies do not take damage from falling from heights;
+◦ The "No armor break" function;
+◦ The "Infinite allies health" function. Allies do not take damage from falling from heights;
 ◦ The "Teleport to custom marker" function;
 ◦ The "Kill civilians without desynchronization" function.
 
@@ -57,15 +58,17 @@ Changed:
 ◦ Ошибка в функции "Остановить таймер обратного отсчета", из-за которой было влияние на другие таймеры, не относящимся к таймерам заданий и слежки;
 ◦ Ошибка в функции "Низкое здоровье врагов", из-за которой функция не влияла на некоторых врагов.
 Добавлено:
-◦ Функция "Бесконечный таймер в гробнице ассасина";
+◦ Функция "Остановить таймер в гробнице ассасина";
 ◦ Функция "Увеличить время суток (+1 час)";
 ◦ Функция "Уменьшить время суток (-1 час)";
 ◦ Функция "Режим "No clip"";
 ◦ Функция "Заморозить всех на месте";
 ◦ Функция "Быстрый обыск тел/сокровищ";
 ◦ Функция "Максимальная шкала здоровья";
-◦ Функция "Бесконечное здоровье повозки";<n>◦ Функция "Бесконечное здоровье летающей машины";
-◦ Функция "Бесконечная задержка дыхания под водой";<n>◦ Функция "Показать коллекционные предметы".
+◦ Функция "Бесконечное здоровье повозки";
+◦ Функция "Бесконечное здоровье летающей машины";
+◦ Функция "Бесконечная задержка дыхания под водой";
+◦ Функция "Показать коллекционные предметы".
 Изменено:
 ◦ Функция "Неуязвимость". Нет анимации от урона;
 ◦ Функция "Низкое здоровье врагов". У врагов после получения урона здоровье сразу же становится низким;
