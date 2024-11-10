@@ -1,10 +1,16 @@
 # AC2
-Version: [VersionBegin]1.5[VersionEnd]
+Version: [VersionBegin]1.6[VersionEnd]
 Link:
-[LinkBegin_PlayGround.ru]https://www.playground.ru/assassins_creed_2/cheat/assassins_creed_2_trejner_34_1_01_steam_ubisoft_connect_i_piratki_hex-1117873[LinkEnd_PlayGround.ru]
+[LinkBegin_PlayGround.ru]https://www.playground.ru/assassins_creed_2/cheat/assassins_creed_2_trejner_35_1_01_steam_ubisoft_connect_i_piratki_hex-1117873[LinkEnd_PlayGround.ru]
 [LinkBegin_NexusMods]https://www.nexusmods.com/assassinscreedii/mods/171?tab=files[LinkEnd_NexusMods]
 Changes:
-[ChangesBegin_EN]***Update: 10/26/2024 (version 1.5)***
+[ChangesBegin_EN]***Update: 11/10/2024 (version 1.6)***
+Added:
+◦ The "No reload shoot" function.
+Changed:
+◦ The "Invisibility" function. Enemies will stop paying attention to you if you are in combat.
+
+***Update: 10/26/2024 (version 1.5)***
 Fixed:
 ◦ Bug in the "Stop countdown timer" function that could cause the function to not work on the Ubisoft Connect-version and some pirated versions of the game.
 
@@ -48,7 +54,13 @@ Changed:
 Changed:
 ◦ "Invulnerability" function.[ChangesEnd_EN]
 // ====================================================================================================
-[ChangesBegin_RU]***Обновление: 26.10.2024 (версия 1.5)***
+[ChangesBegin_RU]***Обновление: 10.11.2024 (версия 1.6)***
+Добавлено:
+◦ Функция "Стрельба без перезарядки".
+Изменено:
+◦ Функция "Невидимость". Враги перестанут обращать на вас внимание, если вы в состоянии боя.
+
+***Обновление: 26.10.2024 (версия 1.5)***
 Исправлено:
 ◦ Ошибка в функции "Остановить таймер обратного отсчета", из-за которой функция могла не работать на Ubisoft Connect-версии и на некоторых пиратских версиях игры.
 
