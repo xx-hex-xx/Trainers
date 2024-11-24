@@ -1,9 +1,147 @@
 # ACB
-Version: [VersionBegin]1.6[VersionEnd]
+Version: [VersionBegin]1.7[VersionEnd]
 Link:
-[LinkBegin_PlayGround.ru][LinkEnd_PlayGround.ru]
-[LinkBegin_NexusMods][LinkEnd_NexusMods]
+[LinkBegin_PlayGround.ru]https://www.playground.ru/assassins_creed_brotherhood/cheat/assassins_creed_brotherhood_trejner_45_1_03_steam_ubisoft_connect_i_piratki_hex-1212780[LinkEnd_PlayGround.ru]
+[LinkBegin_NexusMods]https://www.nexusmods.com/assassinscreedbrotherhood/mods/212?tab=files[LinkEnd_NexusMods]
 Changes:
-[ChangesBegin_EN][ChangesEnd_EN]
+[ChangesBegin_EN]***Update: 11/23/2024 (version 1.7)***
+Fixed:
+◦ The "Maximum health bar" function.
+
+
+***Update: 11/10/2024 (version 1.6)***
+The trainer has been completely reworked.
+Added:
+◦ The "Increase time of day (+1 hour)" function;
+◦ The "Decrease time of day (-1 hour)" function;
+◦ The "No clip mode" function;
+◦ The "Freeze everyone in place" function;
+◦ The "Fast bodies/treasures loot" function;
+◦ The "Maximum health bar" function;
+◦ The "No reload shoot" function;
+◦ The "Infinite underwater breath hold" function;
+◦ The "Full memory synchronization" function;
+◦ The "Arrow storm always available" function;
+◦ The "Unlock horse gallop" function.
+Changed:
+◦ The "Invulnerability" function. No animation from damage;
+◦ The "Low enemies health" function. Enemies' health immediately becomes low after receiving damage;
+◦ The "Stop countdown timer" function. Affects the timer in additional tasks in thieves' races;
+◦ The "No notoriety" function. Current notoriety is instantly reset to zero;
+◦ The "Infinite allies health" function. Allies do not take damage from falling from a height;
+◦ The "Teleport to custom marker" function;
+◦ The "Kill civilians without desynchronization" function.
+
+
+***Update: 06/08/2022 (version 1.5)***
+Fixed:
+◦ The "Infinite throwing knives" function;
+Fixed:
+◦ The "Infinite allies health" function.
+
+
+***Update: 06/04/2022 (version 1.4)***
+Changed:
+◦ The "Fast movement speed" function.
+
+
+***Update: 04/13/2022 (version 1.3)***
+Changed:
+◦ The "Invulnerability" function;
+◦ The "Teleport to custom marker" function.
+
+
+***Update: 04/01/2022 (version 1.2)***
+Changed:
+◦ The "Invulnerability" function;
+◦ The "Invisibility" function;
+◦ The "Kill civilians without desynchronization" function. Can kill with poison.
+
+
+***Update: 03/23/2022 (version 1.1)***
+Improved the compatibility of all functions.
+Added:
+◦ The "Fast contracts completion" function;
+◦ The "High contracts success odds" function;
+◦ The "Show collectibles" function;
+◦ The "Fast horse movement speed" function;
+◦ The "Stop virtual training stopwatch" function;
+◦ The "Get desynchronization" function.
+Fixed:
+◦ The "Fast assassin signal recharge" function.
+Changed:
+◦ The "Invulnerability" function;
+◦ The "Invisibility" function;
+◦ The "Infinite assassins skill points". You don't need to wait for your assassins to level up to get infinite skill points;
+◦ The "Teleport to custom marker" function. The teleport should always work.[ChangesEnd_EN]
 // ====================================================================================================
-[ChangesBegin_RU][ChangesEnd_RU]
+[ChangesBegin_RU]***Обновление: 23.11.2024 (версия 1.7)***
+Исправлено:
+◦ Функция "Максимальная шкала здоровья".
+
+
+***Обновление: 10.11.2024 (версия 1.6)***
+Трейнер полностью переработан.
+Добавлено:
+◦ Функция "Увеличить время суток (+1 час)";
+◦ Функция "Уменьшить время суток (-1 час)";
+◦ Функция "Режим "No clip"";
+◦ Функция "Заморозить всех на месте";
+◦ Функция "Быстрый обыск тел/сокровищ";
+◦ Функция "Максимальная шкала здоровья";
+◦ Функция "Стрельба без перезарядки";
+◦ Функция "Бесконечная задержка дыхания под водой";
+◦ Функция "Полная синхронизация воспоминания";
+◦ Функция "Град стрел доступен всегда";
+◦ Функция "Разблокировать галоп для коня".
+Изменено:
+◦ Функция "Неуязвимость". Нет анимации от урона;
+◦ Функция "Низкое здоровье врагов". У врагов после получения урона здоровье сразу же становится низким;
+◦ Функция "Остановить таймер обратного отсчета". Влияет на таймер в дополнительных задачах в гонках воров;
+◦ Функция "Нет известности". Текущая известность мгновенно обнуляется;
+◦ Функция "Бесконечное здоровье союзников". Союзники не получают урон от падения с высоты;
+◦ Функция "Телепортироваться к метке";
+◦ Функция "Убийство жителей без десинхронизации".
+
+
+***Обновление: 08.06.2022 (версия 1.5)***
+Исправлено:
+◦ Функция "Бесконечные метательные ножи";
+Исправлено:
+◦ Функция "Бесконечное здоровье союзников".
+
+
+***Обновление: 04.06.2022 (версия 1.4)***
+Изменено:
+◦ Функция "Быстрая скорость перемещения".
+
+
+***Обновление: 13.04.2022 (версия 1.3)***
+Изменено:
+◦ Функция "Неуязвимость";
+◦ Функция "Телепортироваться к метке".
+
+
+***Обновление: 01.04.2022 (версия 1.2)***
+Изменено:
+◦ Функция "Неуязвимость";
+◦ Функция "Невидимость";
+◦ Функция "Убийство жителей без десинхронизации". Можно убивать с помощью яда.
+
+
+***Обновление: 23.03.2022 (версия 1.1)***
+Улучшена совместимость всех функций.
+Добавлено:
+◦ Функция "Быстрое завершение контрактов";
+◦ Функция "Высокая вероятность успеха контрактов";
+◦ Функция "Показать коллекционные предметы";
+◦ Функция "Быстрая скорость перемещения коня";
+◦ Функция "Остановить секундомер вирт. обучения";
+◦ Функция "Получить десинхронизацию".
+Исправлено:
+◦ Функция "Быстрая перезарядка вызовов ассасинов".
+Изменено:
+◦ Функция "Неуязвимость";
+◦ Функция "Невидимость";
+◦ Функция "Бесконечные очки навыков ассасинов". Для получения бесконечных очков навыков не нужно ждать повышения уровня ассасинов;
+◦ Функция "Телепортироваться к метке". Телепорт должен работать всегда.[ChangesEnd_RU]
