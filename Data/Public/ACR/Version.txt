@@ -1,9 +1,97 @@
 # ACR
-Version: [VersionBegin]1.5[VersionEnd]
+Version: [VersionBegin]1.6[VersionEnd]
 Link:
-[LinkBegin_PlayGround.ru][LinkEnd_PlayGround.ru]
-[LinkBegin_NexusMods][LinkEnd_NexusMods]
+[LinkBegin_PlayGround.ru]https://www.playground.ru/assassins_creed_revelations/cheat/assassins_creed_revelations_trejner_48_1_03_steam_ubisoft_connect_i_piratki_hex-1213019[LinkEnd_PlayGround.ru]
+[LinkBegin_NexusMods]https://www.nexusmods.com/assassinscreedrevelations/mods/150?tab=files[LinkEnd_NexusMods]
 Changes:
-[ChangesBegin_EN][ChangesEnd_EN]
+[ChangesBegin_EN]***Update: 11/24/2024 (version 1.6)***
+Fixed:
+◦ The "Invisibility" function. Deactivates correctly.
+
+***Update: 11/24/2024 (version 1.5)***
+The trainer has been completely reworked.
+Added:
+◦ The "Increase time of day (+1 hour)" function;
+◦ The "Decrease time of day (-1 hour)" function;
+◦ The "No clip mode" function;
+◦ The "Freeze everyone in place" function;
+◦ The "Fast bodies/treasures loot" function;
+◦ The "Maximum health bar" function;
+◦ The "No reload shoot" function;
+◦ The "Infinite underwater breath hold" function;
+◦ The "Infinite den health" function;
+◦ The "Infinite den cannons" function;
+◦ The "Maximum den defense score" function;
+◦ The "Arrow storm always available" function;
+◦ The "Full memory synchronization" function.
+Changed:
+◦ The "Invulnerability" function. No animation from damage;
+◦ The "Invisibility" function;
+◦ The "Low enemies health" function. Enemies' health immediately becomes low after receiving damage;
+◦ The "No notoriety" function. Current notoriety is instantly reset to zero;
+◦ The "Infinite allies health" function. Allies do not take damage from falling from a height;
+◦ The "Teleport to custom marker" function;
+◦ The "Kill civilians without desynchronization" function.
+
+***Update: 06/06/2022 (version 1.4)***
+Changed:
+◦ The "Fast movement speed" function.
+
+***Update: 04/21/2022 (version 1.3)***
+Fixed:
+◦ The "Fast assassins level up" function.
+
+***Update: 04/12/2022 (version 1.2)***
+Changed:
+◦ The "Invulnerability" function;
+◦ The "Teleport to custom marker" function.
+
+***Update: 04/04/2022 (version 1.1)***
+Fixed:
+◦ The "Show collectibles" function.[ChangesEnd_EN]
 // ====================================================================================================
-[ChangesBegin_RU][ChangesEnd_RU]
+[ChangesBegin_RU]***Обновление: 24.11.2024 (версия 1.6)***
+Исправлено:
+◦ Функция "Невидимость". Деактивируется корректно.
+
+***Обновление: 24.11.2024 (версия 1.5)***
+Трейнер полностью переработан.
+Добавлено:
+◦ Функция "Увеличить время суток (+1 час)";
+◦ Функция "Уменьшить время суток (-1 час)";
+◦ Функция "Режим "No clip"";
+◦ Функция "Заморозить всех на месте";
+◦ Функция "Быстрый обыск тел/сокровищ";
+◦ Функция "Максимальная шкала здоровья";
+◦ Функция "Стрельба без перезарядки";
+◦ Функция "Бесконечная задержка дыхания под водой";
+◦ Функция "Бесконечное здоровье базы";
+◦ Функция "Бесконечные пушки базы";
+◦ Функция "Максимальный счет обороны базы";
+◦ Функция "Град стрел доступен всегда";
+◦ Функция "Полная синхронизация воспоминания".
+Изменено:
+◦ Функция "Неуязвимость". Нет анимации от урона;
+◦ Функция "Невидимость";
+◦ Функция "Низкое здоровье врагов". У врагов после получения урона здоровье сразу же становится низким;
+◦ Функция "Нет известности". Текущая известность мгновенно обнуляется;
+◦ Функция "Бесконечное здоровье союзников". Союзники не получают урон от падения с высоты;
+◦ Функция "Телепортироваться к метке";
+◦ Функция "Убийство жителей без десинхронизации".
+
+***Обновление: 06.06.2022 (версия 1.4)***
+Изменено:
+◦ Функция "Быстрая скорость перемещения".
+
+***Обновление: 21.04.2022 (версия 1.3)***
+Исправлено:
+◦ Функция "Быстрое повышение уровней ассасинов".
+
+***Обновление: 12.04.2022 (версия 1.2)***
+Изменено:
+◦ Функция "Неуязвимость";
+◦ Функция "Телепортироваться к метке".
+
+***Обновление: 04.04.2022 (версия 1.1)***
+Исправлено:
+◦ Функция "Показать коллекционные предметы".[ChangesEnd_RU]
