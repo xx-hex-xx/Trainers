@@ -1,5 +1,5 @@
-# ACR
-Version: [VersionBegin]1.5[VersionEnd]
+# ACB
+Version: [VersionBegin]1.6[VersionEnd]
 Link:
 [LinkBegin_PlayGround.ru][LinkEnd_PlayGround.ru]
 [LinkBegin_NexusMods][LinkEnd_NexusMods]
