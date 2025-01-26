@@ -4,7 +4,7 @@ Link:
 [LinkBegin_PlayGround.ru]https://www.playground.ru/assassins_creed_3/cheat/assassins_creed_3_remastered_trejner_47_1_03_steam_ubisoft_connect_i_piratki_hex-1191225[LinkEnd_PlayGround.ru]
 [LinkBegin_NexusMods]https://www.nexusmods.com/assassinscreediiiremastered/mods/99?tab=files[LinkEnd_NexusMods]
 Changes:
-[ChangesBegin_EN]***Update: 08/01/2025 (version 1.5)***
+[ChangesBegin_EN]***Update: 01/08/2025 (version 1.5)***
 The trainer has been completely reworked.
 Added:
 ◦ The "No notoriety" function;
