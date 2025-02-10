@@ -1,10 +1,16 @@
 # AC2
-Version: [VersionBegin]1.6[VersionEnd]
+Version: [VersionBegin]1.7[VersionEnd]
 Link:
 [LinkBegin_PlayGround.ru]https://www.playground.ru/assassins_creed_2/cheat/assassins_creed_2_trejner_35_1_01_steam_ubisoft_connect_i_piratki_hex-1117873[LinkEnd_PlayGround.ru]
-[LinkBegin_NexusMods]https://www.nexusmods.com/assassinscreedii/mods/171?tab=files[LinkEnd_NexusMods]
+[LinkBegin_NexusMods]<nolink>[LinkEnd_NexusMods]
 Changes:
-[ChangesBegin_EN]***Update: 11/10/2024 (version 1.6)***
+[ChangesBegin_EN]***Update: 02/10/2025 (version 1.7)***
+Fixed:
+◦ The "Infinite money" function. Codex pages are now collected correctly.
+Changed:
+◦ The "Infinite money" function. To avoid the Codex page collection bug the function will only work when you spend money, not always as it did before.
+
+***Update: 11/10/2024 (version 1.6)***
 Added:
 ◦ The "No reload shoot" function.
 Changed:
@@ -54,7 +60,13 @@ Changed:
 Changed:
 ◦ "Invulnerability" function.[ChangesEnd_EN]
 // ====================================================================================================
-[ChangesBegin_RU]***Обновление: 10.11.2024 (версия 1.6)***
+[ChangesBegin_RU]***Обновление: 10.02.2025 (версия 1.7)***
+Исправлено:
+◦ Функция "Бесконечные деньги". Страницы Кодекса теперь собираются корректно.
+Изменено:
+◦ Функция "Бесконечные деньги". Во избежание бага со сбором страниц Кодекса функция будет работать только при трате денег, а не всегда, как было до этого.
+
+***Обновление: 10.11.2024 (версия 1.6)***
 Добавлено:
 ◦ Функция "Стрельба без перезарядки".
 Изменено:
