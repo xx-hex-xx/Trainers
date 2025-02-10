@@ -2,7 +2,7 @@
 Version: [VersionBegin]1.7[VersionEnd]
 Link:
 [LinkBegin_PlayGround.ru]https://www.playground.ru/assassins_creed_2/cheat/assassins_creed_2_trejner_35_1_01_steam_ubisoft_connect_i_piratki_hex-1117873[LinkEnd_PlayGround.ru]
-[LinkBegin_NexusMods]<nolink>[LinkEnd_NexusMods]
+[LinkBegin_NexusMods]https://www.nexusmods.com/assassinscreedii/mods/171/?tab=files[LinkEnd_NexusMods]
 Changes:
 [ChangesBegin_EN]***Update: 02/10/2025 (version 1.7)***
 Fixed:
