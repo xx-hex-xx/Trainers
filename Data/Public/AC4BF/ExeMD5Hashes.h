@@ -21,5 +21,5 @@ const QString strExeMD5Hash_Pirated_9 = "";
 const QString strExeMD5Hash_Pirated_10 = "";
 
 // ====[ ADDITIONALS ]===========================================================
-[strExeMD5Hash_01]b066647dff1ae33d459572b94102231d[strExeMD5Hash] // old license 1.07 (02.2018)
-[strExeMD5Hash_02]6fbea697e557f388d243eb1212328782[strExeMD5Hash] // old license 1.07 (03.2014)
+[strExeMD5Hash_1]b066647dff1ae33d459572b94102231d[strExeMD5Hash] // old license 1.07 (02.2018)
+[strExeMD5Hash_2]6fbea697e557f388d243eb1212328782[strExeMD5Hash] // old license 1.07 (03.2014)
