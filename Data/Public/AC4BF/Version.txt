@@ -1,1 +1,8 @@
+# AC4BF
+[Version]1.6[Version]
+[Link_PlayGround.ru]<nolink>[Link]
+[Link_NexusMods]<nolink>[Link]
 
+[Changes_EN][Changes]
+// ====================================================================================================
+[Changes_RU][Changes]
