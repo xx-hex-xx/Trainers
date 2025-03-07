@@ -3,12 +3,14 @@ Release date: <DATE>.
 
 Workability tested on the following versions:
 -Licenses:
-◦ Steam: 1.03;
-◦ Ubisoft Connect: 1.03.
+◦ Steam: 1.07 & 1.08;
+◦ Ubisoft Connect: 1.07 & 1.08.
 -Pirated:
 ◦ Repack by xatab: 1.07;
-◦ Repack by FitGirl: 1.08;
-◦ Repack by =nemos=: 1.07.
+◦ Repack by dixen18: 1.08;
+◦ Repack by Decepticon: 1.08;
+◦ Repack by Wanterlude: 1.08;
+◦ Repack by DODI: 1.07.
 
 <SEARCHED PROCESSES>
 
@@ -27,24 +29,40 @@ Function notes:
 ◦ Invulnerability – health is always maximum, falls from a great height are safe, no damage animation;
 ◦ Infinite money – sets the amount of money to 100,000;
 ◦ Infinite bullets – the current number of bullets does not decrease;
-◦ Infinite arrows – the current number of arrows does not decrease;
+◦ Infinite throwing knives – the current number of throwing knives does not decrease;
 ◦ Infinite smoke bombs – the current number of smoke bombs does not decrease;
 ◦ Infinite rope darts – the current number of rope darts does not decrease;
-◦ Infinite poison darts – the current number of poison darts does not decrease;
-◦ Infinite trip mines – the current number of trip mines does not decrease;
-◦ Infinite snares – the current number of snares does not decrease;
-◦ Infinite bait/raw meat – the current amount of bait/raw meat does not decrease;
-◦ Invisibility – enemies and beggars will not pay attention to you;
+◦ Infinite sleep darts – the current number of sleep darts does not decrease;
+◦ Infinite berserk darts – the current number of berserk darts does not decrease;
+◦ Infinite firecrackers – the current number of firecrackers does not decrease;
+◦ Infinite small lead shots – the current number of small lead shots does not decrease;
+◦ Invisibility – enemies and animals will not pay attention to you. While the function is activated you will not be able to hire dancers or pirates;
 ◦ Stop countdown timer – the current timer time in main memories, in additional memories tasks and during stalkering will not decrease. To avoid bugs in mission use only when necessary, do not keep the function permanently activated;
 ◦ Fast movement speed – sets the movement speed to 1.75;
 ◦ High jump – sets the jump height to 7.25;
 ◦ Teleport to custom marker – sets the teleport height to 120.25. Out of water the teleport may not work in which case you can use the "No clip mode" function;
 ◦ No clip mode – to control the character use the W and S keys to move along the Y-axis (forward-backward), A and D to move along the X-axis (left-right). To go up use the Spacebar key, to go down use the Left Ctrl key. It is recommended to use it together with the "Invulnerability" function!;
-◦ Fast horse movement speed – sets the horse's movement speed to 2.25;
 ◦ Infinite ship health – the ship's health is always maximum;
-◦ Fast assassins level up – assassins will be awarded 1,100 XP after completing their contracts;
-◦ Fast contracts completion – the duration of each contract is set to five seconds. The function does not work on contracts that are already in progress;
-◦ High contracts success odds – the success odds of each contract is always 100 %. The function does not work on contracts that are already in progress;
-◦ Infinite items sale – after selling items through the shop they do not disappear;
-◦ Full memory synchronization – allows you to achieve 100 % synchronization in any memory. If you have already performed an action that will not result in full synchronization activate the function and keep it activated until you get a notification that 100 % synchronization has been achieved;
-◦ Free items craft – allows craft items using the accounting book without having enough resources and/or not having the required level of artisans.
+◦ Ship invisibility – enemy ships will not pay attention to you;
+◦ Infinite metal – sets the amount of metal to 2,500;
+◦ Infinite wood – sets the amount of wood to 2,500;
+◦ Infinite sugar – sets the amount of sugar to 2,500;
+◦ Infinite cloth – sets the amount of cloth to 2,500;
+◦ Infinite rum – sets the amount of rum to 2,500;
+◦ Infinite crew – sets the amount of crew to 40;
+◦ Infinite heavy shots ammo – the current amount of heavy shots ammo does not decrease;
+◦ Infinite mortars ammo – the current amount of mortars ammo does not decrease;
+◦ Infinite fire barrels – the current number of fire barrels does not decrease;
+◦ Infinite harpoons – the current number of harpoons does not decrease;
+◦ Infinite swivel guns ammo – the current amount of swivel guns ammo does not decrease when boarding the ship;
+◦ Show collectibles – also shows the location of sticky notes on the map in Abstergo;
+◦ Full memory synchronization – allows you to achieve 100% synchronization in any memory. If you have already performed an action that will not result in full synchronization activate the function and keep it activated until you get a notification that 100% synchronization has been achieved;
+◦ Free items craft – allows you to craft items for Edward without having the required number of resources and without the required conditions;
+◦ Low animals health – also affects the health of prey when hunting with a harpoon;
+◦ Infinite berserk dart effect duration – visually the timer may be decreasing but technically it will be infinite;
+◦ Fast berserk dart effect – the victim immediately dies when hit by a dart;
+◦ Infinite Kenway's fleet resources – In order for the number of resources to be saved you need to spend or earn them;
+◦ Fast naval missions completion – the duration of each naval mission is set to five seconds. The function does not work on already running naval missions. Sometimes in order to see the effect you need to re-enter the Kenway's fleet menu;
+◦ High naval missions success odds – the success odds of each naval mission is always 100%. The function does not work on already running naval missions;
+◦ Infinite naval missions ships health  – the ship's health does not decrease after completing a naval mission. Does not work in naval combat;
+◦ No resource requirement in naval missions – the number of resources and the size of the ship's cargo do not matter to start any naval mission. Sometimes in order to see the effect you need to re-enter the Kenway's fleet menu.
