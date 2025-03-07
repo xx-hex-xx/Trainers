@@ -22,3 +22,4 @@ const QString strExeMD5Hash_Pirated_9 = "";
 const QString strExeMD5Hash_Pirated_10 = "";
 
 // ====[ ADDITIONALS ]===========================================================
+[strExeMD5Hash_1]352b341e5292d4be6e42419a00b9e707[strExeMD5Hash] // Steam & Uplay 1.08, window mode (07.2023)
