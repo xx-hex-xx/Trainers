@@ -1,8 +1,170 @@
 # AC4BF
 [Version]1.6[Version]
-[Link_PlayGround.ru]<nolink>[Link]
+[Link_PlayGround.ru]https://www.playground.ru/assassins_creed_4_black_flag/cheat/assassins_creed_4_black_flag_trejner_46_1_07_uplay_steam_upd_08_07_2022_hex-1123321[Link]
 [Link_NexusMods]<nolink>[Link]
 
-[Changes_EN][Changes]
+[Changes_EN]***Update: 03/07/2025 (version 1.6)***
+The trainer has been completely reworked.
+Added:
+◦ "Increase time of day (+1 hour)" function;
+◦ "Decrease time of day (-1 hour)" function;
+◦ The "No clip mode"  function;
+◦ The "Fast bodies loot" function;
+◦ The "Fast steal" function;
+◦ The "Infinite swivel guns ammo" function;
+◦ The "Infinite hunting goods sale" function;
+◦ The "Show collectibles" function;
+◦ The "Full memory synchronization" function;
+◦ The "Free items craft" function;
+◦ The "Low animals health" function;
+◦ The "Infinite berserk dart effect duration" function;
+◦ The "Fast berserk dart effect" function;
+◦ The "Using eagle vision in sprint" function;
+◦ The "Infinite Kenway's fleet resources" function;
+◦ The "Fast naval missions completion" function;
+◦ The "High naval missions success odds" function;
+◦ The "Infinite naval missions ships health" function;
+◦ The "No naval missions resources trade requirement" function;
+Fixed:
+◦ The "Low enemy ships health" function. The player's ship's health will no longer drop to the minimum in some cases.
+Changed:
+◦ The "Invulnerability" function. No animation from damage;
+◦ The "Invisibility" function. During combat enemies will lose sight of you;
+◦ The "Low enemies health" function. After receiving damage enemies' health immediately becomes low;
+◦ The "Infinite allies health" function. Affects all allies;
+◦ The "Decrease ship notoriety" and "Increase ship notoriety" functions have been reworked into the "No ship notoriety" and "Maximum ship notoriety" functions.
+◦ The "Teleport to custom marker" function. The teleport now works always and correctly;
+◦ The "Kill civilians without desynchronization" function;
+◦ The "Infinite sleep dart effect duration" function. Now affects animals too;
+◦ The "No reload shoot" function. Also affects when finishing off enemies;
+◦ The "Low enemy ships health" function. Affects all enemies;
+◦ The "Infinite ally ships health" function. Affects all allies.
+Removed:
+◦ The "Fast walk" function. The "Fast movement speed" function is a good replacement it.
+
+***Update: 07/08/2022 (version 1.5)***
+Fixed:
+◦ The "Infinite ship health" function. The player will no longer walk underwater;
+◦ The "Low enemy ships health" function. After fast travel the player's ship's health will not drop to the minimum.
+Changed:
+◦ The "Ship invisibility" function;
+◦ The "Time of day" function. The time of day can be changed during missions.
+
+***Update: 07/06/2022 (version 1.4)***
+Fixed bugs when disabling some functions.
+Added:
+◦ The "Fast walk" function.
+Fixed:
+◦ The "Ship invisibility" function. The game does not crash if the "Infinite ship health" function has not been activated at least once.
+
+***Update: 07/01/2022 (version 1.3)***
+Improved trainer compatibility with Ubisoft Connect version and pirated version of the game with cracks from 3DM and RELOADED.
+
+***Update: 06/30/2022 (version 1.2)***
+Added:
+◦ The "Infinite ally ships health" function;
+◦ The "Get desynchronization" function.
+Fixed:
+◦ The "Kill civilians without desynchronization" function;
+◦ The "Stop countdown timer" function. Enemies will no longer stop attacking the player;
+◦ The "Infinite berserk darts" function. The game no longer crashes when using it;
+◦ The "Decrease ship notoriety" function. The game no longer crashes when using it.
+Changed:
+◦ The "Invulnerability" function;
+◦ The "Infinite allies health" function;
+◦ The "Kill civilians without desynchronization" function;
+◦ The "Low enemies health" function;
+◦ The "Teleport to custom marker" function.
+
+***Update: 11/24/2021 (version 1.1)***
+Added:
+◦ The "Infinite ship resources sale" function;
+◦ The "Low enemy ships health" function;
+◦ The "Kill civilians without desynchronization".
+Fixed:
+◦ The "Infinite ship health" function. Should work correctly.
+Changed:
+◦ The "Invulnerability" function. Should work everywhere.[Changes]
 // ====================================================================================================
-[Changes_RU][Changes]
+[Changes_RU]***Обновление: 07.03.2025 (версия 1.6)***
+Трейнер полностью переработан.
+Добавлено:
+◦ Функция "Увеличить время суток (+1 час)";
+◦ Функция "Уменьшить время суток (-1 час)";
+◦ Функция "Режим "No clip"";
+◦ Функция "Быстрый обыск тел";
+◦ Функция "Быстрая кража";
+◦ Функция "Бесконечные боеприпасы фальконетов";
+◦ Функция "Бесконечная продажа охотничьих трофеев";
+◦ Функция "Показать коллекционные предметы";
+◦ Функция "Полная синхронизация воспоминания";
+◦ Функция "Свободное создание предметов";
+◦ Функция "Низкое здоровье животных";
+◦ Функция "Бесконечное действие яда берсерка";
+◦ Функция "Быстрый эффект от яда берсерка";
+◦ Функция "Использование орлиного зрения при беге";
+◦ Функция "Бесконечные ресурсы флота Кенуэя";
+◦ Функция "Быстрое завершение морских заданий";
+◦ Функция "Высокая вероятность успеха морских заданий";
+◦ Функция "Беск. здоровье кораблей в морских заданиях";
+◦ Функция "Без требования к ресурсам в морских заданиях";
+Исправлено:
+◦ Функция "Низкое здоровье вражеских кораблей". Здоровье корабля игрока больше не будет опускаться до минимального в некоторых случаях.
+Изменено:
+◦ Функция "Неуязвимость". Нет анимации от урона;
+◦ Функция "Невидимость". Во время боя враги потеряют вас из виду;
+◦ Функция "Низкое здоровье врагов". У врагов после получения урона здоровье сразу же становится низким;
+◦ Функция "Бесконечное здоровье союзников". Влияет на всех союзников;
+◦ Функции "Уменьшить известность корабля" и "Увеличить известность корабля" переделаны в функции "Нет известности корабля" и в "Максимальная известность корабля" соответственно.
+◦ Функция "Телепортироваться к метке". Телепорт работает теперь работает всегда и корректно;
+◦ Функция "Убийство жителей без десинхронизации";
+◦ Функция "Бесконечное действие дротика со снотворным". Теперь влияет на животных тоже;
+◦ Функция "Стрельба без перезарядки". Влияет также при добиваниях врагов;
+◦ Функция "Низкое здоровье вражеских кораблей". Влияет на всех врагов;
+◦ Функция "Бесконечное здоровье кораблей союзников". Влияет на всех союзников.
+Удалено:
+◦ Функция "Быстрая ходьба". Функция "Быстрая скорость перемещения" отлично ее замещает.
+
+***Обновление: 08.07.2022 (версия 1.5)***
+Исправлено:
+◦ Функция "Бесконечное здоровье корабля". Персонаж больше не будет ходить под водой;
+◦ Функция "Низкое здоровье вражеских кораблей". После быстрого перемещения здоровье корабля игрока не будет опускаться до минимального.
+Изменено:
+◦ Функция "Невидимость корабля";
+◦ Функция "Время суток". Время суток можно менять во время заданий.
+
+***Обновление: 06.07.2022 (версия 1.4)***
+Исправлены ошибки при отключении некоторых функций.
+Добавлено:
+◦ Функция "Быстрая ходьба".
+Исправлено:
+◦ Функция "Невидимость корабля". Игра не вылетает, если функция "Бесконечное здоровье корабля" не была активирована хотя бы раз.
+
+***Обновление: 01.07.2022 (версия 1.3)***
+Улучшена совместимость трейнера с версией Ubisoft Connect и пиратской версией игры с кряками от 3DM и RELOADED.
+
+***Обновление: 30.06.2022 (версия 1.2)***
+Добавлено:
+◦ Функция "Бесконечное здоровье кораблей союзников";
+◦ Функция "Получить десинхронизацию".
+Исправлено:
+◦ Функция "Убийство жителей без десинхронизации";
+◦ Функция "Остановить таймер обратного отсчета". Враги больше не будут переставать атаковать игрока;
+◦ Функция "Бесконечные дротики (яд берсерка)". При ее использовании игра больше не вылетает;
+◦ Функция "Уменьшить уровень известности корабля". При ее использовании игра больше не вылетает.
+Изменено:
+◦ Функция "Неуязвимость";
+◦ Функция "Бесконечное здоровье союзников";
+◦ Функция "Убийство жителей без десинхронизации";
+◦ Функция "Низкое здоровье врагов";
+◦ Функция "Телепортироваться к метке".
+
+***Обновление: 24.11.2021 (версия 1.1)***
+Добавлено:
+◦ Функция "Бесконечная продажа ресурсов корабля";
+◦ Функция "Низкое здоровье вражеских кораблей";
+◦ Функция "Убийство жителей без синхронизации".
+Исправлено:
+◦ Функция "Бесконечное здоровье корабля". Должна работать корректно.
+Изменено:
+◦ Функция "Неуязвимость". Должна работать везде.[Changes]
