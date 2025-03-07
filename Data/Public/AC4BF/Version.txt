@@ -1,6 +1,6 @@
 # AC4BF
-[Version]1.7[Version]
-[Link_PlayGround.ru]https://www.playground.ru/assassins_creed_4_black_flag/cheat/assassins_creed_4_black_flag_trejner_46_1_07_uplay_steam_upd_08_07_2022_hex-1123321[Link]
+[Version]1.6[Version]
+[Link_PlayGround.ru]<nolink>[Link]
 [Link_NexusMods]<nolink>[Link]
 
 [Changes_EN]***Update: 03/07/2025 (version 1.6)***
