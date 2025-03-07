@@ -1,6 +1,6 @@
 // |||||||||||||||||||||||||||||||WINDOWS VERSIONS|||||||||||||||||||||||||||||||
 // ====[ WINDOWS 11 ]============================================================
-[WindowsVersion_1]22000-11[WindowsVersion] // Windows 11, Version 21H2	10.0	22000	2021-10-04
-[WindowsVersion_2]22621-11[WindowsVersion] // Windows 11, Version 22H2	10.0	22621	2022-09-20
-[WindowsVersion_3]22631-11[WindowsVersion] // Windows 11, Version 23H2	10.0	22631	2023-10-31
-[WindowsVersion_4]26100-11[WindowsVersion] // Windows 11, Version 24H2	10.0	26100	2024-10-01
+[WindowsVersion_1]22000-Windows 11 21H2[WindowsVersion] // Windows 11, Version 21H2	10.0	22000	2021-10-04
+[WindowsVersion_2]22621-Windows 11 22H2[WindowsVersion] // Windows 11, Version 22H2	10.0	22621	2022-09-20
+[WindowsVersion_3]22631-Windows 11 23H2[WindowsVersion] // Windows 11, Version 23H2	10.0	22631	2023-10-31
+[WindowsVersion_4]26100-Windows 11 24H2[WindowsVersion] // Windows 11, Version 24H2	10.0	26100	2024-10-01
