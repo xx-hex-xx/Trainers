@@ -1,9 +1,14 @@
 # AC4BF
-[Version]1.6[Version]
+[Version]1.7[Version]
 [Link_PlayGround.ru]https://www.playground.ru/assassins_creed_4_black_flag/cheat/assassins_creed_4_black_flag_trejner_64_1_07_1_08_steam_ubisoft_connect_i_piratki_hex-1123321[Link]
 [Link_NexusMods]https://www.nexusmods.com/assassinscreedivblackflag/mods/674[Link]
 
-[Changes_EN]***Update: 03/07/2025 (version 1.6)***
+[Changes_EN]***Update: 03/16/2025 (version 1.7)***
+– Fixed:
+◦ The "Infinite harpoons" function. Didn't work unless the "Infinite fire barrels" function was activated;
+◦ Game crashes when activating the functions: "Infinite metal", "Infinite wood", "Infinite sugar", "Infinite cloth", "Infinite rum" and "Infinite drew" if the "Invulnerability", "Invisibility" or "Get desynchronization" functions were not previously activated.
+
+***Update: 03/07/2025 (version 1.6)***
 The trainer has been completely reworked.
 – Added:
 ◦ The "Increase time of day (+1 hour)" function;
@@ -86,7 +91,12 @@ Improved trainer compatibility with Ubisoft Connect version and pirated version 
 – Changed:
 ◦ The "Invulnerability" function. Should work everywhere.[Changes]
 // ====================================================================================================
-[Changes_RU]***Обновление: 07.03.2025 (версия 1.6)***
+[Changes_RU]***Обновление: 16.03.2025 (версия 1.7)***
+– Исправлено:
+◦ Функция "Бесконечные гарпуны". Не работала, только если не была активирована функция "Бесконечные зажигательные снаряды";
+◦ Вылет из игры при активации функций: "Бесконечный металл", "Бесконечное дерево", "Бесконечный сахар", "Бесконечная ткань", "Бесконечный ром" и "Бесконечное количество экипажа", если ранее не были активированы функции "Неуязвимость", "Невидимость" или "Получить десинхронизацию".
+
+***Обновление: 07.03.2025 (версия 1.6)***
 Трейнер полностью переработан.
 – Добавлено:
 ◦ Функция "Увеличить время суток (+1 час)";
