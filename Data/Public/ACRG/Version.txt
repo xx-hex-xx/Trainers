@@ -1,8 +1,0 @@
-# ACRG
-[Version]1.2[Version]
-[Link_PlayGround.ru][Link]
-[Link_NexusMods][Link]
-
-[Changes_EN][Changes]
-// ====================================================================================================
-[Changes_RU][Changes]
