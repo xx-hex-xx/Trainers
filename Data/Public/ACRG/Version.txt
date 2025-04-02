@@ -1,8 +1,86 @@
 # ACRG
 [Version]1.2[Version]
-[Link_PlayGround.ru][Link]
-[Link_NexusMods][Link]
 
-[Changes_EN][Changes]
+[Link_PlayGround.ru]https://www.playground.ru/assassins_creed_rogue/cheat/assassins_creed_rogue_trejner_64_1_1_0_steam_ubisoft_connect_i_piratki_hex-1141183[Link]
+[Link_NexusMods]https://www.nexusmods.com/assassinscreedrogue/mods/311?tab=files[Link]
+
+[Changes_EN]***Update: 01.04.2025 (version 1.2)***
+The trainer has been completely reworked.
+– Added:
+◦ The "No player & ship notoriety" function;
+◦ The "Increase time of day (+1 hour)" function;
+◦ The "Decrease time of day (-1 hour)" function;
+◦ The "Maximum ship notoriety" function;
+◦ The "No clip mode"  function;
+◦ The "Fast bodies loot" function;
+◦ The "Fast steal" function;
+◦ The "Infinite Puckle guns ammo" function;
+◦ The "Infinite hunting goods sale" function;
+◦ The "Show collectibles" function;
+◦ The "Full memory synchronization" function;
+◦ The "Free items craft" function;
+◦ The "Low animals health" function;
+◦ The "Infinite berserk dart effect duration" function;
+◦ The "Fast berserk dart effect" function;
+◦ The "Using eagle vision in sprint" function;
+◦ The "Infinite Cormac's fleet resources" function;
+◦ The "Fast naval missions completion" function;
+◦ The "High naval missions success odds" function;
+◦ The "Infinite naval missions ships health" function;
+◦ The "No naval missions resources trade requirement" function;
+– Fixed:
+◦ The "Low enemy ships health" function. The player's ship health will no longer drop to the minimum in some cases and will not affect allies;
+◦ The "Infinite ally ships health" function. Will no longer affect enemy ships.
+– Changed:
+◦ The "Invulnerability" function. No animation from damage;
+◦ The "Invisibility" function. During combat enemies will lose sight of you;
+◦ The "Low enemies health" function. After receiving damage enemies' health immediately becomes low;
+◦ The "Infinite allies health" function. Affects all allies;
+◦ The "Time of day" function. Now the time of day changes in all missions;
+◦ The "Teleport to custom marker" function. Teleportation now always works correctly;
+◦ The "Kill civilians without desynchronization" function;
+◦ The "No reload shoot" function. Also affects when finishing off enemies;
+
+***Update: 07/04/2022 (version 1.1)***
+– Changed:
+◦ Functions related to infinite items.[Changes]
 // ====================================================================================================
-[Changes_RU][Changes]
+[Changes_RU]***Обновление: 01.04.2025 (версия 1.2)***
+Трейнер полностью переработан.
+– Добавлено:
+◦ Функция "Нет известности игрока и корабля";
+◦ Функция "Увеличить время суток (+1 час)";
+◦ Функция "Уменьшить время суток (-1 час)";
+◦ Функция "Максимальная известность корабля";
+◦ Функция "Режим "No clip"";
+◦ Функция "Быстрый обыск тел";
+◦ Функция "Быстрая кража";
+◦ Функция "Бесконечные боеприпасы ружей Пакла";
+◦ Функция "Бесконечная продажа охотничьих трофеев";
+◦ Функция "Показать коллекционные предметы";
+◦ Функция "Полная синхронизация воспоминания";
+◦ Функция "Свободное создание предметов";
+◦ Функция "Низкое здоровье животных";
+◦ Функция "Бесконечное действие яда берсерка";
+◦ Функция "Быстрый эффект от яда берсерка";
+◦ Функция "Использование орлиного зрения при беге";
+◦ Функция "Бесконечные ресурсы флота Кормака";
+◦ Функция "Высокая вероятность успеха морских заданий";
+◦ Функция "Беск. здоровье кораблей в морских заданиях";
+◦ Функция "Без требования к ресурсам в морских заданиях".
+– Исправлено:
+◦ Функция "Низкое здоровье вражеских кораблей". Здоровье корабля игрока больше не будет опускаться до минимального в некоторых случаях и не будет влиять на союзников;
+◦ Функция "Бесконечное здоровье кораблей союзников". Больше не будет влиять на вражеские корабли.
+– Изменено:
+◦ Функция "Неуязвимость". Нет анимации от урона;
+◦ Функция "Невидимость". Во время боя враги потеряют вас из виду;
+◦ Функция "Низкое здоровье врагов". У врагов после получения урона здоровье сразу же становится низким;
+◦ Функция "Бесконечное здоровье союзников". Влияет на всех союзников;
+◦ Функция "Время суток". Теперь время суток меняется во всех заданиях;
+◦ Функция "Телепортироваться к метке". Телепорт работает теперь работает всегда и корректно;
+◦ Функция "Убийство жителей без десинхронизации";
+◦ Функция "Стрельба без перезарядки". Влияет также при добиваниях врагов.
+
+***Обновление: 04.07.2022 (версия 1.1)***
+– Изменено:
+◦ Функции, связанные с бесконечными предметами.[Changes]
