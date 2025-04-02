@@ -26,7 +26,7 @@ My Boosty: https://boosty.to/trainersbyhex.
 
 Function notes:
 ◦ Invulnerability – health is always maximum, falls from a great height are safe, no damage animation;
-◦ Infinite money – sets the amount of money to 100,000;
+◦ Infinite money – sets the amount of money to 100,000. In order to see the effect you need to earn or spend money;
 ◦ Infinite bullets – the current number of bullets does not decrease;
 ◦ Infinite throwing knives – the current number of throwing knives does not decrease;
 ◦ Infinite smoke bombs – the current number of smoke bombs does not decrease;
@@ -43,7 +43,7 @@ Function notes:
 ◦ No clip mode – to control the character use the W and S keys to move along the Y-axis (forward-backward), A and D to move along the X-axis (left-right). To go up use the Spacebar key, to go down use the Left Ctrl key. It is recommended to use it together with the "Invulnerability" function!;
 ◦ Infinite ship health – the ship's health is always maximum;
 ◦ Ship invisibility – enemy ships will not pay attention to you;
-◦ Infinite metal – sets the amount of metal to 2,500;
+◦ Infinite metal – sets the amount of metal to 2,500. In order to see the effect you need to earn or spend metal. The method works similarly for other types of resources including crew;
 ◦ Infinite wood – sets the amount of wood to 2,500;
 ◦ Infinite stone – sets the amount of stone to 2,500;
 ◦ Infinite cloth – sets the amount of cloth to 2,500;
