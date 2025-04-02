@@ -39,7 +39,7 @@ The trainer has been completely reworked.
 ◦ The "Time of day" function. Now the time of day changes in all missions;
 ◦ The "Teleport to custom marker" function. Teleportation now always works correctly;
 ◦ The "Kill civilians without desynchronization" function;
-◦ The "No reload shoot" function. Also affects when finishing off enemies;
+◦ The "No reload shoot" function. Also affects when finishing off enemies.
 
 ***Update: 07/04/2022 (version 1.1)***
 – Changed:
