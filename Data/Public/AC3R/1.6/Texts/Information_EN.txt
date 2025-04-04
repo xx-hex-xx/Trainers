@@ -45,7 +45,7 @@ Function notes:
 ◦ Infinite ship health – the ship's health is always maximum;
 ◦ Fast assassins level up – assassins will be awarded 1,100 XP after completing their contracts;
 ◦ Fast contracts completion – the duration of each contract is set to five seconds. The function does not work on contracts that are already in progress;
-◦ High contracts success odds – the success odds of each contract is always 100 %. The function does not work on contracts that are already in progress;
+◦ High contracts success odds – the success odds of each contract is always 100%. The function does not work on contracts that are already in progress;
 ◦ Infinite items sale – after selling items through the shop they do not disappear;
 ◦ Full memory synchronization – allows you to achieve 100% synchronization in any memory. If you have already performed an action that will not result in full synchronization activate the function and keep it activated until you get a notification that 100% synchronization has been achieved;
 ◦ Free items craft – allows craft items using the accounting book without having enough resources and/or not having the required level of artisans.
