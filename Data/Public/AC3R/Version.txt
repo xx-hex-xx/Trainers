@@ -2,8 +2,8 @@
 [VersionBegin]1.6[VersionEnd]
 [Version]1.6[Version]
 
-[LinkBegin_PlayGround.ru][LinkEnd_PlayGround.ru]
-[Link_PlayGround.ru][Link]
+[LinkBegin_PlayGround.ru]https://www.playground.ru/assassins_creed_3/cheat/assassins_creed_3_remastered_trejner_48_1_03_steam_ubisoft_connect_i_piratki_hex-1191225[LinkEnd_PlayGround.ru]
+[Link_PlayGround.ru]https://www.playground.ru/assassins_creed_3/cheat/assassins_creed_3_remastered_trejner_48_1_03_steam_ubisoft_connect_i_piratki_hex-1191225[Link]
 [LinkBegin_NexusMods]https://www.nexusmods.com/assassinscreediiiremastered/mods/99?tab=files[LinkEnd_NexusMods]
 [Link_NexusMods]https://www.nexusmods.com/assassinscreediiiremastered/mods/99?tab=files[Link]
 
