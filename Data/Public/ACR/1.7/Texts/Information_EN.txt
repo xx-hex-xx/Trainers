@@ -1,0 +1,55 @@
+Trainer version: <VERSION>.
+Release date: <DATE>.
+
+Workability tested on the following versions:
+-Licenses:
+◦ Steam: 1.03;
+◦ Ubisoft Connect: 1.03.
+-Pirated:
+◦ Repack by xatab: 1.03;
+◦ Repack by Fenixx: 1.03;
+◦ Repack by dixen18: 1.03;
+◦ Repack by DODI: 1.03.
+
+<SEARCHED PROCESSES>
+
+The trainer writes an event log during its work so if you have any problems with the activation or workability of the functions or the game crashed or something else then you can contact me and send me your log files, you can find them by going to the settings window and clicking the "Open event logs folder" button. For all questions and problems you can contact me by writing in private messages on the PlayGround.ru and/or Nexus Mods websites or by e-mail.
+My e-mail: 7x.hex.x7@gmail.com.
+My profile on PlayGround.ru: https://users.playground.ru/1367691.
+My profile on Nexus Mods: https://next.nexusmods.com/profile/7hex7.
+
+If you want to order a private trainer for a particular game you can contact me by e-mail or by writing in private messages on the PlayGround.ru and/or Nexus Mods websites.
+
+If you want to thank me for my work you can subscribe to me on the Patreon and/or Boosty platforms I will be very grateful.
+My Patreon: https://www.patreon.com/trainersbyhex.
+My Boosty: https://boosty.to/trainersbyhex.
+
+Function notes:
+◦ Invulnerability – health is always maximum, falls from a great height are safe, no damage animation;
+◦ Infinite money – sets the amount of money to 150,000;
+◦ Infinite medicines – the current amount of medicines does not decrease;
+◦ Infinite bullets – the current number of bullets does not decrease;
+◦ Infinite throwing knives – the current number of throwing knives does not decrease;
+◦ Infinite bombs – the current number of bombs does not decrease. Deactivate the function to disassemble the available bombs;
+◦ Infinite poison – the current number of poison does not decrease;
+◦ Infinite crossbow arrows – the current number of crossbow arrows does not decrease;
+◦ Infinite parachutes – the current number of parachutes does not decrease;
+◦ Invisibility – enemies and beggars will not pay attention to you;
+◦ Stop countdown timer – the current timer time in main memories, in additional memories tasks and during stalkering will not decrease. To avoid bugs in mission use only when necessary, do not keep the function permanently activated;
+◦ Fast movement speed – sets the movement speed to 1.75;
+◦ High jump – sets the jump height to 7.25;
+◦ Teleport to custom marker – sets the teleport height to 120.25. Out of water the teleport may not work in which case you can use the "No clip mode" function;
+◦ No clip mode – to control the character use the W and S keys to move along the Y-axis (forward-backward), A and D to move along the X-axis (left-right). To go up use the Spacebar key, to go down use the Left Ctrl key. It is recommended to use it together with the "Invulnerability" function!;
+◦ Maximum health bar – increases the health scale to the maximum possible. To see the effect you need to take damage or use the "Get desynchronization" function;
+◦ Infinite den health – den health is always maximum;
+◦ Infinite morale – sets the amount of morale to 1,000;
+◦ Infinite den cannons – den cannons reload instantly after being fired;
+◦ Maximum den defense score – allows you to reach 100% in all categories when defending a den;
+◦ Arrow storm always available – allows you to use arrow storm (even if there is no hint for it) if you have one or two assassin signals available or if they are not available at all;
+◦ Fast assassins level up – assassins will be awarded 15,500 experience points after completing their contracts;
+◦ Fast contracts completion – the duration of each contract is set to five seconds. The function does not work on contracts that are already in progress;
+◦ High contracts success odds – the success odds of each contract is always 100%. The function does not work on contracts that are already in progress;
+◦ All recruits master assassins – to fully upgrade a recruits' armor and weapons you will need to use the "Infinite assassins skill points" function. To avoid bugs it is recommended to use the function after completing all master assassin missions;
+◦ Show collectibles – shows on the map the location of treasures as well as fragments of Animus data and Ishak Pasha's memoir pages including on the mini–map in the Masyaf Keys missions;
+◦ Full memory synchronization – allows you to achieve 100% synchronization in any memory. If you have already performed an action that will not result in full synchronization activate the function and keep it activated until you get a notification that 100% synchronization has been achieved;
+◦ Unlock Rhodes – permanently unlocks Rhodes in Mediterranean Defense without having to play multiplayer.
