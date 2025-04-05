@@ -1,9 +1,176 @@
 # ACLR
-Version: [VersionBegin]1.2[VersionEnd]
-Link:
-[LinkBegin_PlayGround.ru][LinkEnd_PlayGround.ru]
-[LinkBegin_NexusMods][LinkEnd_NexusMods]
-Changes:
-[ChangesBegin_EN][ChangesEnd_EN]
+[Version]1.3[Version]
+
+[Link_PlayGround.ru]<nolink>[Link]
+[Link_NexusMods]https://www.nexusmods.com/assassinscreedliberationhd/mods/8?tab=files[Link]
+
+[Changes_EN]***Update: 04/05/2025 (version 1.3)***
+The trainer structure has been changed, the configuration files will be recreated.
+– Fixed:
+◦ The "No notoriety" and "Maximum notoriety" function. Sometimes notoriety only changed visually.
+– Changed:
+◦ The "Infinite money" function. Now the value changes only for the player;
+◦ The "Time of day" function. Now the time of day changes in all missions;
+◦ The "No clip mode" function. Now works correctly when using the "Teleport to custom marker" function;
+◦ The "No reload shoot" function. Also works when finishing off enemies.
+
+***Update: 01/25/2025 (version 1.2)***
+The trainer has been completely reworked.
+– Added:
+◦ The "Infinite arrows" function;
+◦ The "No notoriety" function;
+◦ The "Increase time of day (+1 hour)" function;
+◦ The "Decrease time of day (-1 hour)" function;
+◦ The "Maximum notoriety" function;
+◦ The "No clip mode" function;
+◦ The "Freeze everyone in place" function;
+◦ The "Fast bodies/treasures loot" function;
+◦ The "Fast steal" function;
+◦ The "Infinite carriage health" function;
+◦ The "Infinite raft health" function;
+◦ The "Show collectibles" function;
+◦ The "Full memory synchronization" function;
+◦ The "Unfog map" function.
+– Changed:
+◦ The "Invulnerability" function. No damage animation;
+◦ The "Invisibility" function. Enemies will lose sight of you during combat;
+◦ The "Low enemies health" function. Enemies immediately have low health after taking damage;
+◦ The "Infinite allies health" function. Affects all allies;
+◦ The "Teleport to custom marker" function. Teleportation now works correctly for all map icons;
+◦ The "Kill civilians without desynchronization" function.
+
+***Update: 06/23/2022 (version 1.1)***
+– Added:
+◦ The "Infinite canoe health" function.
+– Changed:
+◦ The "Infinite underwater breath hold" function.[Changes]
 // ====================================================================================================
-[ChangesBegin_RU][ChangesEnd_RU]
+[Changes_RU]***Обновление: 05.04.2025 (версия 1.3)***
+Изменена структура трейнера, конфигурационные файлы будут созданы заново.
+– Исправлено:
+◦ Функции "Нет известности" и "Максимальная известность". Иногда известность изменялась лишь визуально.
+– Изменено:
+◦ Функция "Бесконечные деньги". Теперь значение меняется только у игрока;
+◦ Функция "Время суток". Теперь время суток меняется во всех заданиях;
+◦ Функция "Режим "No clip"". Теперь работает корректно при использовании функции "Телепортироваться к метке";
+◦ Функция "Стрельба без перезарядки". Работает также при добиваниях врагов.
+
+***Обновление: 25.01.2025 (версия 1.2)***
+Трейнер полностью переработан.
+– Добавлено:
+◦ Функция "Бесконечные стрелы";
+◦ Функция "Нет известности";
+◦ Функция "Увеличить время суток (+1 час)";
+◦ Функция "Уменьшить время суток (-1 час)";
+◦ Функция "Максимальная известность";
+◦ Функция "Режим "No clip"";
+◦ Функция "Заморозить всех на месте";
+◦ Функция "Быстрый обыск тел/сокровищ";
+◦ Функция "Быстрая кража";
+◦ Функция "Бесконечное здоровье повозки";
+◦ Функция "Бесконечное здоровье плота";
+◦ Функция "Показать коллекционные предметы";
+◦ Функция "Полная синхронизация воспоминания";
+◦ Функция "Убрать "туман войны" с карты".
+– Изменено:
+◦ Функция "Неуязвимость". Нет анимации от урона;
+◦ Функция "Невидимость". Во время боя враги потеряют вас из виду;
+◦ Функция "Низкое здоровье врагов". У врагов после получения урона здоровье сразу же становится низким;
+◦ Функция "Бесконечное здоровье союзников". Влияет на всех союзников;
+◦ Функция "Телепортироваться к метке". Телепорт работает корректно по всем значкам на карте;
+◦ Функция "Убийство жителей без десинхронизации".
+
+***Обновление: 23.06.2022 (версия 1.1)***
+– Добавлено:
+◦ Функция "Бесконечное здоровье каноэ".
+– Изменено:
+◦ Функция "Бесконечная задержка дыхания под водой".[Changes]
+// ====================================================================================================
+// ===============================================[OLD]================================================
+// ====================================================================================================
+[VersionBegin]1.3[VersionEnd]
+
+[LinkBegin_PlayGround.ru]<nolink>[LinkEnd_PlayGround.ru]
+[LinkBegin_NexusMods]https://www.nexusmods.com/assassinscreedliberationhd/mods/8?tab=files[LinkEnd_NexusMods]
+
+[ChangesBegin_EN]***Update: 04/05/2025 (version 1.3)***
+The trainer structure has been changed, the configuration files will be recreated.
+– Fixed:
+◦ The "No notoriety" and "Maximum notoriety" function. Sometimes notoriety only changed visually.
+– Changed:
+◦ The "Infinite money" function. Now the value changes only for the player;
+◦ The "Time of day" function. Now the time of day changes in all missions;
+◦ The "No clip mode" function. Now works correctly when using the "Teleport to custom marker" function;
+◦ The "No reload shoot" function. Also works when finishing off enemies.
+
+***Update: 01/25/2025 (version 1.2)***
+The trainer has been completely reworked.
+– Added:
+◦ The "Infinite arrows" function;
+◦ The "No notoriety" function;
+◦ The "Increase time of day (+1 hour)" function;
+◦ The "Decrease time of day (-1 hour)" function;
+◦ The "Maximum notoriety" function;
+◦ The "No clip mode" function;
+◦ The "Freeze everyone in place" function;
+◦ The "Fast bodies/treasures loot" function;
+◦ The "Fast steal" function;
+◦ The "Infinite carriage health" function;
+◦ The "Infinite raft health" function;
+◦ The "Show collectibles" function;
+◦ The "Full memory synchronization" function;
+◦ The "Unfog map" function.
+– Changed:
+◦ The "Invulnerability" function. No damage animation;
+◦ The "Invisibility" function. Enemies will lose sight of you during combat;
+◦ The "Low enemies health" function. Enemies immediately have low health after taking damage;
+◦ The "Infinite allies health" function. Affects all allies;
+◦ The "Teleport to custom marker" function. Teleportation now works correctly for all map icons;
+◦ The "Kill civilians without desynchronization" function.
+
+***Update: 06/23/2022 (version 1.1)***
+– Added:
+◦ The "Infinite canoe health" function.
+– Changed:
+◦ The "Infinite underwater breath hold" function.[ChangesEnd_EN]
+// ====================================================================================================
+[ChangesBegin_RU]***Обновление: 05.04.2025 (версия 1.3)***
+Изменена структура трейнера, конфигурационные файлы будут созданы заново.
+– Исправлено:
+◦ Функции "Нет известности" и "Максимальная известность". Иногда известность изменялась лишь визуально.
+– Изменено:
+◦ Функция "Бесконечные деньги". Теперь значение меняется только у игрока;
+◦ Функция "Время суток". Теперь время суток меняется во всех заданиях;
+◦ Функция "Режим "No clip"". Теперь работает корректно при использовании функции "Телепортироваться к метке";
+◦ Функция "Стрельба без перезарядки". Работает также при добиваниях врагов.
+
+***Обновление: 25.01.2025 (версия 1.2)***
+Трейнер полностью переработан.
+– Добавлено:
+◦ Функция "Бесконечные стрелы";
+◦ Функция "Нет известности";
+◦ Функция "Увеличить время суток (+1 час)";
+◦ Функция "Уменьшить время суток (-1 час)";
+◦ Функция "Максимальная известность";
+◦ Функция "Режим "No clip"";
+◦ Функция "Заморозить всех на месте";
+◦ Функция "Быстрый обыск тел/сокровищ";
+◦ Функция "Быстрая кража";
+◦ Функция "Бесконечное здоровье повозки";
+◦ Функция "Бесконечное здоровье плота";
+◦ Функция "Показать коллекционные предметы";
+◦ Функция "Полная синхронизация воспоминания";
+◦ Функция "Убрать "туман войны" с карты".
+– Изменено:
+◦ Функция "Неуязвимость". Нет анимации от урона;
+◦ Функция "Невидимость". Во время боя враги потеряют вас из виду;
+◦ Функция "Низкое здоровье врагов". У врагов после получения урона здоровье сразу же становится низким;
+◦ Функция "Бесконечное здоровье союзников". Влияет на всех союзников;
+◦ Функция "Телепортироваться к метке". Телепорт работает корректно по всем значкам на карте;
+◦ Функция "Убийство жителей без десинхронизации".
+
+***Обновление: 23.06.2022 (версия 1.1)***
+– Добавлено:
+◦ Функция "Бесконечное здоровье каноэ".
+– Изменено:
+◦ Функция "Бесконечная задержка дыхания под водой".[ChangesEnd_RU]
