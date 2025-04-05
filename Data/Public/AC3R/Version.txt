@@ -1,11 +1,165 @@
 # AC3R
-[VersionBegin]1.6[VersionEnd]
 [Version]1.6[Version]
 
-[LinkBegin_PlayGround.ru]https://www.playground.ru/assassins_creed_3/cheat/assassins_creed_3_remastered_trejner_48_1_03_steam_ubisoft_connect_i_piratki_hex-1191225[LinkEnd_PlayGround.ru]
 [Link_PlayGround.ru]https://www.playground.ru/assassins_creed_3/cheat/assassins_creed_3_remastered_trejner_48_1_03_steam_ubisoft_connect_i_piratki_hex-1191225[Link]
-[LinkBegin_NexusMods]https://www.nexusmods.com/assassinscreediiiremastered/mods/99?tab=files[LinkEnd_NexusMods]
 [Link_NexusMods]https://www.nexusmods.com/assassinscreediiiremastered/mods/99?tab=files[Link]
+
+[Changes_EN]***Update: 04/04/2025 (version 1.6)***
+The trainer structure has been changed, the configuration files will be recreated.
+– Added:
+◦ The "Fast "Wolf Pack" ability recharge" function.
+– Fixed:
+◦ The "Invisibility" function. Sometimes the game could crash when activating the function.
+– Changed:
+◦ The "Infinite money" function. Now the value changes only for the player;
+◦ The "Time of day" function. Now the time of day changes in all missions.
+
+***Update: 01/08/2025 (version 1.5)***
+The trainer has been completely reworked.
+– Added:
+◦ The "No notoriety" function;
+◦ The "Increase time of day (+1 hour)" function;
+◦ The "Decrease time of day (-1 hour)" function;
+◦ The "Maximum notoriety" function;
+◦ The "No clip mode" function;
+◦ The "Freeze everyone in place" function;
+◦ The "Fast bodies loot" function;
+◦ The "Fast steal" function;
+◦ The "No reload shoot" function;
+◦ The "Fast assassins level up" function;
+◦ The "Fast contracts completion" function;
+◦ The "High contracts success odds" function;
+◦ The "Infinite items sale" function;
+◦ The "Show collectibles" function;
+◦ The "Full memory synchronization" function;
+◦ The "Unlock in-game cheats" function;
+◦ The "Unfog map" function.
+– Changed:
+◦ The "Invulnerability" function. No damage animation;
+◦ The "Invisibility" function. Enemies will lose sight of you during combat;
+◦ The "Low enemies health" function. Enemies immediately have low health after taking damage;
+◦ The "Infinite allies health" function. Affects all allies;
+◦ The "Teleport to custom marker" function. Teleportation now works correctly for all map icons;
+◦ The "Kill civilians without desynchronization" function;
+◦ The "Infinite horse stamina" function. You no longer need to constantly spur your horse on.
+
+***Update: 06/21/2022 (version 1.4)***
+– Fixed:
+◦ The "Infinite ally ships health" function;
+◦ The "Low enemy ships health" function.
+– Changed:
+◦ The "Fast movement speed" function. Also affects Desmond;
+◦ The "Teleport to custom marker" function. Teleport by icons on the map works correctly.
+
+***Update: 04/12/2022 (version 1.3)***
+– Changed:
+◦ The "Fast ship guns reload" function. Also affects falconets.
+
+***Update: 04/07/2022 (version 1.2)***
+– Fixed:
+◦ The "Fast ship guns reload" function.
+
+***Update: 04/07/2022 (version 1.1)***
+– Added:
+◦ The "Fast ship guns reload" function;
+◦ The "Low enemy ships health" function;
+◦ The "Fast horse movement speed" function;
+◦ The "Infinite horse stamina" function;
+◦ The "Infinite underwater breath hold" function;
+◦ The "Get desynchronization" function.
+– Fixed:
+◦ The "Infinite ally ships health" function;
+◦ The "Teleport to custom marker" function.
+– Changed:
+◦ The "Invulnerability" function.
+◦ The "Invisibility" function;
+◦ The "Infinite allies health" function. Affects all allies who have a health bar;
+◦ The "Fast movement speed" function. Affects Haytham too;
+◦ The "Infinite ship health" function. Protects against mortar damage;
+◦ The "Low enemies health" function;
+◦ The "Kill civilians without desynchronization" function.[Changes]
+// ====================================================================================================
+[Changes_RU]***Обновление: 04.04.2025 (версия 1.6)***
+Изменена структура трейнера, конфигурационные файлы будут созданы заново.
+– Добавлено:
+◦ Функция "Быстрая перезарядка "Волчьей стаи"".
+– Исправлено:
+◦ Функция "Невидимость". Иногда мог произойти вылет из игры при активации функции.
+– Изменено:
+◦ Функция "Бесконечные деньги". Теперь значение меняется только у игрока;
+◦ Функция "Время суток". Теперь время суток меняется во всех заданиях.
+
+***Обновление: 08.01.2025 (версия 1.5)***
+Трейнер полностью переработан.
+– Добавлено:
+◦ Функция "Нет известности";
+◦ Функция "Увеличить время суток (+1 час)";
+◦ Функция "Уменьшить время суток (-1 час)";
+◦ Функция "Максимальная известность";
+◦ Функция "Режим "No clip"";
+◦ Функция "Заморозить всех на месте";
+◦ Функция "Быстрый обыск тел";
+◦ Функция "Быстрая кража";
+◦ Функция "Стрельба без перезарядки";
+◦ Функция "Быстрое повышение уровней ассасинов";
+◦ Функция "Быстрое завершение контрактов";
+◦ Функция "Высокая вероятность успеха контрактов";
+◦ Функция "Бесконечная продажа предметов";
+◦ Функция "Показать коллекционные предметы";
+◦ Функция "Полная синхронизация воспоминания";
+◦ Функция "Разблокировать внутриигровые читы";
+◦ Функция "Убрать "туман войны" с карты".
+– Изменено:
+◦ Функция "Неуязвимость". Нет анимации от урона;
+◦ Функция "Невидимость". Во время боя враги потеряют вас из виду;
+◦ Функция "Низкое здоровье врагов". У врагов после получения урона здоровье сразу же становится низким;
+◦ Функция "Бесконечное здоровье союзников". Влияет на всех союзников;
+◦ Функция "Телепортироваться к метке". Телепорт работает корректно по всем значкам на карте;
+◦ Функция "Убийство жителей без десинхронизации";
+◦ Функция "Бесконечная выносливость коня". Больше не требуется постоянно пришпоривать коня.
+
+***Обновление: 21.06.2022 (версия 1.4)***
+– Исправлено:
+◦ Функция "Бесконечное здоровье кораблей союзников";
+◦ Функция "Низкое здоровье вражеских кораблей".
+– Изменено:
+◦ Функция "Быстрая скорость перемещения". Влияет также и на Дезмонда;
+◦ Функция "Телепортироваться к метке". Телепорт по значкам на карте работает правильно.
+
+***Обновление: 12.04.2022 (версия 1.3)***
+– Изменено:
+◦ Функция "Быстрая перезарядка орудий корабля". Влияет и на фальконеты.
+
+***Обновление: 07.04.2022 (версия 1.2)***
+– Исправлено:
+◦ Функция "Быстрая перезарядка орудий корабля".
+
+***Обновление: 07.04.2022 (версия 1.1)***
+– Добавлено:
+◦ Функция "Быстрая перезарядка орудий корабля";
+◦ Функция "Низкое здоровье вражеских кораблей";
+◦ Функция "Быстрая скорость перемещения коня";
+◦ Функция "Бесконечная выносливость коня";
+◦ Функция "Бесконечное дыхание под водой";
+◦ Функция "Получить десинхронизацию".
+– Исправлено:
+◦ Функция "Бесконечное здоровье кораблей союзников";
+◦ Функция "Телепортироваться к метке".
+– Изменено:
+◦ Функция "Неуязвимость".
+◦ Функция "Невидимость";
+◦ Функция "Бесконечное здоровье союзников". Влияет на всех союзников, у которых имеется шкала здоровья;
+◦ Функция "Быстрая скорость перемещения". Влияет на Хэйтема тоже;
+◦ Функция "Бесконечное здоровье корабля". Защищает от урона мортир;
+◦ Функция "Низкое здоровье врагов";
+◦ Функция "Убийство жителей без десинхронизации".[Changes]
+// ====================================================================================================
+// ===============================================[OLD]=================================================
+// ====================================================================================================
+[VersionBegin]1.6[VersionEnd]
+
+[LinkBegin_PlayGround.ru]https://www.playground.ru/assassins_creed_3/cheat/assassins_creed_3_remastered_trejner_48_1_03_steam_ubisoft_connect_i_piratki_hex-1191225[LinkEnd_PlayGround.ru]
+[LinkBegin_NexusMods]https://www.nexusmods.com/assassinscreediiiremastered/mods/99?tab=files[LinkEnd_NexusMods]
 
 [ChangesBegin_EN]***Update: 04/04/2025 (version 1.6)***
 The trainer structure has been changed, the configuration files will be recreated.
@@ -156,154 +310,3 @@ The trainer has been completely reworked.
 ◦ Функция "Бесконечное здоровье корабля". Защищает от урона мортир;
 ◦ Функция "Низкое здоровье врагов";
 ◦ Функция "Убийство жителей без десинхронизации".[ChangesEnd_RU]
-******************************************************************************************************************************
-******************************************************************************************************************************
-[Changes_EN]***Update: 04/04/2025 (version 1.6)***
-The trainer structure has been changed, the configuration files will be recreated.
-– Added:
-◦ The "Fast "Wolf Pack" ability recharge" function.
-– Fixed:
-◦ The "Invisibility" function. Sometimes the game could crash when activating the function.
-– Changed:
-◦ The "Infinite money" function. Now the value changes only for the player;
-◦ The "Time of day" function. Now the time of day changes in all missions.
-
-***Update: 01/08/2025 (version 1.5)***
-The trainer has been completely reworked.
-– Added:
-◦ The "No notoriety" function;
-◦ The "Increase time of day (+1 hour)" function;
-◦ The "Decrease time of day (-1 hour)" function;
-◦ The "Maximum notoriety" function;
-◦ The "No clip mode" function;
-◦ The "Freeze everyone in place" function;
-◦ The "Fast bodies loot" function;
-◦ The "Fast steal" function;
-◦ The "No reload shoot" function;
-◦ The "Fast assassins level up" function;
-◦ The "Fast contracts completion" function;
-◦ The "High contracts success odds" function;
-◦ The "Infinite items sale" function;
-◦ The "Show collectibles" function;
-◦ The "Full memory synchronization" function;
-◦ The "Unlock in-game cheats" function;
-◦ The "Unfog map" function.
-– Changed:
-◦ The "Invulnerability" function. No damage animation;
-◦ The "Invisibility" function. Enemies will lose sight of you during combat;
-◦ The "Low enemies health" function. Enemies immediately have low health after taking damage;
-◦ The "Infinite allies health" function. Affects all allies;
-◦ The "Teleport to custom marker" function. Teleportation now works correctly for all map icons;
-◦ The "Kill civilians without desynchronization" function;
-◦ The "Infinite horse stamina" function. You no longer need to constantly spur your horse on.
-
-***Update: 06/21/2022 (version 1.4)***
-– Fixed:
-◦ The "Infinite ally ships health" function;
-◦ The "Low enemy ships health" function.
-– Changed:
-◦ The "Fast movement speed" function. Also affects Desmond;
-◦ The "Teleport to custom marker" function. Teleport by icons on the map works correctly.
-
-***Update: 04/12/2022 (version 1.3)***
-– Changed:
-◦ The "Fast ship guns reload" function. Also affects falconets.
-
-***Update: 04/07/2022 (version 1.2)***
-– Fixed:
-◦ The "Fast ship guns reload" function.
-
-***Update: 04/07/2022 (version 1.1)***
-– Added:
-◦ The "Fast ship guns reload" function;
-◦ The "Low enemy ships health" function;
-◦ The "Fast horse movement speed" function;
-◦ The "Infinite horse stamina" function;
-◦ The "Infinite underwater breath hold" function;
-◦ The "Get desynchronization" function.
-– Fixed:
-◦ The "Infinite ally ships health" function;
-◦ The "Teleport to custom marker" function.
-– Changed:
-◦ The "Invulnerability" function.
-◦ The "Invisibility" function;
-◦ The "Infinite allies health" function. Affects all allies who have a health bar;
-◦ The "Fast movement speed" function. Affects Haytham too;
-◦ The "Infinite ship health" function. Protects against mortar damage;
-◦ The "Low enemies health" function;
-◦ The "Kill civilians without desynchronization" function.[Changes]
-// ====================================================================================================
-[Changes_RU]***Обновление: 04.04.2025 (версия 1.6)***
-Изменена структура трейнера, конфигурационные файлы будут созданы заново.
-– Добавлено:
-◦ Функция "Быстрая перезарядка "Волчьей стаи"".
-– Исправлено:
-◦ Функция "Невидимость". Иногда мог произойти вылет из игры при активации функции.
-– Изменено:
-◦ Функция "Бесконечные деньги". Теперь значение меняется только у игрока;
-◦ Функция "Время суток". Теперь время суток меняется во всех заданиях.
-
-***Обновление: 08.01.2025 (версия 1.5)***
-Трейнер полностью переработан.
-– Добавлено:
-◦ Функция "Нет известности";
-◦ Функция "Увеличить время суток (+1 час)";
-◦ Функция "Уменьшить время суток (-1 час)";
-◦ Функция "Максимальная известность";
-◦ Функция "Режим "No clip"";
-◦ Функция "Заморозить всех на месте";
-◦ Функция "Быстрый обыск тел";
-◦ Функция "Быстрая кража";
-◦ Функция "Стрельба без перезарядки";
-◦ Функция "Быстрое повышение уровней ассасинов";
-◦ Функция "Быстрое завершение контрактов";
-◦ Функция "Высокая вероятность успеха контрактов";
-◦ Функция "Бесконечная продажа предметов";
-◦ Функция "Показать коллекционные предметы";
-◦ Функция "Полная синхронизация воспоминания";
-◦ Функция "Разблокировать внутриигровые читы";
-◦ Функция "Убрать "туман войны" с карты".
-– Изменено:
-◦ Функция "Неуязвимость". Нет анимации от урона;
-◦ Функция "Невидимость". Во время боя враги потеряют вас из виду;
-◦ Функция "Низкое здоровье врагов". У врагов после получения урона здоровье сразу же становится низким;
-◦ Функция "Бесконечное здоровье союзников". Влияет на всех союзников;
-◦ Функция "Телепортироваться к метке". Телепорт работает корректно по всем значкам на карте;
-◦ Функция "Убийство жителей без десинхронизации";
-◦ Функция "Бесконечная выносливость коня". Больше не требуется постоянно пришпоривать коня.
-
-***Обновление: 21.06.2022 (версия 1.4)***
-– Исправлено:
-◦ Функция "Бесконечное здоровье кораблей союзников";
-◦ Функция "Низкое здоровье вражеских кораблей".
-– Изменено:
-◦ Функция "Быстрая скорость перемещения". Влияет также и на Дезмонда;
-◦ Функция "Телепортироваться к метке". Телепорт по значкам на карте работает правильно.
-
-***Обновление: 12.04.2022 (версия 1.3)***
-– Изменено:
-◦ Функция "Быстрая перезарядка орудий корабля". Влияет и на фальконеты.
-
-***Обновление: 07.04.2022 (версия 1.2)***
-– Исправлено:
-◦ Функция "Быстрая перезарядка орудий корабля".
-
-***Обновление: 07.04.2022 (версия 1.1)***
-– Добавлено:
-◦ Функция "Быстрая перезарядка орудий корабля";
-◦ Функция "Низкое здоровье вражеских кораблей";
-◦ Функция "Быстрая скорость перемещения коня";
-◦ Функция "Бесконечная выносливость коня";
-◦ Функция "Бесконечное дыхание под водой";
-◦ Функция "Получить десинхронизацию".
-– Исправлено:
-◦ Функция "Бесконечное здоровье кораблей союзников";
-◦ Функция "Телепортироваться к метке".
-– Изменено:
-◦ Функция "Неуязвимость".
-◦ Функция "Невидимость";
-◦ Функция "Бесконечное здоровье союзников". Влияет на всех союзников, у которых имеется шкала здоровья;
-◦ Функция "Быстрая скорость перемещения". Влияет на Хэйтема тоже;
-◦ Функция "Бесконечное здоровье корабля". Защищает от урона мортир;
-◦ Функция "Низкое здоровье врагов";
-◦ Функция "Убийство жителей без десинхронизации".[Changes]
