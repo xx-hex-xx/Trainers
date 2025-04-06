@@ -1,31 +1,37 @@
 # AC2
-Version: [VersionBegin]1.7[VersionEnd]
-Link:
-[LinkBegin_PlayGround.ru]https://www.playground.ru/assassins_creed_2/cheat/assassins_creed_2_trejner_35_1_01_steam_ubisoft_connect_i_piratki_hex-1117873[LinkEnd_PlayGround.ru]
-[LinkBegin_NexusMods]https://www.nexusmods.com/assassinscreedii/mods/171/?tab=files[LinkEnd_NexusMods]
-Changes:
-[ChangesBegin_EN]***Update: 02/10/2025 (version 1.7)***
-Fixed:
+[Version]1.8[Version]
+
+[Link_PlayGround.ru]https://www.playground.ru/assassins_creed_2/cheat/assassins_creed_2_trejner_35_1_01_steam_ubisoft_connect_i_piratki_hex-1117873[Link]
+[Link_NexusMods]https://www.nexusmods.com/assassinscreedii/mods/171?tab=files[Link]
+
+[Changes_EN]***Update: 04/06/2025 (version 1.8)***
+The trainer structure has been changed, the configuration files will be recreated.
+– Changed:
+◦ The "Time of day" function. Now the time of day changes in all missions;
+◦ The "No clip mode" function. Now works correctly when using the "Teleport to custom marker" function.
+
+***Update: 02/10/2025 (version 1.7)***
+– Fixed:
 ◦ The "Infinite money" function. Codex pages are now collected correctly.
-Changed:
+– Changed:
 ◦ The "Infinite money" function. To avoid the Codex page collection bug the function will only work when you spend money, not always as it did before.
 
 ***Update: 11/10/2024 (version 1.6)***
-Added:
+– Added:
 ◦ The "No reload shoot" function.
-Changed:
+– Changed:
 ◦ The "Invisibility" function. Enemies will stop paying attention to you if you are in combat.
 
 ***Update: 10/26/2024 (version 1.5)***
-Fixed:
+– Fixed:
 ◦ Bug in the "Stop countdown timer" function that could cause the function to not work on the Ubisoft Connect-version and some pirated versions of the game.
 
 ***Update: 10/22/2024 (version 1.4)***
 Trainer completely reworked.
-Fixed:
+– Fixed:
 ◦ Bug in the "Stop countdown timer" function which caused the function to be affected by other timers other than the mission and stalkering timers;
 ◦ Bug in the "Low enemies health" function which caused the function to not affect some enemies.
-Added:
+– Added:
 ◦ The "Stop assassin tomb timer" function;
 ◦ The "Increase the time of day (+1 hour)" function;
 ◦ The "Decrease the time of day (-1 hour)" function;
@@ -37,7 +43,7 @@ Added:
 ◦ The "Infinite flying machine health" function;
 ◦ The "Infinite underwater breath hold" function;
 ◦ The "Show collectibles" function.
-Changed:
+– Changed:
 ◦ The "Invulnerability" function. No damage animation;
 ◦ The "Low enemies health" function. Enemies immediately have low health after taking damage;
 ◦ The "No notoriety" function. The current notoriety is instantly reset to zero;
@@ -47,41 +53,47 @@ Changed:
 ◦ The "Kill civilians without desynchronization" function.
 
 ***Update: 06.01.2022 (version 1.3)***
-Fixed:
+– Fixed:
 ◦ Bug with text display on high-resolution monitors.
 Changed:
 ◦ General trainer optimization.
 
 ***Update: 22.05.2022 (version 1.2)***
-Changed:
+– Changed:
 ◦ "Fast movement speed" function.
 
 ***Update: 21.04.2021 (version 1.1)***
-Changed:
-◦ "Invulnerability" function.[ChangesEnd_EN]
+– Changed:
+◦ "Invulnerability" function.[Changes]
 // ====================================================================================================
-[ChangesBegin_RU]***Обновление: 10.02.2025 (версия 1.7)***
-Исправлено:
+[Changes_RU]***Обновление: 06.04.2025 (версия 1.8)***
+Изменена структура трейнера, конфигурационные файлы будут созданы заново.
+– Изменено:
+◦ Функция "Время суток". Теперь время суток меняется во всех заданиях;
+◦ Функция "Режим "No clip"". Теперь работает корректно при использовании функции "Телепортироваться к метке".
+
+***Обновление: 10.02.2025 (версия 1.7)***
+– Исправлено:
 ◦ Функция "Бесконечные деньги". Страницы Кодекса теперь собираются корректно.
-Изменено:
+– Изменено:
 ◦ Функция "Бесконечные деньги". Во избежание бага со сбором страниц Кодекса функция будет работать только при трате денег, а не всегда, как было до этого.
 
 ***Обновление: 10.11.2024 (версия 1.6)***
-Добавлено:
+– Добавлено:
 ◦ Функция "Стрельба без перезарядки".
-Изменено:
+– Изменено:
 ◦ Функция "Невидимость". Враги перестанут обращать на вас внимание, если вы в состоянии боя.
 
 ***Обновление: 26.10.2024 (версия 1.5)***
-Исправлено:
+– Исправлено:
 ◦ Ошибка в функции "Остановить таймер обратного отсчета", из-за которой функция могла не работать на Ubisoft Connect-версии и на некоторых пиратских версиях игры.
 
 ***Обновление: 22.10.2024 (версия 1.4)***
 Трейнер полностью переработан.
-Исправлено:
+– Исправлено:
 ◦ Ошибка в функции "Остановить таймер обратного отсчета", из-за которой было влияние на другие таймеры, не относящимся к таймерам заданий и слежки;
 ◦ Ошибка в функции "Низкое здоровье врагов", из-за которой функция не влияла на некоторых врагов.
-Добавлено:
+– Добавлено:
 ◦ Функция "Остановить таймер в гробнице ассасина";
 ◦ Функция "Увеличить время суток (+1 час)";
 ◦ Функция "Уменьшить время суток (-1 час)";
@@ -93,7 +105,7 @@ Changed:
 ◦ Функция "Бесконечное здоровье летающей машины";
 ◦ Функция "Бесконечная задержка дыхания под водой";
 ◦ Функция "Показать коллекционные предметы".
-Изменено:
+– Изменено:
 ◦ Функция "Неуязвимость". Нет анимации от урона;
 ◦ Функция "Низкое здоровье врагов". У врагов после получения урона здоровье сразу же становится низким;
 ◦ Функция "Нет известности". Текущая известность мгновенно обнуляется;
@@ -103,14 +115,146 @@ Changed:
 ◦ Функция "Убийство жителей без десинхронизации".
 
 ***Обновление: 06.01.2022 (версия 1.3)***
-Исправлено:
+– Исправлено:
 ◦ Ошибка с отображением текста на мониторах высокого разрешения.
-Изменено:
+– Изменено:
 ◦ Общая оптимизация трейнера.
 
 ***Обновление: 22.05.2022 (версия 1.2)***
-Изменено:
+– Изменено:
 ◦ Функция "Быстрая скорость перемещения".
 
 ***Обновление: 21.04.2021 (версия 1.1)***
-Изменено:◦ Функция "Неуязвимость".[ChangesEnd_RU]
+– Изменено:
+◦ Функция "Неуязвимость".[Changes]
+// ====================================================================================================
+// ===============================================[OLD]================================================
+// ====================================================================================================
+[VersionBegin]1.8[VersionEnd]
+
+[LinkBegin_PlayGround.ru]https://www.playground.ru/assassins_creed_2/cheat/assassins_creed_2_trejner_35_1_01_steam_ubisoft_connect_i_piratki_hex-1117873[LinkEnd_PlayGround.ru]
+[LinkBegin_NexusMods]https://www.nexusmods.com/assassinscreedii/mods/171?tab=files[LinkEnd_NexusMods]
+
+[ChangesBegin_EN]***Update: 04/06/2025 (version 1.8)***
+The trainer structure has been changed, the configuration files will be recreated.
+– Changed:
+◦ The "Time of day" function. Now the time of day changes in all missions;
+◦ The "No clip mode" function. Now works correctly when using the "Teleport to custom marker" function.
+
+***Update: 02/10/2025 (version 1.7)***
+– Fixed:
+◦ The "Infinite money" function. Codex pages are now collected correctly.
+– Changed:
+◦ The "Infinite money" function. To avoid the Codex page collection bug the function will only work when you spend money, not always as it did before.
+
+***Update: 11/10/2024 (version 1.6)***
+– Added:
+◦ The "No reload shoot" function.
+– Changed:
+◦ The "Invisibility" function. Enemies will stop paying attention to you if you are in combat.
+
+***Update: 10/26/2024 (version 1.5)***
+– Fixed:
+◦ Bug in the "Stop countdown timer" function that could cause the function to not work on the Ubisoft Connect-version and some pirated versions of the game.
+
+***Update: 10/22/2024 (version 1.4)***
+Trainer completely reworked.
+– Fixed:
+◦ Bug in the "Stop countdown timer" function which caused the function to be affected by other timers other than the mission and stalkering timers;
+◦ Bug in the "Low enemies health" function which caused the function to not affect some enemies.
+– Added:
+◦ The "Stop assassin tomb timer" function;
+◦ The "Increase the time of day (+1 hour)" function;
+◦ The "Decrease the time of day (-1 hour)" function;
+◦ The "No clip mode" function;
+◦ The "Freeze everyone in place" function;
+◦ The "Fast bodies/treasures loot" function;
+◦ The "Maximum health bar" function;
+◦ The "Infinite carriage health" function;
+◦ The "Infinite flying machine health" function;
+◦ The "Infinite underwater breath hold" function;
+◦ The "Show collectibles" function.
+– Changed:
+◦ The "Invulnerability" function. No damage animation;
+◦ The "Low enemies health" function. Enemies immediately have low health after taking damage;
+◦ The "No notoriety" function. The current notoriety is instantly reset to zero;
+◦ The "No armor break" function;
+◦ The "Infinite allies health" function. Allies do not take damage from falling from heights;
+◦ The "Teleport to custom marker" function;
+◦ The "Kill civilians without desynchronization" function.
+
+***Update: 06.01.2022 (version 1.3)***
+– Fixed:
+◦ Bug with text display on high-resolution monitors.
+Changed:
+◦ General trainer optimization.
+
+***Update: 22.05.2022 (version 1.2)***
+– Changed:
+◦ "Fast movement speed" function.
+
+***Update: 21.04.2021 (version 1.1)***
+– Changed:
+◦ "Invulnerability" function.[ChangesEnd_EN]
+// ====================================================================================================
+[ChangesBegin_RU]***Обновление: 06.04.2025 (версия 1.8)***
+Изменена структура трейнера, конфигурационные файлы будут созданы заново.
+– Изменено:
+◦ Функция "Время суток". Теперь время суток меняется во всех заданиях;
+◦ Функция "Режим "No clip"". Теперь работает корректно при использовании функции "Телепортироваться к метке".
+
+***Обновление: 10.02.2025 (версия 1.7)***
+– Исправлено:
+◦ Функция "Бесконечные деньги". Страницы Кодекса теперь собираются корректно.
+– Изменено:
+◦ Функция "Бесконечные деньги". Во избежание бага со сбором страниц Кодекса функция будет работать только при трате денег, а не всегда, как было до этого.
+
+***Обновление: 10.11.2024 (версия 1.6)***
+– Добавлено:
+◦ Функция "Стрельба без перезарядки".
+– Изменено:
+◦ Функция "Невидимость". Враги перестанут обращать на вас внимание, если вы в состоянии боя.
+
+***Обновление: 26.10.2024 (версия 1.5)***
+– Исправлено:
+◦ Ошибка в функции "Остановить таймер обратного отсчета", из-за которой функция могла не работать на Ubisoft Connect-версии и на некоторых пиратских версиях игры.
+
+***Обновление: 22.10.2024 (версия 1.4)***
+Трейнер полностью переработан.
+– Исправлено:
+◦ Ошибка в функции "Остановить таймер обратного отсчета", из-за которой было влияние на другие таймеры, не относящимся к таймерам заданий и слежки;
+◦ Ошибка в функции "Низкое здоровье врагов", из-за которой функция не влияла на некоторых врагов.
+– Добавлено:
+◦ Функция "Остановить таймер в гробнице ассасина";
+◦ Функция "Увеличить время суток (+1 час)";
+◦ Функция "Уменьшить время суток (-1 час)";
+◦ Функция "Режим "No clip"";
+◦ Функция "Заморозить всех на месте";
+◦ Функция "Быстрый обыск тел/сокровищ";
+◦ Функция "Максимальная шкала здоровья";
+◦ Функция "Бесконечное здоровье повозки";
+◦ Функция "Бесконечное здоровье летающей машины";
+◦ Функция "Бесконечная задержка дыхания под водой";
+◦ Функция "Показать коллекционные предметы".
+– Изменено:
+◦ Функция "Неуязвимость". Нет анимации от урона;
+◦ Функция "Низкое здоровье врагов". У врагов после получения урона здоровье сразу же становится низким;
+◦ Функция "Нет известности". Текущая известность мгновенно обнуляется;
+◦ Функция "Доспехи не ломаются";
+◦ Функция "Бесконечное здоровье союзников". Союзники не получают урон от падения с высоты;
+◦ Функция "Телепортироваться к метке";
+◦ Функция "Убийство жителей без десинхронизации".
+
+***Обновление: 06.01.2022 (версия 1.3)***
+– Исправлено:
+◦ Ошибка с отображением текста на мониторах высокого разрешения.
+– Изменено:
+◦ Общая оптимизация трейнера.
+
+***Обновление: 22.05.2022 (версия 1.2)***
+– Изменено:
+◦ Функция "Быстрая скорость перемещения".
+
+***Обновление: 21.04.2021 (версия 1.1)***
+– Изменено:
+◦ Функция "Неуязвимость".[ChangesEnd_RU]
