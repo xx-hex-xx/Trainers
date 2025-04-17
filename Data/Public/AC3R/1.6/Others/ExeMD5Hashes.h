@@ -21,3 +21,4 @@ const QString strExeMD5Hash_Pirated_9 = "";
 const QString strExeMD5Hash_Pirated_10 = "";
 
 // ====[ ADDITIONALS ]===========================================================
+[strExeMD5Hash_1]6f10745358bfe45b9ed6a6dd0b3c8d3b[strExeMD5Hash] // 240 FPS Ultra-Wide Monitor Patch - 1.03
