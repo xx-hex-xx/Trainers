@@ -1,8 +1,8 @@
 # AC1
 [Version]1.7[Version]
 
-[Link_PlayGround.ru]https://www.playground.ru/assassins_creed/cheat/assassins_creed_trejner_12_1_02_steam_ubisoft_connect_gog_galaxy_i_piratki_hex-1116880[Link]
-[Link_NexusMods]https://www.nexusmods.com/assassinscreed/mods/80?tab=files[Link]
+[Link_PlayGround.ru]https://www.playground.ru/assassins_creed/cheat/assassins_creed_trejner_12_1_02_steam_ubisoft_connect_i_gog_galaxy_hex-1116880[Link]
+[Link_NexusMods]https://www.nexusmods.com/assassinscreed/mods/110?tab=files[Link]
 
 [Changes_EN]***Update: 04/07/2025 (version 1.7)***
 The trainer structure has been changed, the configuration files will be recreated.
