@@ -1,8 +1,8 @@
 # AC2
 [Version]1.8[Version]
 
-[Link_PlayGround.ru]https://www.playground.ru/assassins_creed_2/cheat/assassins_creed_2_trejner_35_1_01_steam_ubisoft_connect_i_piratki_hex-1117873[Link]
-[Link_NexusMods]https://www.nexusmods.com/assassinscreedii/mods/171?tab=files[Link]
+[Link_PlayGround.ru]https://www.playground.ru/assassins_creed_2/cheat/assassins_creed_2_trejner_35_1_01_steam_i_ubisoft_connect_hex-1117873[Link]
+[Link_NexusMods]https://www.nexusmods.com/assassinscreedii/mods/189?tab=files[Link]
 
 [Changes_EN]***Update: 04/06/2025 (version 1.8)***
 The trainer structure has been changed, the configuration files will be recreated.
@@ -52,17 +52,17 @@ Trainer completely reworked.
 ◦ The "Teleport to custom marker" function;
 ◦ The "Kill civilians without desynchronization" function.
 
-***Update: 06.01.2022 (version 1.3)***
+***Update: 01/06/2022 (version 1.3)***
 – Fixed:
 ◦ Bug with text display on high-resolution monitors.
 Changed:
 ◦ General trainer optimization.
 
-***Update: 22.05.2022 (version 1.2)***
+***Update: 05/22/2022 (version 1.2)***
 – Changed:
 ◦ "Fast movement speed" function.
 
-***Update: 21.04.2021 (version 1.1)***
+***Update: 04/21/2021 (version 1.1)***
 – Changed:
 ◦ "Invulnerability" function.[Changes]
 // ====================================================================================================
@@ -132,8 +132,8 @@ Changed:
 // ====================================================================================================
 [VersionBegin]1.8[VersionEnd]
 
-[LinkBegin_PlayGround.ru]https://www.playground.ru/assassins_creed_2/cheat/assassins_creed_2_trejner_35_1_01_steam_ubisoft_connect_i_piratki_hex-1117873[LinkEnd_PlayGround.ru]
-[LinkBegin_NexusMods]https://www.nexusmods.com/assassinscreedii/mods/171?tab=files[LinkEnd_NexusMods]
+[LinkBegin_PlayGround.ru]https://www.playground.ru/assassins_creed_2/cheat/assassins_creed_2_trejner_35_1_01_steam_i_ubisoft_connect_hex-1117873[LinkEnd_PlayGround.ru]
+[LinkBegin_NexusMods]https://www.nexusmods.com/assassinscreedii/mods/189?tab=files[LinkEnd_NexusMods]
 
 [ChangesBegin_EN]***Update: 04/06/2025 (version 1.8)***
 The trainer structure has been changed, the configuration files will be recreated.
@@ -183,17 +183,17 @@ Trainer completely reworked.
 ◦ The "Teleport to custom marker" function;
 ◦ The "Kill civilians without desynchronization" function.
 
-***Update: 06.01.2022 (version 1.3)***
+***Update: 01/06/.2022 (version 1.3)***
 – Fixed:
 ◦ Bug with text display on high-resolution monitors.
 Changed:
 ◦ General trainer optimization.
 
-***Update: 22.05.2022 (version 1.2)***
+***Update: 05/22/2022 (version 1.2)***
 – Changed:
 ◦ "Fast movement speed" function.
 
-***Update: 21.04.2021 (version 1.1)***
+***Update: 04/21/2021 (version 1.1)***
 – Changed:
 ◦ "Invulnerability" function.[ChangesEnd_EN]
 // ====================================================================================================
