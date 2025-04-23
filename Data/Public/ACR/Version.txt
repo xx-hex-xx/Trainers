@@ -1,8 +1,8 @@
 # ACR
 [Version]1.7[Version]
 
-[Link_PlayGround.ru]https://www.playground.ru/assassins_creed_revelations/cheat/assassins_creed_revelations_trejner_48_1_03_steam_ubisoft_connect_i_piratki_hex-1213019[Link]
-[Link_NexusMods]https://www.nexusmods.com/assassinscreedrevelations/mods/150?tab=files[Link]
+[Link_PlayGround.ru]https://www.playground.ru/assassins_creed_revelations/cheat/assassins_creed_revelations_trejner_48_1_03_steam_i_ubisoft_connect_hex-1213019[Link]
+[Link_NexusMods]https://www.nexusmods.com/assassinscreedrevelations/mods/161?tab=files[Link]
 
 [Changes_EN]***Update: 04/05/2025 (version 1.7)***
 The trainer structure has been changed, the configuration files will be recreated.
@@ -114,8 +114,8 @@ The trainer has been completely reworked.
 // ====================================================================================================
 [VersionBegin]1.7[VersionEnd]
 
-[LinkBegin_PlayGround.ru]https://www.playground.ru/assassins_creed_revelations/cheat/assassins_creed_revelations_trejner_48_1_03_steam_ubisoft_connect_i_piratki_hex-1213019[LinkEnd_PlayGround.ru]
-[LinkBegin_NexusMods]https://www.nexusmods.com/assassinscreedrevelations/mods/150?tab=files[LinkEnd_NexusMods]
+[LinkBegin_PlayGround.ru]https://www.playground.ru/assassins_creed_revelations/cheat/assassins_creed_revelations_trejner_48_1_03_steam_i_ubisoft_connect_hex-1213019[LinkEnd_PlayGround.ru]
+[LinkBegin_NexusMods]https://www.nexusmods.com/assassinscreedrevelations/mods/161?tab=files[LinkEnd_NexusMods]
 
 [ChangesBegin_EN]***Update: 04/05/2025 (version 1.7)***
 The trainer structure has been changed, the configuration files will be recreated.
