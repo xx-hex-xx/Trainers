@@ -1,8 +1,8 @@
 # ACB
 [Version]1.8[Version]
 
-[Link_PlayGround.ru]https://www.playground.ru/assassins_creed_brotherhood/cheat/assassins_creed_brotherhood_trejner_45_1_03_steam_ubisoft_connect_i_piratki_hex-1212780[Link]
-[Link_NexusMods]https://www.nexusmods.com/assassinscreedbrotherhood/mods/212?tab=files[Link]
+[Link_PlayGround.ru]https://www.playground.ru/assassins_creed_brotherhood/cheat/assassins_creed_brotherhood_trejner_46_1_03_steam_i_ubisoft_connect_hex-1212780[Link]
+[Link_NexusMods]https://www.nexusmods.com/assassinscreedbrotherhood/mods/222?tab=files[Link]
 
 [Changes_EN]***Update: 04/06/2025 (version 1.8)***
 The trainer structure has been changed, the configuration files will be recreated.
@@ -162,8 +162,8 @@ Improved the compatibility of all functions.
 // ====================================================================================================
 [VersionBegin]1.8[VersionEnd]
 
-[LinkBegin_PlayGround.ru]https://www.playground.ru/assassins_creed_brotherhood/cheat/assassins_creed_brotherhood_trejner_45_1_03_steam_ubisoft_connect_i_piratki_hex-1212780[LinkEnd_PlayGround.ru]
-[LinkBegin_NexusMods]https://www.nexusmods.com/assassinscreedbrotherhood/mods/212?tab=files[LinkEnd_NexusMods]
+[LinkBegin_PlayGround.ru]https://www.playground.ru/assassins_creed_brotherhood/cheat/assassins_creed_brotherhood_trejner_46_1_03_steam_i_ubisoft_connect_hex-1212780[LinkEnd_PlayGround.ru]
+[LinkBegin_NexusMods]https://www.nexusmods.com/assassinscreedbrotherhood/mods/222?tab=files[LinkEnd_NexusMods]
 
 [ChangesBegin_EN]***Update: 04/06/2025 (version 1.8)***
 The trainer structure has been changed, the configuration files will be recreated.
