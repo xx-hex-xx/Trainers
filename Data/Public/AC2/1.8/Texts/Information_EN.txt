@@ -2,13 +2,9 @@ Trainer version: <VERSION>.
 Release date: <DATE>.
 
 Workability tested on the following versions:
--Licenses:
 ◦ Steam: 1.01;
-◦ Ubisoft Connect: 1.01.
--Pirated:
-◦ Repack by xatab: 1.01;
-◦ Repack by VITEK: 1.01;
-◦ Repack by DODI: 1.01.
+◦ Ubisoft Connect: 1.01;
+◦ Ubisoft Connect: 1.01 (ru-retail).
 
 <SEARCHED PROCESSES>
 

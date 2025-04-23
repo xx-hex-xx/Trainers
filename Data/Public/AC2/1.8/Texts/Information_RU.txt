@@ -2,13 +2,9 @@
 Дата выпуска: <DATE>.
 
 Работоспособность проверена на следующих версиях:
--Лицензии:
 ◦ Steam: 1.01;
-◦ Ubisoft Connect: 1.01.
--Пиратки:
-◦ Репак от xatab: 1.01;
-◦ Репак от VITEK: 1.01;
-◦ Репак от DODI: 1.01.
+◦ Ubisoft Connect: 1.01;
+◦ Ubisoft Connect: 1.01 (ru-retail).
 
 <SEARCHED PROCESSES>
 
