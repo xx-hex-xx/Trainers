@@ -2,15 +2,9 @@
 Дата выпуска: <DATE>.
 
 Работоспособность проверена на следующих версиях:
--Лицензии:
 ◦ Steam: 1.02;
 ◦ Ubisoft Connect: 1.02;
 ◦ GOG GALAXY: 1.02.
--Пиратки:
-◦ Репак от N.A.R.E.K.96: 1.02;
-◦ Репак от R. G. Mechanics: 1.02;
-◦ Репак от R. G. NoLimits-Team Games: 1.02;
-◦ Репак от DODI: 1.02.
 
 <SEARCHED PROCESSES>
 

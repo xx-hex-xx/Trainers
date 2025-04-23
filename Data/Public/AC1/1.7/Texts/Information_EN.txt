@@ -2,15 +2,9 @@ Trainer version: <VERSION>.
 Release date: <DATE>.
 
 Workability tested on the following versions:
--Licenses:
 ◦ Steam: 1.02;
 ◦ Ubisoft Connect: 1.02;
 ◦ GOG GALAXY: 1.02.
--Pirated:
-◦ Repack by N.A.R.E.K.96: 1.02;
-◦ Repack by R. G. Mechanics: 1.02;
-◦ Repack by R. G. NoLimits-Team Games: 1.02;
-◦ Repack by DODI: 1.02.
 
 <SEARCHED PROCESSES>
 
