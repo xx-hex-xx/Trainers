@@ -1,8 +1,8 @@
 # AC3R
 [Version]1.6[Version]
 
-[Link_PlayGround.ru]https://www.playground.ru/assassins_creed_3/cheat/assassins_creed_3_remastered_trejner_48_1_03_steam_ubisoft_connect_i_piratki_hex-1191225[Link]
-[Link_NexusMods]https://www.nexusmods.com/assassinscreediiiremastered/mods/99?tab=files[Link]
+[Link_PlayGround.ru]https://www.playground.ru/assassins_creed_3/cheat/assassins_creed_3_remastered_trejner_48_1_03_steam_i_ubisoft_connect_hex-1191225[Link]
+[Link_NexusMods]https://www.nexusmods.com/assassinscreediiiremastered/mods/110?tab=files[Link]
 
 [Changes_EN]***Update: 04/04/2025 (version 1.6)***
 The trainer structure has been changed, the configuration files will be recreated.
@@ -158,8 +158,8 @@ The trainer has been completely reworked.
 // ====================================================================================================
 [VersionBegin]1.6[VersionEnd]
 
-[LinkBegin_PlayGround.ru]https://www.playground.ru/assassins_creed_3/cheat/assassins_creed_3_remastered_trejner_48_1_03_steam_ubisoft_connect_i_piratki_hex-1191225[LinkEnd_PlayGround.ru]
-[LinkBegin_NexusMods]https://www.nexusmods.com/assassinscreediiiremastered/mods/99?tab=files[LinkEnd_NexusMods]
+[LinkBegin_PlayGround.ru]https://www.playground.ru/assassins_creed_3/cheat/assassins_creed_3_remastered_trejner_48_1_03_steam_i_ubisoft_connect_hex-1191225[LinkEnd_PlayGround.ru]
+[LinkBegin_NexusMods]https://www.nexusmods.com/assassinscreediiiremastered/mods/110?tab=files[LinkEnd_NexusMods]
 
 [ChangesBegin_EN]***Update: 04/04/2025 (version 1.6)***
 The trainer structure has been changed, the configuration files will be recreated.
