@@ -1,8 +1,8 @@
 # ACLR
 [Version]1.3[Version]
 
-[Link_PlayGround.ru]https://www.playground.ru/assassins_creed_3_liberation/cheat/assassins_creed_liberation_remastered_trejner_34_1_0_steam_ubisoft_connect_i_piratki_hex-1191861[Link]
-[Link_NexusMods]https://www.nexusmods.com/assassinscreedliberationhd/mods/8?tab=files[Link]
+[Link_PlayGround.ru]https://www.playground.ru/assassins_creed_3_liberation/cheat/assassins_creed_liberation_remastered_trejner_34_1_0_steam_i_ubisoft_connect_hex-1191861[Link]
+[Link_NexusMods]https://www.nexusmods.com/assassinscreedliberationhd/mods/10?tab=files[Link]
 
 [Changes_EN]***Update: 04/05/2025 (version 1.3)***
 The trainer structure has been changed, the configuration files will be recreated.
@@ -90,8 +90,8 @@ The trainer has been completely reworked.
 // ====================================================================================================
 [VersionBegin]1.3[VersionEnd]
 
-[LinkBegin_PlayGround.ru]https://www.playground.ru/assassins_creed_3_liberation/cheat/assassins_creed_liberation_remastered_trejner_34_1_0_steam_ubisoft_connect_i_piratki_hex-1191861[LinkEnd_PlayGround.ru]
-[LinkBegin_NexusMods]https://www.nexusmods.com/assassinscreedliberationhd/mods/8?tab=files[LinkEnd_NexusMods]
+[LinkBegin_PlayGround.ru]https://www.playground.ru/assassins_creed_3_liberation/cheat/assassins_creed_liberation_remastered_trejner_34_1_0_steam_i_ubisoft_connect_hex-1191861[LinkEnd_PlayGround.ru]
+[LinkBegin_NexusMods]https://www.nexusmods.com/assassinscreedliberationhd/mods/10?tab=files[LinkEnd_NexusMods]
 
 [ChangesBegin_EN]***Update: 04/05/2025 (version 1.3)***
 The trainer structure has been changed, the configuration files will be recreated.
