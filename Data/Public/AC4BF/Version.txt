@@ -1,8 +1,8 @@
 # AC4BF
 [Version]1.8[Version]
 
-[Link_PlayGround.ru]https://www.playground.ru/assassins_creed_4_black_flag/cheat/assassins_creed_4_black_flag_trejner_64_1_07_1_08_steam_ubisoft_connect_i_piratki_hex-1123321[Link]
-[Link_NexusMods]https://www.nexusmods.com/assassinscreedivblackflag/mods/674[Link]
+[Link_PlayGround.ru]https://www.playground.ru/assassins_creed_4_black_flag/cheat/assassins_creed_4_black_flag_trejner_64_1_07_1_08_steam_i_ubisoft_connect_hex-1123321[Link]
+[Link_NexusMods]https://www.nexusmods.com/assassinscreedivblackflag/mods/704?tab=files[Link]
 
 [Changes_EN]***Update: 04/02/2025 (version 1.8)***
 The trainer structure has been changed, the configuration files will be recreated.
@@ -70,7 +70,7 @@ Fixed bugs when disabling some functions.
 ◦ The "Ship invisibility" function. The game does not crash if the "Infinite ship health" function has not been activated at least once.
 
 ***Update: 07/01/2022 (version 1.3)***
-Improved trainer compatibility with Ubisoft Connect version and pirated version of the game with cracks from 3DM and RELOADED.
+Improved trainer compatibility with the Ubisoft Connect version of the game.
 
 ***Update: 06/30/2022 (version 1.2)***
 – Added:
@@ -164,7 +164,7 @@ Improved trainer compatibility with Ubisoft Connect version and pirated version 
 ◦ Функция "Невидимость корабля". Игра больше не вылетает, если функция "Бесконечное здоровье корабля" не была активирована хотя бы раз.
 
 ***Обновление: 01.07.2022 (версия 1.3)***
-Улучшена совместимость трейнера с версией Ubisoft Connect и пиратской версией игры с кряками от 3DM и RELOADED.
+Улучшена совместимость трейнера с Ubisoft Connect-версией игры.
 
 ***Обновление: 30.06.2022 (версия 1.2)***
 – Добавлено:
