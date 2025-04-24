@@ -2,15 +2,8 @@ Trainer version: <VERSION>.
 Release date: <DATE>.
 
 Workability tested on the following versions:
--Licenses:
 ◦ Steam: 1.07 & 1.08;
 ◦ Ubisoft Connect: 1.07 & 1.08.
--Pirated:
-◦ Repack by xatab: 1.07;
-◦ Repack by dixen18: 1.08;
-◦ Repack by Decepticon: 1.08;
-◦ Repack by Wanterlude: 1.08;
-◦ Repack by DODI: 1.07.
 
 <SEARCHED PROCESSES>
 
