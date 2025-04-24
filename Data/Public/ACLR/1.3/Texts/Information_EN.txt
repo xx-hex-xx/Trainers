@@ -26,7 +26,7 @@ Function notes:
 ◦ Infinite fast poison darts – the current number of fast poison darts does not decrease;
 ◦ Infinite berserk poison darts – the current number of berserk poison darts does not decrease;
 ◦ Infinite arrows – the current number of arrows does not decrease;
-◦ Invisibility – enemies and beggars will not pay attention to you;
+◦ Invisibility – enemies will not pay attention to you;
 ◦ Stop countdown timer – the current timer time in main memories, in additional memories tasks and during stalkering will not decrease. To avoid bugs in mission use only when necessary, do not keep the function permanently activated;
 ◦ Fast movement speed – sets the movement speed to 1.75;
 ◦ High jump – sets the jump height to 7.25;
