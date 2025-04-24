@@ -2,14 +2,8 @@ Trainer version: <VERSION>.
 Release date: <DATE>.
 
 Workability tested on the following versions:
--Licenses:
 ◦ Steam: 1.03;
 ◦ Ubisoft Connect: 1.03.
--Pirated:
-◦ Repack by xatab: 1.03;
-◦ Repack by FitGirl: 1.03;
-◦ Repack by =nemos=: 1.03;
-◦ Repack by DODI: 1.03.
 
 <SEARCHED PROCESSES>
 
@@ -35,7 +29,7 @@ Function notes:
 ◦ Infinite trip mines – the current number of trip mines does not decrease;
 ◦ Infinite snares – the current number of snares does not decrease;
 ◦ Infinite bait/raw meat – the current amount of bait/raw meat does not decrease;
-◦ Invisibility – enemies and beggars will not pay attention to you;
+◦ Invisibility – enemies will not pay attention to you;
 ◦ Stop countdown timer – the current timer time in main memories, in additional memories tasks and during stalkering will not decrease. To avoid bugs in mission use only when necessary, do not keep the function permanently activated;
 ◦ Fast movement speed – sets the movement speed to 1.75;
 ◦ High jump – sets the jump height to 7.25;
