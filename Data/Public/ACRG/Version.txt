@@ -1,8 +1,8 @@
 # ACRG
 [Version]1.2[Version]
 
-[Link_PlayGround.ru]https://www.playground.ru/assassins_creed_rogue/cheat/assassins_creed_rogue_trejner_64_1_1_0_steam_ubisoft_connect_i_piratki_hex-1141183[Link]
-[Link_NexusMods]https://www.nexusmods.com/assassinscreedrogue/mods/311?tab=files[Link]
+[Link_PlayGround.ru]https://www.playground.ru/assassins_creed_rogue/cheat/assassins_creed_rogue_trejner_64_1_1_0_steam_i_ubisoft_connect_hex-1141183[Link]
+[Link_NexusMods]https://www.nexusmods.com/assassinscreedrogue/mods/324?tab=files[Link]
 
 [Changes_EN]***Update: 04/01/2025 (version 1.2)***
 The trainer has been completely reworked.
