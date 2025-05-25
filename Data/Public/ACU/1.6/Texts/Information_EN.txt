@@ -21,7 +21,7 @@ My Boosty: https://boosty.to/trainersbyhex
 
 Function notes:
 ◦ Invulnerability – health is always maximum, falls from a great height are safe, no damage animation;
-◦ Infinite money – sets the amount of money to 300,000;
+◦ Infinite money – sets the amount of money to 300,000. To see the effect you need to spend money;
 ◦ Infinite medicines – the current number of medicines does not decrease;
 ◦ Infinite bullets – the current number of bullets does not decrease;
 ◦ Infinite smoke bombs – the current number of smoke bombs does not decrease;
@@ -39,7 +39,7 @@ Function notes:
 ◦ High jump – sets the jump height to 7.25;
 ◦ Teleport to custom marker – sets the teleport height to 120.25. Out of water the teleport may not work in which case you can use the "No clip mode" function;
 ◦ No clip mode – to control the character use the W and S keys to move along the Y-axis (forward-backward), A and D to move along the X-axis (left-right). To go up use the Spacebar key, to go down use the Left Ctrl key. It is recommended to use it together with the "Invulnerability" function!;
-◦ Infinite creed points – sets the number of creed points to 50,000;
+◦ Infinite creed points – sets the number of creed points to 50,000. To see the effect you need to spend creed points;
 ◦ Infinite health boosts – the number of health boosts is always 10;
 ◦ Infinite stealth boosts – the number of stealth boosts is always 10;
 ◦ Infinite melee boosts – the number of melee boosts is always 10;
