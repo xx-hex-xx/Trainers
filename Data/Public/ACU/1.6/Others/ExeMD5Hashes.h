@@ -1,0 +1,10 @@
+// |||||||||||||||||||||||||||||||||EXE HASHES|||||||||||||||||||||||||||||||||||
+// ====[ MAIN ]==================================================================
+strExeMD5Hash_Steam = "42d4cd181411288244a237ace58f5796"; // 1.5.0
+strExeMD5Hash_UbisoftConnect = "42d4cd181411288244a237ace58f5796"; // 1.5.0
+strExeMD5Hash_Other_1 = "42d4cd181411288244a237ace58f5796"; // Repack by xatab - 1.5.0
+strExeMD5Hash_Other_2 = "42d4cd181411288244a237ace58f5796"; // Repack by FitGirl - 1.5.0
+strExeMD5Hash_Other_3 = "42d4cd181411288244a237ace58f5796"; // Repack by Decepticon - 1.5.0
+strExeMD5Hash_Other_4 = "42d4cd181411288244a237ace58f5796"; // Repack by DODI - 1.5.0
+
+// ====[ ADDITIONALS ]===========================================================
