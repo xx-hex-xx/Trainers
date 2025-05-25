@@ -1,5 +1,159 @@
 # ACU
 [Version]1.6[Version]
 
-[Link_PlayGround.ru][Link]
-[Link_NexusMods][Link]
+[Link_PlayGround.ru]<nolink>[Link]
+[Link_NexusMods]<nolink>[Link]
+
+[Changes_EN]***Update: 05/25/2025 (version 1.6)***
+The trainer has been completely reworked, crashes during the game when using some functions have been fixed.
+– Added:
+◦ The "Time of day" function;
+◦ The "Increase time of day (+6 hours)" function;
+◦ The "Decrease time of day (-6 hours)" function;
+◦ The "No clip mode" mode function;
+◦ The "Fast bodies loot" function;
+◦ The "Fast steal" function;
+◦ The "Unlock gears" function;
+◦ The "Easy lockpicking" function;
+◦ The "Infinite boost effect duration" function;
+◦ The "Maximum assassin rank" function;
+◦ The "Show collectibles" function;
+◦ The "Full memory synchronization" function;
+◦ The "Maximum Helix data collection" function;
+◦ The "Infinite lantern" function.
+– Changed:
+◦ The "Invulnerability" function. No animation from damage, health no longer drops to zero in some cases;
+◦ The "Invisibility" function. During combat enemies will lose sight of you;
+◦ The "Stop countdown timer" function. Also affects the timer while stalkering;
+◦ The "High jump" function. Now works correctly;
+◦ The "Teleport to custom marker" function. Teleport now works correctly for all icons on the map;
+◦ The "Low enemies health" function. Enemies' health immediately becomes low after receiving damage;
+◦ The "Infinite allies health" function. Affects all allies;
+◦ The "No reload shoot" function. Now affects only the player;
+◦ The "Free skills unlock" function reworked to "Free skills purchase" function.
+– Removed:
+◦ The "Creed points multiplier" function;
+◦ The "Unfog current map" function.
+
+***Update: 01/03/2023 (version 1.5) ***
+The trainer is now fully compatible with Windows 11. Fixed a bug where the trainer in some cases could not find an already running game process by the class name of its window also solved the problem with the unsuccessful creation of a "code cave" and the allocation of memory for trainer functions during the game on this operating system.
+– Fixed:
+◦ The "Increased eagle vision radius" function. Now when you deactivate the function the eagle vision radius returns to its original value;
+◦ The "Infinite Creed Points" function.
+– Changed:
+◦ The "Teleport to custom marker" function. It should now work more stable but sometimes the teleport will not work if you have set a mark on an icon for example on a store icon, in this case put a mark next to the icon.
+
+***Update: 09/12/2022 (version 1.4)***
+– Added:
+◦ The "Unfog current map" function.
+– Fixed:
+◦ The bug related to the "Infinite stun grenades" and "Infinite creed points" functions that could cause the values ​​of infinite items to be set to 3.
+
+***Update: 08/07/2022 (version 1.3)***
+Improved functions compatibility.
+– Added:
+◦ The "Infinite allies health" function;
+◦ The "Stop all people" function;
+◦ The "Get desynchronization" function.
+– Changed:
+◦ The "Invulnerability" function;
+◦ The "Invisibility" function;
+◦ The "Fast movement speed" function;
+◦ The "Creed points multiplier" function;
+◦ The "Infinite sync points" function. Now the current amount of sync points does not decrease when you spend them so there should be no bug with their negative number;
+◦ The "Free skills unlock" function. Now skill acquisition works correctly and sync points will no longer decrease;
+◦ The "Infinite melee boosts", "Infinite health boosts", "Infinite stealth boosts" functions. Now their number changes immediately after activating the functions.
+
+***Update: 11/04/2021 (version 1.2)***
+– Added:
+◦ The "Low enemies health" function.
+– Fixed:
+◦ The "Free skills unlock" function.
+
+***Update: 10/31/2021 (version 1.1)***
+– Added:
+◦ The "No reload" function;
+◦ The "Free skills unlock" function.
+– Fixed:
+◦ The "Super speed" function. Now the function should work for all players as well as in the "Dead Kings" DLC.
+– Changed:
+◦ The "Invulnerability" function. Now there should be no bug when fighting enemies;
+◦ The "Infinite lockpicks" function. When breaking a lockpick their number does not visually decrease;
+◦ The "Teleport to custom marker" function. Should work more stably.[Changes]
+// ====================================================================================================
+[Changes_RU]***Обновление: 25.05.2025 (версия 1.6)***
+Трейнер полностью переработан, устранены вылеты во время игры при использовании некоторых функций.
+– Добавлено:
+◦ Функция "Время суток";
+◦ Функция "Увеличить время суток (+6 часов)";
+◦ Функция "Уменьшить время суток (-6 часов)";
+◦ Функция "Режим "No clip"";
+◦ Функция "Быстрый обыск тел";
+◦ Функция "Быстрая кража";
+◦ Функция "Разблокировать снаряжение";
+◦ Функция "Легкий взлом замков";
+◦ Функция "Бесконечное действие усиления";
+◦ Функция "Максимальный ранг ассасина";
+◦ Функция "Показать коллекционные предметы";
+◦ Функция "Полная синхронизация воспоминания";
+◦ Функция "Максимальный сбор данных Helix";
+◦ Функция "Бесконечный фонарь".
+– Изменено:
+◦ Функция "Неуязвимость". Нет анимации от урона, здоровье больше не опускается до нуля в некоторых случаях;
+◦ Функция "Невидимость". Во время боя враги потеряют вас из виду;
+◦ Функция "Остановить таймер обратного отсчета". Также влияет на таймер во время слежки;
+◦ Функция "Высокий прыжок". Теперь работает корректно;
+◦ Функция "Телепортироваться к метке". Телепорт теперь работает корректно по всем значкам на карте;
+◦ Функция "Низкое здоровье врагов". У врагов после получения урона здоровье сразу же становится низким;
+◦ Функция "Бесконечное здоровье союзников". Влияет на всех союзников;
+◦ Функция "Стрельба без перезарядки". Теперь влияет только на игрока;
+◦ Функция "Свободная разблокировка навыков" передалана в функцию "Свободная покупка навыков навыков".
+– Удалено:
+◦ Функция "Множитель очков кредо";
+◦ Функция "Убрать туман войны с текущей карты".
+
+***Обновление: 03.01.2023 (версия 1.5)***
+Трейнер теперь полностью совместим с Windows 11. Исправлена ошибка, при которой трейнер в некоторых случаях не мог найти уже запущенный процесс игры по названию класса его окна, также решена проблема с неудачным созданием "кодовой пещеры" и выделением памяти для функций трейнера в процессе игры на этой операционной системе.
+– Исправлено:
+◦ Функция "Увеличенный радиус орлиного зрения". Теперь при деактивации функции радиус орлиного зрения возвращается к исходному значению;
+◦ Функция "Бесконечные очки кредо".
+– Изменено:
+◦ Функция "Телепортироваться к метке". Теперь она должна работать стабильнее, но иногда телепорт не будет срабатывать, если вы установили метку на какую-либо иконку, например, на иконку магазина, в таком случае поставьте метку рядом с иконкой.
+
+***Обновление: 12.09.2022 (версия 1.4)***
+– Добавлено:
+◦ Функция "Убрать "туман войны" с текущей карты".
+– Исправлено:
+◦ Ошибка, связанная с функциями "Бесконечные оглушающие гранаты" и "Бесконечные очки кредо", которая могла привести к тому, что значения бесконечных предметов могли установиться на 3.
+
+***Обновление: 07.08.2022 (версия 1.3)***
+-Улучшена совместимость функций.
+– Добавлено:
+◦ Функция "Бесконечное здоровье союзников";
+◦ Функция "Остановить всех людей";
+◦ Функция "Получить десинхронизацию".
+– Изменено:
+◦ Функция "Неуязвимость";
+◦ Функция "Невидимость";
+◦ Функция "Быстрая скорость перемещения";
+◦ Функция "Множитель очков кредо";
+◦ Функция "Бесконечные очки синхронизации". Теперь текущее количество очков синхронизации не уменьшается при их трате, поэтому бага с их отрицательным количеством быть не должно;
+◦ Функция "Свободная разблокировка навыков". Теперь приобретение навыков работает корректно и очки синхронизации больше не будут уменьшаться;
+◦ Функции "Бесконечные усиления "Ближний бой", "Бесконечные усиления "Здоровье", "Бесконечные усиления "Незаметность". Теперь их количество изменяется сразу же после активации функций.
+
+***Обновление: 04.11.2021 (версия 1.2)***
+– Добавлено:
+◦ Функция "Низкий уровень здоровья врагов".
+– Исправлено:
+◦ Функция "Свободная разблокировка навыков".
+
+***Обновление: 31.10.2021 (версия 1.1)***
+– Добавлено:
+◦ Функция "Стрельба без перезарядки";
+◦ Функция "Свободная разблокировка навыков".
+– Исправлено:
+◦ Функция "Быстрый бег и плавание". Теперь функция должна работать у всех игроков, а также в DLC "Падшие короли".
+– Изменено:
+◦ Функция "Неуязвимость". Теперь не должно быть бага при сражении с врагами;
+◦ Функция "Бесконечные отмычки". Во время взлома замка при ломании отмычки их количество визуально не уменьшается;
+◦ Функция "Телепортироваться к метке". Должна работать стабильней.[Changes]
