@@ -1,8 +1,8 @@
 # ACU
 [Version]1.6[Version]
 
-[Link_PlayGround.ru]<nolink>[Link]
-[Link_NexusMods]<nolink>[Link]
+[Link_PlayGround.ru]https://www.playground.ru/assassins_creed_unity/cheat/assassins_creed_unity_trejner_46_1_5_0_steam_i_ubisoft_connect_hex-1148490[Link]
+[Link_NexusMods]https://www.nexusmods.com/assassinscreedunity/mods/364?tab=files[Link]
 
 [Changes_EN]***Update: 05/25/2025 (version 1.6)***
 The trainer has been completely reworked, crashes during the game when using some functions have been fixed.
