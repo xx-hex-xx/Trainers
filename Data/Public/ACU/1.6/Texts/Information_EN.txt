@@ -51,4 +51,4 @@ Function notes:
 ◦ Maximum assassin rank – in order to see the effect you need to earn experience points for example by performing a perfect parry or an air kill.
 ◦ Full memory synchronization – allows you to achieve 100% synchronization in any memory. If you have already performed an action that will not result in full synchronization activate the function and keep it activated until you get a notification that 100% synchronization has been achieved;
 ◦ Maximum Helix data collection – adds 2,000 data points upon the first collection in the Helix Rift which immediately unlocks the portal and the stuck assassin;
-◦ Infinite lantern – the lantern is always fully charged and will continue to work after water gets into it;
+◦ Infinite lantern – the lantern is always fully charged and will continue to work after water gets into it.
