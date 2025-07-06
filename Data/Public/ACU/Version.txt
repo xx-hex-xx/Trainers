@@ -1,10 +1,16 @@
 # ACU
-[Version]1.6[Version]
+[Version]1.7[Version]
 
-[Link_PlayGround.ru]https://www.playground.ru/assassins_creed_unity/cheat/assassins_creed_unity_trejner_46_1_5_0_steam_i_ubisoft_connect_hex-1148490[Link]
+[Link_PlayGround.ru]https://www.playground.ru/assassins_creed_unity/cheat/assassins_creed_unity_trejner_47_1_5_0_steam_i_ubisoft_connect_hex-1148490[Link]
 [Link_NexusMods]https://www.nexusmods.com/assassinscreedunity/mods/364?tab=files[Link]
 
-[Changes_EN]***Update: 05/25/2025 (version 1.6)***
+[Changes_EN]***Update: 06.07.2025 (version 1.7)***
+– Added:
+◦ Function "Fast "Disguise" skill cooldown".
+– Fixed:
+◦ Function "Unlock gears". Now correctly unlocks outfits.
+
+***Update: 05/25/2025 (version 1.6)***
 The trainer has been completely reworked, crashes during the game when using some functions have been fixed.
 – Added:
 ◦ The "Time of day" function;
@@ -81,7 +87,13 @@ Improved functions compatibility.
 ◦ The "Infinite lockpicks" function. When breaking a lockpick their number does not visually decrease;
 ◦ The "Teleport to custom marker" function. Should work more stably.[Changes]
 // ====================================================================================================
-[Changes_RU]***Обновление: 25.05.2025 (версия 1.6)***
+[Changes_RU]***Обновление: 06.07.2025 (версия 1.7)***
+– Добавлено:
+◦ Функция "Быстрая перезарядка навыка "Маскировка"".
+– Исправлено:
+◦ Функция "Разблокировать снаряжение". Теперь корректно разблокирует костюмы.
+
+***Обновление: 25.05.2025 (версия 1.6)***
 Трейнер полностью переработан, устранены вылеты во время игры при использовании некоторых функций.
 – Добавлено:
 ◦ Функция "Время суток";
