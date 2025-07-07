@@ -5,7 +5,7 @@
 [Link_NexusMods]https://www.nexusmods.com/assassinscreedsyndicate/mods/170?tab=files[Link]
 
 [Changes_EN]***Update: 07/07/2025 (version 1.3)***
-The trainer has been completely redesigned, crashes during the game when using some functions have been eliminated.
+The trainer has been completely reworked, crashes during the game when using some functions have been fixed.
 – Added:
 ◦ The "Increase time of day (+1 hour)" function;
 ◦ The "Decrease time of day (-1 hour)" function;
