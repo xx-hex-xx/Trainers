@@ -1,6 +1,110 @@
 # ACS
-Version: [VersionBegin]1.2[VersionEnd]
-Link: [LinkBegin]https://www.playground.ru/assassins_creed_syndicate/cheat/assassins_creed_syndicate_trejner_27_1_51_uplay_steam_egs_upd_28_08_2022_hex-1150178[LinkEnd]
-Changes:
-[ChangesBegin_EN]***Update: 08/29/2022***<n>-Fixed a critical error when activate the "Invincible", "Invisibility" or "Teleport to custom markeк" functions which could lead to a game crash on the Standard Edition.<n><n>***Update: 08/28/2022***<n>Please download the new trainer version. .NET is no longer required the trainer is completely rewritten in C++.<n>-Added the "Stop all people" function.<n>-Added the "Get desynchronization" function.<n>-Reworked and improved "Invulnerability" function. Now the function also protects against the explosion of dynamite.<n>-Reworked the "Invisibility" function.<n>-Reworked the "Fast movement speed" function.<n>-Improved and fixed the "Infinite allies health" function. Now the function should work correctly, should be no crashes and the function now also affects members of your gang.<n>-Improved and fixed the "Low enemies health" function. Now the function should work correctly, should be no crashes.<n>-Improved the "Invisibility chemicals"/"Invisibility thread"/"Infinite iron"/Infinite leather" functions. Now you can edit their number.<n>-Improved the "Teleport to custom marker" function.[ChangesEnd_EN]
-[ChangesBegin_RU]***Обновление: 29.08.2022***<n>-Исправлена критическая ошибка при включении функций "Неуязвимость", "Невидимость" или "Телепортироваться к метке", которая могла привести к вылету игры на стандартном издании.<n><n>***Обновление: 28.08.2022***<n>Пожалуйста, загрузите новую версию. .NET больше не потребуется, трейнер полностью переписан на C++.<n>-Добавлена функция "Остановить всех людей".<n>-Добавлена функция "Получить десинхронизацию".<n>-Переделана и улучшена функция "Неуязвимость". Теперь функция также защищает от взрыва динамита.<n>-Переделана функция "Невидимость".<n>-Переделана функция "Быстрая скорость перемещения".<n>-Улучшена и исправлена функция "Бесконечное здоровье союзников". Теперь функция должна работать корректно, вылетов быть не должно, также функция теперь влияет и на членов вашей банды.<n>-Улучшена и исправлена функция "Низкое здоровье врагов". Теперь функция должна работать корректно, вылетов быть не должно.<n>-Улучшены функции "Бесконечные химикаты"/"Бесконечная шерсть"/"Бесконечный металл"/"Бесконечная кожа". Теперь можно редактировать их количество.<n>-Улучшена функция "Телепортироваться к метке".[ChangesEnd_RU]
+[Version]1.3[Version]
+
+[Link_PlayGround.ru]https://www.playground.ru/assassins_creed_syndicate/cheat/assassins_creed_syndicate_trejner_43_1_51_steam_ubisoft_connect_i_egs_hex-1150178[Link]
+[Link_NexusMods]https://www.nexusmods.com/assassinscreedsyndicate/mods/170?tab=files[Link]
+
+[Changes_EN]***Update: 07/07/2025 (version 1.3)***
+The trainer has been completely redesigned, crashes during the game when using some functions have been eliminated.
+– Added:
+◦ The "Increase time of day (+1 hour)" function;
+◦ The "Decrease time of day (-1 hour)" function;
+◦ The "No clip mode" function;
+◦ The "Fast bodies loot" function;
+◦ The "Fast steal and lockpick" function;
+◦ The "Kill civilians without desynchronization" function;
+◦ The "Increased eagle vision radius" function;
+◦ The "Infinite carriage health" function;
+◦ The "One hit carriages destruction" function;
+◦ The "Unlock perks" function;
+◦ The "Free skills purchase" function;
+◦ The "Unlock gears" function;
+◦ The "Maximum combo" function;
+◦ The "Show collectibles" function;
+◦ The "Full memory synchronization" function;
+◦ The "Using eagle vision in sprint" function.
+– Changed:
+◦ The "Invulnerability" function. No animation from damage, health no longer drops to zero in some cases;
+◦ The "Invisibility" function. During combat enemies will lose sight of you;
+◦ The "Stop countdown timer" function. Also affects the timer while stalkering;
+◦ The "Teleport to custom marker" function. Teleport now works correctly for all icons on the map;
+◦ The "Low enemies health" function. Enemies' health immediately becomes low after receiving damage;
+◦ The "Infinite allies health" function. Affects all allies;
+◦ The "No reload shoot" function. Now only affects the player.
+– Removed:
+◦ The "Player level" function.
+
+***Update: 08/29/2022 (version 1.2)***
+– Fixed:
+◦ Critical bug when activate the "Invulnerability", "Invisibility" or "Teleport to custom marker" functions which could lead to a game crash on the Standard edition.
+
+***Update: 08/28/2022 (version 1.1)***
+– Added:
+◦ The "Freeze everyone in place" function;
+◦ The "Get desynchronization" function.
+– Fixed:
+◦ The "Infinite allies health" function. Now the function should work correctly, there should be no crashes and the function now affects your gang members;
+◦ The "Low enemies health" function. Now the function should work correctly, there should be no crashes.
+– Changed:
+◦ The "Invulnerability" function. Now protects against dynamite explosions;
+◦ The "Invisibility" function;
+◦ The "Fast movement speed" function;
+◦ The "Infinite chemicals", "Infinite thread", "Infinite iron" and "Infinite leather" functions. You can edit their number;
+◦ The "Teleport to custom marker" functions.[Changes]
+// ====================================================================================================
+[Changes_RU]***Обновление: 07.07.2025 (версия 1.3)***
+Трейнер полностью переработан, устранены вылеты во время игры при использовании некоторых функций.
+– Добавлено:
+◦ Функция "Увеличить время суток (+1 час)";
+◦ Функция "Уменьшить время суток (-1 час)";
+◦ Функция "Режим "No clip"";
+◦ Функция "Быстрый обыск тел";
+◦ Функция "Быстрая кража и взлом замков";
+◦ Функция "Убийство жителей без десинхронизации";
+◦ Функция "Увеличенный радиус орлиного зрения";
+◦ Функция "Бесконечное здоровье кареты";
+◦ Функция "Уничтожение карет с одного удара";
+◦ Функция "Разблокировать черты";
+◦ Функция "Свободная покупка навыков";
+◦ Функция "Разблокировать снаряжение";
+◦ Функция "Максимальная серия комбо-ударов";
+◦ Функция "Показать коллекционные предметы";
+◦ Функция "Полная синхронизация воспоминания";
+◦ Функция "Использование орлиного зрения при беге".
+– Изменено:
+◦ Функция "Неуязвимость". Нет анимации от урона, здоровье больше не опускается до нуля в некоторых случаях;
+◦ Функция "Невидимость". Во время боя враги потеряют вас из виду;
+◦ Функция "Остановить таймер обратного отсчета". Также влияет на таймер во время слежки;
+◦ Функция "Телепортироваться к метке". Телепорт теперь работает корректно по всем значкам на карте;
+◦ Функция "Низкое здоровье врагов". У врагов после получения урона здоровье сразу же становится низким;
+◦ Функция "Бесконечное здоровье союзников". Влияет на всех союзников;
+◦ Функция "Стрельба без перезарядки". Теперь влияет только на игрока.
+– Удалено:
+◦ Функция "Уровень игрока".
+
+***Обновление: 29.08.2022 (версия 1.2)***
+– Исправлено:
+◦ Критическая ошибка при включении функций "Неуязвимость", "Невидимость" или "Телепортироваться к метке", которая могла привести к вылету игры на стандартном издании.
+
+***Обновление: 28.08.2022 (версия 1.1)***
+– Добавлено:
+◦ Функция "Заморозить всех на месте";
+◦ Функция "Получить десинхронизацию".
+– Исправлено:
+◦ Функция "Бесконечное здоровье союзников". Теперь функция должна работать корректно, вылетов быть не должно, также функция теперь влияет и на членов вашей банды;
+◦ Функция "Низкое здоровье врагов". Теперь функция должна работать корректно, вылетов быть не должно.
+– Изменено:
+◦ Функция "Неуязвимость". Теперь защищает от взрыва динамита;
+◦ Функция "Невидимость";
+◦ Функция "Быстрая скорость перемещения";
+◦ Функции "Бесконечные химикаты", "Бесконечный шелк", "Бесконечный металл" и "Бесконечная кожа". Можно редактировать их количество;
+◦ Функции "Телепортироваться к метке".[Changes]
+// ====================================================================================================
+// ===============================================[OLD]================================================
+// ====================================================================================================
+[VersionBegin]1.3[VersionEnd]
+
+[LinkBegin]https://www.playground.ru/assassins_creed_syndicate/cheat/assassins_creed_syndicate_trejner_43_1_51_steam_ubisoft_connect_i_egs_hex-1150178[LinkEnd]
+
+[ChangesBegin_EN]***Update: 07/07/2025 (version 1.3)***<n>The trainer has been completely redesigned, crashes during the game when using some functions have been eliminated.<n>– Added:<n>◦ The "Increase time of day (+6 hours)" function;<n>◦ The "Decrease time of day (-6 hours)" function;<n>◦ The "No clip mode" function;<n>◦ The "Fast bodies loot" function;<n>◦ The "Fast steal and lockpick" function;<n>◦ The "Kill civilians without desynchronization" function;<n>◦ The "Increased eagle vision radius" function;<n>◦ The "Infinite carriage health" function;<n>◦ The "One hit carriages destruction" function;<n>◦ The "Unlock perks" function;<n>◦ The "Free skills purchase" function;<n>◦ The "Unlock gears" function;<n>◦ The "Maximum combo" function;<n>◦ The "Show collectibles" function;<n>◦ The "Full memory synchronization" function;<n>◦ The "Using eagle vision in sprint" function.<n>– Changed:<n>◦ The "Invulnerability" function. No animation from damage, health no longer drops to zero in some cases;<n>◦ The "Invisibility" function. During combat enemies will lose sight of you;<n>◦ The "Stop countdown timer" function. Also affects the timer while stalkering;<n>◦ The "Teleport to custom marker" function. Teleport now works correctly for all icons on the map;<n>◦ The "Low enemies health" function. Enemies' health immediately becomes low after receiving damage;<n>◦ The "Infinite allies health" function. Affects all allies;<n>◦ The "No reload shoot" function. Now only affects the player;<n>– Removed:<n>◦ The "Player level" function.<n><n>***Update: 08/29/2022 (version 1.2)***<n>– Fixed:<n>◦ Critical error when activate the "Invulnerability", "Invisibility" or "Teleport to custom marker" functions which could lead to a game crash on the Standard edition.<n><n>***Update: 08/28/2022 (version 1.1)***<n>– Added:<n>◦ The "Freeze everyone in place" function;<n>◦ The "Get desynchronization" function.<n>– Fixed:<n>◦ The "Infinite allies health" function. Now the function should work correctly, there should be no crashes and the function now affects your gang members;<n>◦ The "Low enemies health" function. Now the function should work correctly, there should be no crashes.<n>– Changed:<n>◦ The "Invulnerability" function. Now protects against dynamite explosions;<n>◦ The "Invisibility" function;<n>◦ The "Fast movement speed" function;<n>◦ The "Infinite chemicals", "Infinite thread", "Infinite iron" and "Infinite leather" functions. You can edit their number;<n>◦ The "Teleport to custom marker" functions.[ChangesEnd_EN]
+[ChangesBegin_RU]***Обновление: 07.07.2025 (версия 1.3)***<n>Трейнер полностью переработан, устранены вылеты во время игры при использовании некоторых функций.<n>– Добавлено:<n>◦ Функция "Увеличить время суток (+6 часов)";<n>◦ Функция "Уменьшить время суток (-6 часов)";<n>◦ Функция "Режим "No clip"";<n>◦ Функция "Быстрый обыск тел";<n>◦ Функция "Быстрая кража и взлом замков";<n>◦ Функция "Убийство жителей без десинхронизации";<n>◦ Функция "Увеличенный радиус орлиного зрения";<n>◦ Функция "Бесконечное здоровье кареты";<n>◦ Функция "Уничтожение карет с одного удара";<n>◦ Функция "Разблокировать черты";<n>◦ Функция "Свободная покупка навыков";<n>◦ Функция "Разблокировать снаряжение";<n>◦ Функция "Максимальная серия комбо-ударов";<n>◦ Функция "Показать коллекционные предметы";<n>◦ Функция "Полная синхронизация воспоминания";<n>◦ Функция "Использование орлиного зрения при беге".<n>– Изменено:<n>◦ Функция "Неуязвимость". Нет анимации от урона, здоровье больше не опускается до нуля в некоторых случаях;<n>◦ Функция "Невидимость". Во время боя враги потеряют вас из виду;<n>◦ Функция "Остановить таймер обратного отсчета". Также влияет на таймер во время слежки;<n>◦ Функция "Телепортироваться к метке". Телепорт теперь работает корректно по всем значкам на карте;<n>◦ Функция "Низкое здоровье врагов". У врагов после получения урона здоровье сразу же становится низким;<n>◦ Функция "Бесконечное здоровье союзников". Влияет на всех союзников;<n>◦ Функция "Стрельба без перезарядки". Теперь влияет только на игрока.<n>– Удалено:<n>◦ Функция "Уровень игрока".<n><n>***Обновление: 29.08.2022 (версия 1.2)***<n>– Исправлено:<n>◦ Критическая ошибка при включении функций "Неуязвимость", "Невидимость" или "Телепортироваться к метке", которая могла привести к вылету игры на стандартном издании.<n><n>***Обновление: 28.08.2022 (версия 1.1)***<n>– Добавлено:<n>◦ Функция "Заморозить всех на месте";<n>◦ Функция "Получить десинхронизацию".<n>– Исправлено:<n>◦ Функция "Бесконечное здоровье союзников". Теперь функция должна работать корректно, вылетов быть не должно, также функция теперь влияет и на членов вашей банды;<n>◦ Функция "Низкое здоровье врагов". Теперь функция должна работать корректно, вылетов быть не должно.<n>– Изменено:<n>◦ Функция "Неуязвимость". Теперь защищает от взрыва динамита;<n>◦ Функция "Невидимость";<n>◦ Функция "Быстрая скорость перемещения";<n>◦ Функции "Бесконечные химикаты", "Бесконечный шелк", "Бесконечный металл" и "Бесконечная кожа". Можно редактировать их количество;<n>◦ Функции "Телепортироваться к метке".[ChangesEnd_RU]
