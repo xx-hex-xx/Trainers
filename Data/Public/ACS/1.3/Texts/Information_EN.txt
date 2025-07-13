@@ -3,9 +3,9 @@ Release date: <DATE>.
 
 Workability tested on the following versions:
 -Licenses:
-◦ Steam: 1.51;
-◦ Ubisoft Connect: 1.51;
-◦ Epic Games Store: 1.51.
+◦ Steam: 1.51 (Gold Edition);
+◦ Ubisoft Connect: 1.51 (Gold Edition);
+◦ Epic Games Store: 1.51 (Standart Edition).
 
 <SEARCHED PROCESSES>
 
