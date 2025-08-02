@@ -21,20 +21,20 @@ My Boosty: https://boosty.to/trainersbyhex
 
 Function notes:
 ◦ Invulnerability – health is always maximum, falls from a great height are safe, no damage animation;
-◦ Infinite money - sets the amount of money to 300,000;
-◦ Infinite medicines - the current number of medicines does not decrease;
-◦ Infinite bullets - the current number of bullets does not decrease;
-◦ Infinite smoke bombs - the number number of smoke bombs does not decrease;
-◦ Infinite voltaic bombs - the current number of voltaic bombs does not decrease;
-◦ Infinite hallucinogenic darts - the current number of hallucinogenic darts does not decrease;
-◦ Infinite throwing knives - the current number of throwing knives does not decrease;
-◦ Infinite spikes - the current number of spikes does not decrease;
-◦ Infinite fear bombs - the current number of fear bombs does not decrease;
-◦ Infinite chemicals - sets the number of chemicals to 3,000;
-◦ Infinite thread - sets the amount of thread to 3,000;
-◦ Infinite iron - sets the amount of iron to 3,000;
-◦ Infinite leather - sets the amount of leather to 3,000;
-◦ Invisibility - enemies will not pay attention to you;
+◦ Infinite money – sets the amount of money to 300,000;
+◦ Infinite medicines – the current number of medicines does not decrease;
+◦ Infinite bullets – the current number of bullets does not decrease;
+◦ Infinite smoke bombs – the number number of smoke bombs does not decrease;
+◦ Infinite voltaic bombs – the current number of voltaic bombs does not decrease;
+◦ Infinite hallucinogenic darts – the current number of hallucinogenic darts does not decrease;
+◦ Infinite throwing knives – the current number of throwing knives does not decrease;
+◦ Infinite spikes – the current number of spikes does not decrease;
+◦ Infinite fear bombs – the current number of fear bombs does not decrease;
+◦ Infinite chemicals – sets the number of chemicals to 3,000;
+◦ Infinite thread – sets the amount of thread to 3,000;
+◦ Infinite iron – sets the amount of iron to 3,000;
+◦ Infinite leather – sets the amount of leather to 3,000;
+◦ Invisibility – enemies will not pay attention to you;
 ◦ Stop countdown timer – the current timer time in main memories, in additional memories tasks and during stalkering will not decrease. To avoid bugs in mission use only when necessary, do not keep the function permanently activated;
 ◦ Fast movement speed – sets the movement speed to 1.75;
 ◦ Teleport to custom marker – sets the teleport height to 120.25. Out of water the teleport may not work in which case you can use the "No clip mode" function;
