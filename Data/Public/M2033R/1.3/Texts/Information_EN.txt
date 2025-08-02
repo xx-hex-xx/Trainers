@@ -24,8 +24,8 @@ Function notes:
 ◦ Infinite ammo – the current amount of ammo does not decrease;
 ◦ Infinite medkits – the current number of medkits does not decrease;
 ◦ Infinite filters – the total filters time is always at least 30 minutes;
-◦ Infinite throwing knives – the current amount of throwing knives does not decrease;
-◦ Infinite grenades – the current amount of all types of grenades does not decrease;
+◦ Infinite throwing knives – the current number of throwing knives does not decrease;
+◦ Infinite grenades – the current number of all types of grenades does not decrease;
 ◦ Infinite filter time – the current filter time does not decrease;
 ◦ Infinite flashlight battery charge – the flashlight battery charge is always maximum;
 ◦ Infinite air bottle pressure – the current pressure in the "Tihar", "Helsing" and flamethrower air bottles does not decrease;
