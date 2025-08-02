@@ -2,7 +2,6 @@ Trainer version: <VERSION>.
 Release date: <DATE>.
 
 Workability tested on the following versions:
--Licenses:
 ◦ Steam: 1.5.0;
 ◦ Ubisoft Connect: 1.5.0.
 
@@ -11,7 +10,7 @@ Workability tested on the following versions:
 The trainer writes an event log during its work so if you have any problems with the activation or workability of the functions or the game crashed or something else then you can contact me and send me your log files, you can find them by going to the settings window and clicking the "Open event logs folder" button. For all questions and problems you can contact me by writing in private messages on the PlayGround.ru and/or Nexus Mods websites or by e-mail.
 My e-mail: 7x.hex.x7@gmail.com
 My profile on PlayGround.ru: https://users.playground.ru/1367691
-My profile on Nexus Mods: https://next.nexusmods.com/profile/7hex7
+My profile on Nexus Mods: https://next.nexusmods.com/profile/hex
 
 If you want to order a private trainer for a particular game you can contact me by e-mail or by writing in private messages on the PlayGround.ru and/or Nexus Mods websites.
 
