@@ -1,8 +1,8 @@
 # MEXDS
 [Version]1.5[Version]
 
-[Link_PlayGround.ru][Link]
-[Link_NexusMods][Link]
+[Link_PlayGround.ru]https://www.playground.ru/metro_exodus/cheat/metro_exodus_trejner_34_1_0_0_7_2_0_7_1_steam_egs_gog_galaxy_i_piratki_hex-1233620[Link]
+[Link_NexusMods]https://www.nexusmods.com/metroexodus/mods/110?tab=files[Link]
 
 [Changes_EN]***Update: 08/25/2025 (version 1.5)***
 The trainer structure has been changed, the configuration files will be recreated.
