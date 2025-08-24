@@ -1,0 +1,42 @@
+Trainer version: <VERSION>.
+Release date: <DATE>.
+
+Workability tested on the following versions:
+◦ Steam: 1.0.0.7 & 2.0.0.1 (Enhanced Edition);
+◦ Epic Games Store: 1.0.1.7 & 2.0.1.1 (Enhanced Edition);
+◦ GOG GALAXY: 1.0.7.7 & 2.0.7.1 (Enhanced Edition).
+
+<SEARCHED PROCESSES>
+
+The trainer writes an event log during its work so if you have any problems with the activation or workability of the functions or the game crashed or something else then you can contact me and send me your log files, you can find them by going to the settings window and clicking the "Open event logs folder" button. For all questions and problems you can contact me by writing in private messages on the PlayGround.ru and/or Nexus Mods websites or by e-mail.
+My e-mail: 7x.hex.x7@gmail.com
+My profile on PlayGround.ru: https://users.playground.ru/1367691
+My profile on Nexus Mods: https://next.nexusmods.com/profile/hex
+
+If you want to order a private trainer for a particular game you can contact me by e-mail or by writing in private messages on the PlayGround.ru and/or Nexus Mods websites.
+
+If you want to thank me for my work you can subscribe to me on the Patreon and/or Boosty platforms I will be very grateful.
+My Patreon: https://www.patreon.com/trainersbyhex
+My Boosty: https://boosty.to/trainersbyhex
+
+Function notes:
+◦ Invulnerability – health is always maximum, falls from a great height are safe, no damage animation;
+◦ Infinite ammo – the current amount of ammo does not decrease;
+◦ Infinite medkits – the current number of medkits does not decrease;
+◦ Infinite filters – the total filters time is always at least 30 minutes;
+◦ Infinite throwing knives – the current number of throwing knives does not decrease;
+◦ Infinite hand grenades – the current number of hand grenades does not decrease;
+◦ Infinite decoys – the current number of decoys does not decrease;
+◦ Infinite Molotovs cocktail – the current number of Molotovs cocktail not decrease;
+◦ Infinite filter time – the current filter time does not decrease;
+◦ Infinite flashlight & NVD battery charge – the current battery charge of the flashlight and night vision device does not decrease;
+◦ Invisibility – enemies will not pay attention to you;
+◦ Fast movement speed – sets the movement speed to 1.75;
+◦ High jump – sets the jump height to 2.25;
+◦ No clip mode – to control the character use standard movement keys. To go up use the Spacebar key, to go down use the Left Ctrl key. If while in this mode you are stuck in an object and cannot move then try moving up and down. It is recommended to use it together with the "Invulnerability" function!;
+◦ Infinite materials – sets the number of materials to 500;
+◦ Infinite chemicals – sets the number of chemicals to 500;
+◦ Infinite air bottle pressure – the current air bottle pressure of the Tikhar, Helsing (crossbow) and flamethrower does not decrease;
+◦ Infinite "Hellbreath" battery charge – the current "Hellbreath" battery charge does not decrease;
+◦ Playing without gas mask – allows you to be on the surface and in gassed areas without a gas mask;
+◦ Turn off lights – turns off light sources such as fires, lamps, headlamps, etc., some stationary light sources may not turn off.
