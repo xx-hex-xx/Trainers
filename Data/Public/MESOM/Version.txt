@@ -1,8 +1,8 @@
 # MESOM
 [Version]1.0[Version]
 
-[Link_PlayGround.ru][Link]
-[Link_NexusMods][Link]
+[Link_PlayGround.ru]https://www.playground.ru/middle_earth_shadow_of_mordor/cheat/middle_earth_shadow_of_mordor_trejner_23_1_0_1951_29_steam_i_gog_galaxy_hex-1794708[Link]
+[Link_NexusMods]https://www.nexusmods.com/middleearthshadowofmordor/mods/32?tab=files[Link]
 
 [Changes_EN][Changes]
 // ====================================================================================================
