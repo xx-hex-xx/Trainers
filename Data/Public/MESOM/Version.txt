@@ -1,9 +1,13 @@
 # MESOM
-[Version]1.0[Version]
+[Version]1.1[Version]
 
-[Link_PlayGround.ru]https://www.playground.ru/middle_earth_shadow_of_mordor/cheat/middle_earth_shadow_of_mordor_trejner_23_1_0_1951_29_steam_i_gog_galaxy_hex-1794708[Link]
+[Link_PlayGround.ru]https://www.playground.ru/middle_earth_shadow_of_mordor/cheat/middle_earth_shadow_of_mordor_trejner_24_1_0_1951_29_steam_i_gog_galaxy_hex-1794708[Link]
 [Link_NexusMods]https://www.nexusmods.com/middleearthshadowofmordor/mods/32?tab=files[Link]
 
-[Changes_EN][Changes]
+[Changes_EN]***Update: 11/15/2025 (version 1.1)***
+– Added:
+◦ The "Captains/warchiefs always broken" function.[Changes]
 // ====================================================================================================
-[Changes_RU][Changes]
+[Changes_RU]***Обновление: 15.11.2025 (версия 1.1)***
+– Добавлено:
+◦ Функция "Капитаны/вожди всегда сломлены".[Changes]
