@@ -16,3 +16,4 @@ strExeMD5Hash_Other_4_Dx9 = "8e72c3333743780e43bc2c34bbf625f9"; // 1.02
 strExeMD5Hash_Other_4_Dx10 = "ca87753255e2d14b1f18bb737c643792"; // 1.02
 
 // ====[ ADDITIONALS ]===========================================================
+[strExeMD5Hash_1]9fd2b1527cf840401d51fa69c3a34ce3[strExeMD5Hash] // Patched for fix game regularly freezes for a few seconds
