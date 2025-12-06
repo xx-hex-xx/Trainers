@@ -1,8 +1,8 @@
 # THF2014
 [Version]1.0[Version]
 
-[Link_PlayGround.ru][Link]
-[Link_NexusMods][Link]
+[Link_PlayGround.ru]https://www.playground.ru/thief_2014/cheat/thief_trejner_18_1_7_x64_steam_i_gog_galaxy_hex-1135401[Link]
+[Link_NexusMods]https://www.nexusmods.com/thief/mods/23?tab=files[Link]
 
 [Changes_EN][Changes]
 // ====================================================================================================
