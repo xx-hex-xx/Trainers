@@ -1,0 +1,34 @@
+Trainer version: <VERSION>.
+Release date: <DATE>.
+
+Workability tested on the following versions:
+◦ Steam: 1.7 (x64);
+◦ GOG GALAXY: 1.7 (x64).
+
+<SEARCHED PROCESSES>
+
+The trainer writes an event log during its work so if you have any problems with the activation or workability of the functions or the game crashed or something else then you can contact me and send me your log files, you can find them by going to the settings window and clicking the "Open event logs folder" button. For all questions and problems you can contact me by writing in private messages on the PlayGround.ru and/or Nexus Mods websites or by e-mail.
+My e-mail: 7x.hex.x7@gmail.com
+My profile on PlayGround.ru: https://users.playground.ru/1367691
+My profile on Nexus Mods: https://next.nexusmods.com/profile/hex
+
+If you want to order a private trainer for a particular game you can contact me by e-mail or by writing in private messages on the PlayGround.ru and/or Nexus Mods websites.
+
+If you want to thank me for my work you can subscribe to me on the Patreon and/or Boosty platforms I will be very grateful.
+My Patreon: https://www.patreon.com/trainersbyhex
+My Boosty: https://boosty.to/trainersbyhex
+
+Function notes:
+◦ Invulnerability – health is always at maximum, falls from great heights are safe and there is no damage animation;
+◦ Infinite focus – focus is always maximum;
+◦ Infinite gold – sets the gold amount to 10,000;
+◦ Infinite arrows – the current number of arrows does not decrease;
+◦ Infinite focus points – sets the number of focus points to 5;
+◦ Infinite food – the current amount of food does not decrease;
+◦ Infinite poppies – the current number of poppies does not decrease;
+◦ Infinite flash bombs – the current number of flash bombs does not decrease;
+◦ Infinite throwables – the current number of throwables does not decrease;
+◦ Invisibility – enemies will ignore you;
+◦ Easy lockpicking – does not work when lockpicking with focus with an upgraded skill;
+◦ Fast movement speed ​​– sets the movement speed to 2.25;
+◦ No clip mode – to control the character use standard movement keys. To go up use the Left Shift key, to go down use the Left Alt key.
