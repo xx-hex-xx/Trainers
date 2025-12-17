@@ -1,10 +1,13 @@
 # ACS
-[Version]1.3[Version]
+[Version]1.4[Version]
 
-[Link_PlayGround.ru]https://www.playground.ru/assassins_creed_syndicate/cheat/assassins_creed_syndicate_trejner_43_1_51_steam_ubisoft_connect_i_egs_hex-1150178[Link]
+[Link_PlayGround.ru]https://www.playground.ru/assassins_creed_syndicate/cheat/assassins_creed_syndicate_trejner_43_1_51_1_53_steam_ubisoft_connect_i_egs_hex-1150178[Link]
 [Link_NexusMods]https://www.nexusmods.com/assassinscreedsyndicate/mods/170?tab=files[Link]
 
-[Changes_EN]***Update: 07/07/2025 (version 1.3)***
+[Changes_EN]***Update: 12/17/2025 (version 1.4)***
+Added support for version 1.53 due to the game update on December 17, 2025.
+
+***Update: 07/07/2025 (version 1.3)***
 The trainer has been completely reworked, crashes during the game when using some functions have been fixed.
 – Added:
 ◦ The "Increase time of day (+1 hour)" function;
@@ -52,7 +55,10 @@ The trainer has been completely reworked, crashes during the game when using som
 ◦ The "Infinite chemicals", "Infinite thread", "Infinite iron" and "Infinite leather" functions. You can edit their number;
 ◦ The "Teleport to custom marker" functions.[Changes]
 // ====================================================================================================
-[Changes_RU]***Обновление: 07.07.2025 (версия 1.3)***
+[Changes_RU]***Обновление: 17.12.2025 (версия 1.4)***
+Добавлена поддержка версии 1.53 в связи с обновлением игры от 17 декабря 2025.
+
+***Обновление: 07.07.2025 (версия 1.3)***
 Трейнер полностью переработан, устранены вылеты во время игры при использовании некоторых функций.
 – Добавлено:
 ◦ Функция "Увеличить время суток (+1 час)";
