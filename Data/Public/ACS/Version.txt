@@ -100,11 +100,8 @@ The trainer has been completely reworked, crashes during the game when using som
 ◦ Функции "Бесконечные химикаты", "Бесконечный шелк", "Бесконечный металл" и "Бесконечная кожа". Можно редактировать их количество;
 ◦ Функции "Телепортироваться к метке".[Changes]
 
-[GlobalMessage_EN]Updated[GlobalMessage]
+[GlobalMessage_EN][GlobalMessage]
 // ====================================================================================================
-[GlobalMessage_RU]Обновлен![GlobalMessage]
+[GlobalMessage_RU][GlobalMessage]
 
 GlobalMessage_bHideDontShowAgain=true
-
-
-
