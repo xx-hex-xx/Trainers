@@ -8,3 +8,4 @@ strExeMD5Hash_Other_2 = "930794066e296b84a2984729efcaa026"; // 1.51 (Gold Editio
 strExeMD5Hash_Other_3 = "930794066e296b84a2984729efcaa026"; // 1.51 (Gold Edition)
 
 // ====[ ADDITIONALS ]===========================================================
+[strExeMD5Hash_1]6a046ab7ce6363117779bd10a868795b[strExeMD5Hash] // 1.51 - Standart Edition
