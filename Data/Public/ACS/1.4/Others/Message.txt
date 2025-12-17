@@ -1,5 +1,5 @@
-[Message_EN]The trainer will be updated tomorrow[Message]
+[Message_EN][Message]
 // ====================================================================================================
-[Message_RU]Трейнер будет обновлен завтра[Message]
+[Message_RU][Message]
 
 Message_bHideDontShowAgain=true
