@@ -1,5 +1,5 @@
-[Message_EN]Local messafe test[Message]
+[Message_EN][Message]
 // ====================================================================================================
-[Message_RU]Тест локального сообщени[Message]
+[Message_RU][Message]
 
 Message_bHideDontShowAgain=true
