@@ -1,8 +1,8 @@
 # ACOR
 [Version]1.0[Version]
 
-[Link_PlayGround.ru][Link]
-[Link_NexusMods][Link]
+[Link_PlayGround.ru]https://www.playground.ru/assassins_creed_origins/cheat/assassins_creed_origins_trejner_59_1_51_1_62_steam_ubisoft_connect_hex-1812797[Link]
+[Link_NexusMods]https://www.nexusmods.com/assassinscreedorigins/mods/291?tab=files[Link]
 
 [Changes_EN][Changes]
 // ====================================================================================================
