@@ -1,6 +1,6 @@
-[Message_EN]Test message[Message]
+[Message_EN]Test message 2[Message]
 // ====================================================================================================
-[Message_RU]Тестовое сообщение[Message]
+[Message_RU]Тестовое сообщение 2[Message]
 
-[MessageHash][Hash]
+[MessageHash]ebb248[Hash]
 Message_bHideDontShowAgain=false
