@@ -3,4 +3,4 @@
 [GlobalMessageToAll_RU]С Новым Годом![GlobalMessageToAll]
 
 [GlobalMessageToAllHash]hny[Hash]
-GlobalMessageToAll_bHideDontShowAgain=true
+GlobalMessageToAll_bHideDontShowAgain=false
