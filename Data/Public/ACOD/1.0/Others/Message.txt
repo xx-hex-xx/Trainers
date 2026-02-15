@@ -1,6 +1,6 @@
-[Message_EN][Message]
+[Message_EN]The trainer does not support the Ubisoft+ version of the game and accordingly the Xbox Game Pass version (game process name: ACOdyssey_plus.exe) since the code of this version is very different from the code of the standard game.[Message]
 // ====================================================================================================
-[Message_RU][Message]
+[Message_RU]Трейнер не поддерживает Ubisoft+ версию игры и соответственно версию Xbox Game Pass (название процесса игры: ACOdyssey_plus.exe), так как код этой версии сильно отличается от кода стандартной игры.[Message]
 
-[MessageHash][Hash]
+[MessageHash]ef17d9e40104dec6a92cf9b6bb61af84593253d72aae40d894e2766d506804bc[Hash]
 Message_bHideDontShowAgain=true
