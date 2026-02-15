@@ -1,6 +1,6 @@
-[GlobalMessageToAll_EN]Happy New Year![GlobalMessageToAll]
+[GlobalMessageToAll_EN][GlobalMessageToAll]
 // ====================================================================================================
-[GlobalMessageToAll_RU]С Новым Годом![GlobalMessageToAll]
+[GlobalMessageToAll_RU][GlobalMessageToAll]
 
-[GlobalMessageToAllHash]hny[Hash]
+[GlobalMessageToAllHash][Hash]
 GlobalMessageToAll_bHideDontShowAgain=true
