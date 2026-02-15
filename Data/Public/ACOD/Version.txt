@@ -1,12 +1,22 @@
 # ACOD
-[Version]1.0[Version]
+[Version]1.1[Version]
 
-[Link_PlayGround.ru][Link]
-[Link_NexusMods][Link]
+[Link_PlayGround.ru]https://www.playground.ru/assassins_creed_odyssey/cheat/assassins_creed_odyssey_trejner_62_1_5_3_1_5_6_steam_ubisoft_connect_hex-1820270[Link]
+[Link_NexusMods]https://www.nexusmods.com/assassinscreedodyssey/mods/389?tab=files[Link]
 
-[Changes_EN][Changes]
+[Changes_EN]***Update: 02/15/2026 (version 1.1)***
+– Added:
+◦ Function "Low Persephone's domain".
+– Fixed:
+◦ The player slows down too much when performing a perfect dodge, detection by enemies or using certain abilities if the "Fast movement speed" and/or "Fast horse movement speed" functions were activated at least once;
+◦ "Fast horse movement speed" function. Sometimes the function would not work for certain types of horses.[Changes]
 // ====================================================================================================
-[Changes_RU][Changes]
+[Changes_RU]***Обновление: 15.02.2026 (версия 1.1)***
+– Добавлено:
+◦ Функция "Низкое влияние Персефоны".
+– Исправлено:
+◦ Слишком сильное замедление игрока при идеальном уклонении, обнаружении врагами и использовании некоторых способностей, если хотя бы раз были активированы функции "Быстрая скорость перемещения" и/или "Быстрая скорость перемещения коня";
+◦ Функция "Быстрая скорость перемещения коня". Иногда функция могла не влиять на некоторые виды коней.[Changes]
 
 [GlobalMessage_EN][GlobalMessage]
 // ====================================================================================================
