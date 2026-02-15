@@ -1,0 +1,6 @@
+[GlobalMessageToAll_EN][GlobalMessageToAll]
+// ====================================================================================================
+[GlobalMessageToAll_RU][GlobalMessageToAll]
+
+[GlobalMessageToAllHash][Hash]
+GlobalMessageToAll_bHideDontShowAgain=true
