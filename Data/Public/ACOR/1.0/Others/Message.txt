@@ -1,5 +1,6 @@
-[Message_EN][Message]
+[Message_EN]The trainer does not support the Ubisoft+ version of the game and accordingly the Xbox Game Pass version (game process name: ACOrigins_plus.exe) since the code of this version is very different from the code of the standard game.[Message]
 // ====================================================================================================
-[Message_RU][Message]
+[Message_RU]Трейнер не поддерживает Ubisoft+ версию игры и соответственно версию Xbox Game Pass (название процесса игры: ACOrigins_plus.exe), так как код этой версии сильно отличается от кода стандартной игры.[Message]
 
-Message_bHideDontShowAgain=true
+[MessageHash]776090d59f9674bf99b124e17bd120f03f15927c58256fd5087ce44c14e42071[Hash]
+Message_bHideDontShowAgain=false
