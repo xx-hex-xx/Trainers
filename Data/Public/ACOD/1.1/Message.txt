@@ -1,0 +1,6 @@
+[Message_EN]The trainer does not support the Ubisoft+ version of the game.[Message]
+// ====================================================================================================
+[Message_RU]Трейнер не поддерживает Ubisoft+ версию игры.[Message]
+
+[MessageHash]ef17d9e40104dec6a92cf9b6bb61af84593253d72zzz40d894e2766d506804bc[Hash]
+Message_bHideDontShowAgain=false
