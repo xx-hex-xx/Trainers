@@ -3,4 +3,4 @@
 [Message_RU]Трейнер не поддерживает Ubisoft+ версию игры и соответственно версию Xbox Game Pass (название процесса игры: ACOdyssey_plus.exe), так как код этой версии сильно отличается от кода стандартной игры.[Message]
 
 [MessageHash]ef17d9e40104dec6a92cf9b6bb61af84593253d72aae40d894e2766d506804bc[Hash]
-Message_bHideDontShowAgain=true
+Message_bHideDontShowAgain=false
