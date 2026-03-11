@@ -1,14 +1,25 @@
 # ACU
-[Version]1.7[Version]
+[Version]1.8[Version]
 
-[Link_PlayGround.ru]https://www.playground.ru/assassins_creed_unity/cheat/assassins_creed_unity_trejner_47_1_5_0_steam_i_ubisoft_connect_hex-1148490[Link]
+[Link_PlayGround.ru]https://www.playground.ru/assassins_creed_unity/cheat/assassins_creed_unity_trejner_48_1_5_0_1_5_1_steam_i_ubisoft_connect_hex-1148490[Link]
 [Link_NexusMods]https://www.nexusmods.com/assassinscreedunity/mods/364?tab=files[Link]
 
-[Changes_EN]***Update: 06.07.2025 (version 1.7)***
+[Changes_EN]***Update: 03/11/2026 (version 1.8)***
+Added support for version 1.5.1 due to the game update on March 10, 2026.
 – Added:
-◦ Function "Fast "Disguise" skill cooldown".
+◦ The "Infinite "Disguise" skill effect" function.
 – Fixed:
-◦ Function "Unlock gears". Now correctly unlocks outfits.
+◦ The "Infinite melee boosts" function. Now activates correctly;
+◦ Function "Fast "Disguise" skill cooldown". The state of the "Invisibility" function no longer affects the skill's workability;
+◦ Crashes on Steam Deck.
+– Changed:
+◦ Reworked the "Fast "Disguise" skill cooldown" function. The skill icon no longer turns red color after use.
+
+***Update: 06.07.2025 (version 1.7)***
+– Added:
+◦ The "Fast "Disguise" skill cooldown" function.
+– Fixed:
+◦ The "Unlock gears" function. Now correctly unlocks outfits.
 
 ***Update: 05/25/2025 (version 1.6)***
 The trainer has been completely reworked, crashes during the game when using some functions have been fixed.
@@ -41,7 +52,7 @@ The trainer has been completely reworked, crashes during the game when using som
 ◦ The "Creed points multiplier" function;
 ◦ The "Unfog current map" function.
 
-***Update: 01/03/2023 (version 1.5) ***
+***Update: 01/03/2023 (version 1.5)***
 The trainer is now fully compatible with Windows 11. Fixed a bug where the trainer in some cases could not find an already running game process by the class name of its window also solved the problem with the unsuccessful creation of a "code cave" and the allocation of memory for trainer functions during the game on this operating system.
 – Fixed:
 ◦ The "Increased eagle vision radius" function. Now when you deactivate the function the eagle vision radius returns to its original value;
@@ -87,7 +98,18 @@ Improved functions compatibility.
 ◦ The "Infinite lockpicks" function. When breaking a lockpick their number does not visually decrease;
 ◦ The "Teleport to custom marker" function. Should work more stably.[Changes]
 // ====================================================================================================
-[Changes_RU]***Обновление: 06.07.2025 (версия 1.7)***
+[Changes_RU]***Обновление: 11.03.2026 (версия 1.8)***
+Добавлена поддержка версии 1.5.1 в связи с обновлением игры от 10 марта 2026.
+– Добавлено:
+◦ Функция "Бесконечное действие навыка "Маскировка"".
+– Исправлено:
+◦ Функция "Бесконечные усиления "Ближний бой"". Теперь активируется корректно;
+◦ Функция "Быстрая перезарядка навыка "Маскировка"". Теперь состояние функции "Невидимость" не влияет на работоспособность навыка;
+◦ Вылеты при игре на Steam Deck.
+– Изменено:
+◦ Переработана функция "Быстрая перезарядка навыка "Маскировка"". Теперь иконка навыка не становится красной после использования.
+
+***Обновление: 06.07.2025 (версия 1.7)***
 – Добавлено:
 ◦ Функция "Быстрая перезарядка навыка "Маскировка"".
 – Исправлено:
@@ -169,3 +191,10 @@ Improved functions compatibility.
 ◦ Функция "Неуязвимость". Теперь не должно быть бага при сражении с врагами;
 ◦ Функция "Бесконечные отмычки". Во время взлома замка при ломании отмычки их количество визуально не уменьшается;
 ◦ Функция "Телепортироваться к метке". Должна работать стабильней.[Changes]
+
+[GlobalMessage_EN][GlobalMessage]
+// ====================================================================================================
+[GlobalMessage_RU][GlobalMessage]
+
+
+GlobalMessage_bHideDontShowAgain=true
