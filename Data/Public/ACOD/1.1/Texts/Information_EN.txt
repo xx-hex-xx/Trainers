@@ -21,12 +21,12 @@ My Boosty: https://boosty.to/trainersbyhex
 Function notes:
 ◦ Invulnerability – health is always maximum, falls from a great height are safe, no damage animation;
 ◦ Infinite money – sets the amount of money to 300,000;
-◦ Infinite normal arrows - the current number of normal arrows does not decrease;
-◦ Infinite paralyzing arrows - the current number of paralyzing arrows does not decrease;
-◦ Infinite poison arrows - the current number of poison arrows does not decrease;
-◦ Infinite fire arrows - the current number of fire arrows does not decrease;
-◦ Infinite explosive arrows - the current number of explosive arrows does not decrease;
-◦ Infinite death arrows - the current number of death arrows does not decrease;
+◦ Infinite normal arrows – the current number of normal arrows does not decrease;
+◦ Infinite paralyzing arrows – the current number of paralyzing arrows does not decrease;
+◦ Infinite poison arrows – the current number of poison arrows does not decrease;
+◦ Infinite fire arrows – the current number of fire arrows does not decrease;
+◦ Infinite explosive arrows – the current number of explosive arrows does not decrease;
+◦ Infinite death arrows – the current number of death arrows does not decrease;
 ◦ Infinite soft leather – sets the amount of soft leather to 50,000. You must have at least one soft leather to see the effect. The method works similarly for other resource types;
 ◦ Infinite iron metal – sets the amount of iron metal to 50,000;
 ◦ Infinite olive wood – sets the amount of olive wood to 50,000;
