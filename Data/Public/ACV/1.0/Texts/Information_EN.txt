@@ -1,0 +1,54 @@
+Trainer version: <VERSION>.
+Release date: <DATE>.
+
+Workability tested on the following versions:
+◦ Steam: 1.7.0;
+◦ Ubisoft Connect: 1.7.0 (Ubisoft+ is not supported).
+
+<SEARCHED PROCESSES>
+
+The trainer writes an event log during its work so if you have any problems with the activation or workability of the functions or the game crashed or something else then you can contact me and send me your log files, you can find them by going to the settings window and clicking the "Open event logs folder" button. For all questions and problems you can contact me by writing in private messages on the PlayGround.ru and/or Nexus Mods websites or by e-mail.
+My e-mail: 7x.hex.x7@gmail.com
+My profile on PlayGround.ru: https://users.playground.ru/1367691
+My profile on Nexus Mods: https://next.nexusmods.com/profile/7hex7
+
+If you want to order a private trainer for a particular game you can contact me by e-mail or by writing in private messages on the PlayGround.ru and/or Nexus Mods websites.
+
+If you want to thank me for my work you can subscribe to me on the Patreon and/or Boosty platforms I will be very grateful.
+My Patreon: https://www.patreon.com/trainersbyhex
+My Boosty: https://boosty.to/trainersbyhex
+
+Function notes:
+◦ Invulnerability – health is always maximum, falls from a great height are safe, no damage animation;
+◦ Infinite money – sets the amount of money to 300,000;
+◦ Infinite rations – the current number of rations does not decrease;
+◦ Infinite hunter arrows - the current number of hunter arrows does not decrease;
+◦ Infinite light arrows - the current number of light arrows does not decrease;
+◦ Infinite predator arrows - the current number of predator arrows does not decrease;
+◦ Infinite supplies – sets the number of supplies to 50,000. You must have at least one supply to see the effect. The method works similarly for other resource types;
+◦ Infinite raw material – sets the number of raw material to 50,000;
+◦ Infinite leather – sets the amount of leather to 50,000;
+◦ Infinite iron ore – sets the amount of iron ore to 50,000;
+◦ Infinite fabrics – sets the number of fabrics to 50,000;
+◦ Infinite titanium – sets the amount of titanium to 50,000;
+◦ Invisibility – enemies will not pay attention to you;
+◦ Fast movement speed – sets the movement speed to 1.55;
+◦ Teleport to custom marker – sets the teleport height above marker to 25.75. Teleportation may does not work from water. Please note that the teleport will work correctly if you only have one marker on the map. Use it together with the "Invulnerability" function!;
+◦ No clip mode – to control the character use the W and S keys to move along the Y-axis (forward-backward), A and D to move along the X-axis (left-right). To go up use the Spacebar key, to go down use the Left Ctrl key. It is recommended to use it together with the "Invulnerability" function!;
+◦ Infinite carbon ingots – sets the number of carbon ingots to 50,000. You must have at least one carbon ingots to see the effect. The method works similarly for other resource types;
+◦ Infinite nickel ingots – sets the number of nickel ingots to 50,000;
+◦ Infinite tungsten ingots – sets the number of tungsten ingots to 50,000;
+◦ Infinite platinum ingots – sets the number of platinum ingots to 50,000;
+◦ Infinite exotic resources – sets the number of exotic resources to 100,000;
+◦ XP multiplier – multiplies the number of experience gained by the value that you can select on the trackbar;
+◦ Fast horse movement speed – sets the horse movement speed to 2.25;
+◦ Free items upgrade – allows you to upgrade items without having enough resources;
+◦ Free skills acquire – you can acquire skills if you don't have enough skill points;
+◦ Show all map icons – shows and reveals all icons on the world map. If you're in-game to see the effect you will need to reload a save;
+◦ Unfog map – reveals all unvisited areas on the world map;
+◦ Infinite "Odin's Sight" effect – the effect of highlighting enemies, collectible and interactive objects after using the "Odin's Sight" is unlimited in time;
+◦ Highlight nearby enemies & items – highlight all nearby enemies and items as if you were manually marking them with the "Odin's Sight". Please note that in this case you will not be able to use the "Odin's Sight" manually;
+◦ Easy Orlog game win – win is counted immediately after your opponent's turn taking all his tokens;
+◦ Easy Cairn stones complete – regardless of how you placed the stones the game will accept them;
+◦ Unveil all Ancients Order members – to see the effect you need to open the Order menu and then re-open it. Activates the "Mark target" button on all members of the Order of the Ancients except those whose identities can only be revealed during story missions;
+◦ Unveil all Zealots – to see the effect you need to open the Order menu and then re-open it. Activates the "Mark target" button for all Zealots.
