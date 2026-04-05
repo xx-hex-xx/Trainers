@@ -22,9 +22,9 @@ Function notes:
 ◦ Invulnerability – health is always maximum, falls from a great height are safe, no damage animation;
 ◦ Infinite money – sets the amount of money to 300,000;
 ◦ Infinite rations – the current number of rations does not decrease;
-◦ Infinite hunter arrows - the current number of hunter arrows does not decrease;
-◦ Infinite light arrows - the current number of light arrows does not decrease;
-◦ Infinite predator arrows - the current number of predator arrows does not decrease;
+◦ Infinite hunter arrows – the current number of hunter arrows does not decrease;
+◦ Infinite light arrows – the current number of light arrows does not decrease;
+◦ Infinite predator arrows – the current number of predator arrows does not decrease;
 ◦ Infinite supplies – sets the number of supplies to 50,000. You must have at least one supply to see the effect. The method works similarly for other resource types;
 ◦ Infinite raw material – sets the number of raw material to 50,000;
 ◦ Infinite leather – sets the amount of leather to 50,000;
