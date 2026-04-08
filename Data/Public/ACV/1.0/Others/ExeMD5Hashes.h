@@ -9,3 +9,4 @@ const QString strExeMD5Hash_Other_2 = "f118ff9c43956bb1b28c8d898866c0b6"; // 1.7
 const QString strExeMD5Hash_Other_3 = "ad96281a8a29bf8199d99e7e739c5262"; // 1.7.0
 
 // ====[ ADDITIONALS ]===========================================================
+[strExeMD5Hash_1]f89f96b9af927b0f9cd79611b5a6f32f[strExeMD5Hash] // Ubisoft Connect - 1.7.0 (temp?)
