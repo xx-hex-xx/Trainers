@@ -1,6 +1,8 @@
-[Message_EN][Message]
+[Message_EN]Recommended do not use the "Unveil all Ancient Orders members" function for now as this will cause a bug where after loading a save, the status of the Order members who have not yet been defeated will visually change to defeated. If you've already encountered this bug it won't have any critical impact on the game's progression as in this case in the game code this status is only visual. You can use the "Unveil all Zealots" function without any issues.
+Wait for the trainer update soon.[Message]
 // ====================================================================================================
-[Message_RU][Message]
+[Message_RU]Рекомендуется пока не использовать функцию "Раскрыть всех членов Ордена Древних" во избежание бага, когда после загрузки сохранения статус ещё не побеждённых членов Ордена визуально меняется на статус побеждённого. Если вы уже столкнулись с таким багом, то критически на прохождение сюжета игры это никак не повлияет, так как в данном случае, в коде игры, этот статус является лишь визуальным. Функцию "Раскрыть всех Ревнителей" вы можете использовать без каких-либо проблем.
+Ожидайте скорое обновление трейнера.[Message]
 
-[MessageHash][Hash]
-Message_bHideDontShowAgain=false
+[MessageHash]2549252ad91ff4af920a43d1f4a6af50607169758aa52acb0bfb6197c77d3fe4[Hash]
+Message_bHideDontShowAgain=true
