@@ -5,4 +5,4 @@ Wait for the trainer update soon.[Message]
 Ожидайте скорое обновление трейнера.[Message]
 
 [MessageHash]2549252ad91ff4af920a43d1f4a6af50607169758aa52acb0bfb6197c77d3fe4[Hash]
-Message_bHideDontShowAgain=true
+Message_bHideDontShowAgain=false
