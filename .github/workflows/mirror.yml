@@ -11,18 +11,12 @@ jobs:
   mirror:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-
-      - name: Push to GitLab
+      - name: Bare clone and push to GitLab
         env:
           GITLAB_USERNAME: ${{ secrets.GITLAB_USERNAME }}
           GITLAB_TOKEN: ${{ secrets.GITLAB_TOKEN }}
           GITLAB_REPO: "gitlab.com/xx-hex-xx/Trainers.git"
         run: |
-          git config --global user.name "GitHub Actions"
-          git config --global user.email "actions@github.com"
-          git remote add gitlab https://$GITLAB_USERNAME:$GITLAB_TOKEN@$GITLAB_REPO
-          git push gitlab --mirror
+          git clone --bare https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git mirror.git
+          cd mirror.git
+          git push --mirror https://$GITLAB_USERNAME:$GITLAB_TOKEN@$GITLAB_REPO
