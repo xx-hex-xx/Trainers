@@ -1,12 +1,58 @@
 # ACV
-[Version]1.0[Version]
+[Version]1.1[Version]
 
-[Link_PlayGround.ru][Link]
+[Link_PlayGround.ru]https://www.playground.ru/assassins_creed_valhalla/cheat/assassins_creed_valhalla_trejner_64_1_7_0_steam_ubisoft_connect_hex-1836123[Link]
 [Link_NexusMods]https://www.nexusmods.com/assassinscreedvalhalla/mods/390[Link]
 
-[Changes_EN][Changes]
+[Changes_EN]***Update: 06/14/2026 (version 1.1)***
+– Added:
+◦ The "Infinite ability duration" function;
+◦ The "Stop countdown timer" function;
+◦ The "Stop Helfire timer" function;
+◦ The "Infinite resources ("The Forgotten Saga" DLC)" function;
+◦ The "Low alert in river raids" function;
+◦ The "No cargo limit in river raids" function;
+◦ The "Infinite silver deniers" function;
+◦ The "Infinite Hugr" function;
+◦ The "Infinite Hugr power duration" function.
+– Fixed:
+◦ A bug with the "Infinite rations" function that could cause river raids to launch incorrectly and a persistent annoying sound during river raids;
+◦ A bug that caused the "Infinite stamina" function to deactivate incorrectly;
+◦ A bug that could cause the "Teleport to custom marker" and "No clip mode" functions to work incorrectly;
+◦ A bug that could sometimes cause enemies' health to regenerate to maximum when the "Infinite allies health" function was activated;
+◦ A bug that prevented edited values ​​from being saved for the "Infinite carbon ingots", "Infinite nickel ingots", "Infinite tungsten ingots", "Infinite platinum ingots", and "Infinite exotic resources" functions;
+◦ The "Infinite horse stamina" function. No longer affects the player's stamina;
+◦ A bug in the "Show all map icons" function that could sometimes cause the game to crash;
+◦ A bug where the "Infinite sleep arrow effect duration" and "Infinite berserk arrow effect duration" functions would sometimes not work;
+◦ The "Unveil all Ancient Order members" function. Now after loading a save the status of Order members who have not yet been defeated does not visually change to defeated;
+◦ A bug where the "Reveal all zealots" function could not be activated by left-clicking the hotkey name.
+– Changed:
+◦ The "Show all map icons" function has been improved. It now also displays all unfinished activities on the map (wealth, mysteries and artifacts).[Changes]
 // ====================================================================================================
-[Changes_RU][Changes]
+[Changes_RU]***Обновление: 14.06.2026 (версия 1.1)***
+– Добавлено:
+◦ Функция "Бесконечное действие способности";
+◦ Функция "Остановить таймер обратного отсчета";
+◦ Функция "Остановить таймер Пламени Хель";
+◦ Функция "Бесконечные ресурсы (DLC "Забытая сага")";
+◦ Функция "Низкий уровень тревоги в речных набегах";
+◦ Функция "Без ограничения трюма в речных набегах";
+◦ Функция "Бесконечные серебряные денье";
+◦ Функция "Бесконечная шкала хуг";
+◦ Функция "Бесконечное действие Силы хуг".
+– Исправлено:
+◦ Ошибка в функции "Бесконечная провизия", из-за которой речные набеги могли запускаться некорректно и из-за которой во время речных набегов постоянно проигрывался раздражающий звук;
+◦ Ошибка, из-за которой функция "Бесконечная выносливость" деактивировалась некорректно;
+◦ Ошибка, из-за которой функции "Телепортироваться к метке" и "Режим "No clip"" могли работать некорректно;
+◦ Ошибка, когда иногда здоровье врагов могло восстанавливаться до максимума при активированной функции "Бесконечное здоровье союзников";
+◦ Ошибка, из-за которой не сохранялись редактируемые значения функций "Бесконечные бруски угля", "Бесконечные слитки никеля", "Бесконечные слитки вольфрама", "Бесконечные слитки платины" и "Бесконечные экзотические ресурсы";
+◦ Функция "Бесконечная выносливость коня". Теперь не влияет на выносливость самого игрока;
+◦ Ошибка в функции "Показать все значки на карте", которая иногда могла привести к вылету из игры;
+◦ Ошибка, когда иногда могли не работать функции "Бесконечное действие стрелы со снотворным" и "Бесконечное действие стрелы с ядом берсерка";
+◦ Функция "Раскрыть всех членов Ордена Древних". Теперь, после загрузки сохранения, статус еще не побежденных членов Ордена не меняется визуально на статус побежденных;
+◦ Ошибка, из-за которой функция "Раскрыть всех Ревнителей" не могла быть активирована нажатием Левой кнопки мыши по названию горячем клавиши.
+– Изменено:
+◦ Улучшена функция "Показать все значки на карте". Теперь отображает еще и все незавершенные активности на карте (состояние, тайны и артефакты).[Changes]
 
 [GlobalMessage_EN][GlobalMessage]
 // ====================================================================================================
