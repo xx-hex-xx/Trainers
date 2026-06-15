@@ -52,7 +52,7 @@ Function notes:
 ◦ Easy Cairn stones complete – regardless of how you placed the stones the game will accept them;
 ◦ Infinite resources ("The Forgotten Saga" DLC) – sets the number of coins, gems, dreams, memories and thoughts to 50,000. You must have at least one number of the resource to see the effect. The method works similarly for other resource types;
 ◦ Infinite silver deniers – sets the number of silver deniers to 5,000. You must have at least one silver denier to see the effect. The method works similarly for other resource types;
-◦ Unveil all Order members/Children of Danu  – to see the effect you need to open the Order menu and then re-open it. Activates the "Mark target" button on all members of the Order of the Ancients/Children of Danu except those whose identities can only be revealed during story missions;
+◦ Unveil all Order members/Danu Children – to see the effect you need to open the Order menu and then re-open it. Activates the "Mark target" button on all members of the Order of the Ancients/Children of Danu except those whose identities can only be revealed during story missions;
 ◦ Unveil all Zealots – to see the effect you need to open the Order menu and then re-open it. Activates the "Mark target" button for all Zealots;
 ◦ Infinite Hugr – the current Hugr in the "Dawn of Ragnarök" DLC does not decrease;
 ◦ Infinite Hugr power duration – the duration of various Hugr powers in the "Dawn of Ragnarök" DLC is unlimited in time.
