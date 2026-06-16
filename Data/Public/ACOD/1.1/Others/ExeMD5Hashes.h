@@ -7,3 +7,4 @@ const QString strExeMD5Hash_Other_1 = "ebb248a34bf0e34cd18c3415c74e28a1"; // 1.5
 const QString strExeMD5Hash_Other_2 = "ebb248a34bf0e34cd18c3415c74e28a1"; // 1.5.3
 
 // ====[ ADDITIONALS ]===========================================================
+[strExeMD5Hash_1]1920df9d1bf3846e9374c471c2d80629[strExeMD5Hash] // Ubisoft Connect - 1.5.6 (from @Marapav)
