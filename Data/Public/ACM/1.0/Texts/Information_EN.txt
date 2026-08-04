@@ -1,0 +1,51 @@
+Trainer version: <VERSION>.
+Release date: <DATE>.
+
+Workability tested on the following versions:
+◦ Steam: 1.1.1;
+◦ Ubisoft Connect: 1.1.1 (Ubisoft+ is supported).
+
+<SEARCHED PROCESSES>
+
+The trainer writes an event log during its work so if you have any problems with the activation or workability of the functions or the game crashed or something else then you can contact me and send me your log files, you can find them by going to the settings window and clicking the "Open event logs folder" button. For all questions and problems you can contact me by writing in private messages on the PlayGround.ru and/or Nexus Mods websites or by e-mail.
+My e-mail: 7x.hex.x7@gmail.com
+My profile on PlayGround.ru: https://users.playground.ru/1367691
+My profile on Nexus Mods: https://next.nexusmods.com/profile/7hex7
+
+If you want to order a private trainer for a particular game you can contact me by e-mail or by writing in private messages on the PlayGround.ru and/or Nexus Mods websites.
+
+If you want to thank me for my work you can subscribe to me on the Patreon and/or Boosty platforms I will be very grateful.
+My Patreon: https://www.patreon.com/trainersbyhex
+My Boosty: https://boosty.to/trainersbyhex
+
+Function notes:
+◦ Invulnerability – health is always maximum, falls from a great height are safe, no damage animation;
+◦ Infinite money – sets the amount of money to 300,000;
+◦ Infinite elixirs – the current number of elixirs does not decrease;
+◦ Infinite blowdarts – the current number of blowdarts does not decrease;
+◦ Infinite throwing knives – the current number of throwing knives does not decrease;
+◦ Infinite noisemakers – the current number of noisemakers does not decrease;
+◦ Infinite smoke bombs – the current number of smoke bombs does not decrease;
+◦ Infinite traps – the current number of traps does not decrease;
+◦ Infinite steel ingots – sets the number of steel ingots to 50,000. You must have at least one steel ingot to see the effect. The method works similarly for other resource types;
+◦ Infinite leather – sets the amount of leather to 50,000;
+◦ Infinite components – sets the number of components ore to 50,000;
+◦ Infinite scholar favor tokens – sets the number of scholar favor tokens to 100;
+◦ Infinite power favor tokens – sets the number of power favor tokens to 100;
+◦ Infinite merchant favor tokens – sets the number of merchant favor tokens to 100;
+◦ Invisibility – enemies will not pay attention to you;
+◦ Fast movement speed – sets the movement speed to 1.55;
+◦ Teleport to custom marker – sets the teleport height above marker to 25.75. Teleportation may does not work from water. Please note that the teleport will work correctly if you only have one marker on the map. Use it together with the "Invulnerability" function!;
+◦ No clip mode – to control the character use the W and S keys to move along the Y-axis (forward-backward), A and D to move along the X-axis (left-right). To go up use the Spacebar key, to go down use the Left Ctrl key. It is recommended to use it together with the "Invulnerability" function!;
+◦ Fast horse/camel movement speed – sets the horse/camel movement speed to 2.25;
+◦ Free skills acquire – you can acquire skills if you don't have enough skill points;◦ Show all map icons – shows and reveals all icons on the world map including all unfinished activities on the map (wealth, mysteries and artifacts). If you're in-game to see the effect you will need to reload a save;
+◦ Show all map icons – shows and reveals all icons on the world map. To see the effect activate the function, save and load that save;
+◦ Unfog map – shows and reveals all icons on the world map. To see the effect activate the function, save and load that save;
+◦ Infinite eagle vision effect – the effect of highlighting enemies, collectible and interactive objects after using the eagle vision is unlimited in time;
+◦ Highlight nearby enemies & items – highlight all nearby enemies and items as if you were manually highlight them with the eagle vision. If you are detected by enemies their highlight will disappear (only their eyes will glow) until you become incognito;
+◦ Free items upgrade – allows you to upgrade items without having enough resources;
+◦ Contract subobjectives always completed – allows you to automatically complete a contract's subobjective (request). If you've already performed an action that won't complete the contract's subobjective, activate this function and keep it activated until the contract is completed;
+◦ Animus sequence challenges always completed – allows you to automatically complete an Animus sequence challenges. If you've already performed an action that won't complete all challenges, activate this function and keep it activated until the Animus sequence is completed;
+◦ Stop timer – stops the timer in missions and in Animus sequence challenges;
+◦ Multiple tools upgrades selection – allows you to select multiple upgrades for tools at all tiers. Please note that if one active effect overlaps another such as sleep dart + berserk dart, the tool will not work correctly. Keep this function activated at all times especially when using fast travel and loading a save otherwise active effects at tiers 2 and 3 may be reset;
+◦ Unveil all Ancient Order members – to see the effect you need to go to the Investigation menu then save and load that save.
