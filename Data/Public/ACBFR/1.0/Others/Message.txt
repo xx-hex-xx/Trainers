@@ -1,0 +1,6 @@
+[Message_EN][Message]
+// ====================================================================================================
+[Message_RU][Message]
+
+[MessageHash][Hash]
+Message_bHideDontShowAgain=true
