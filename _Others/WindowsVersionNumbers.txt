@@ -6,4 +6,4 @@
 [WindowsVersion_4]26100-Windows 11 24H2[WindowsVersion] // Windows 11, Version 24H2	10.0	26100	2024-10-01
 [WindowsVersion_5]26200-Windows 11 25H2[WindowsVersion] // Windows 11, Version 25H2	10.0	26200	2025-09-30
 [WindowsVersion_6]28000-Windows 11 26H1[WindowsVersion] // Windows 11, Version 26H1	10.0	28000	2026-02-10
-[WindowsVersion_7]28000-Windows 11 26H2[WindowsVersion] // Windows 11, Version 26H2	10.0	26300	2026-09-29
+[WindowsVersion_7]26300-Windows 11 26H2[WindowsVersion] // Windows 11, Version 26H2	10.0	26300	2026-09-29
