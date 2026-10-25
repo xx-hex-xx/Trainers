@@ -1,0 +1,63 @@
+Trainer version: <VERSION>.
+Release date: <DATE>.
+
+Workability tested on the following versions:
+◦ Steam: 1.0.6-1.0.7;
+◦ Ubisoft Connect: 1.0.6-1.0.7 (Ubisoft+ is supported).
+
+<SEARCHED PROCESSES>
+
+The trainer writes an event log during its work so if you have any problems with the activation or workability of the functions or the game crashed or something else then you can contact me and send me your log files, you can find them by going to the settings window and clicking the "Open event logs folder" button. For all questions and problems you can contact me by writing in private messages on the PlayGround.ru and/or Nexus Mods websites or by e-mail.
+My e-mail: 7x.hex.x7@gmail.com
+My profile on PlayGround.ru: https://users.playground.ru/1367691
+My profile on Nexus Mods: https://next.nexusmods.com/profile/hex
+
+If you want to order a private trainer for a particular game you can contact me by e-mail or by writing in private messages on the PlayGround.ru and/or Nexus Mods websites.
+
+If you want to thank me for my work you can subscribe to me on the Patreon and/or Boosty platforms I will be very grateful.
+My Patreon: https://www.patreon.com/trainersbyhex
+My Boosty: https://boosty.to/trainersbyhex
+
+Function notes:
+◦ Invulnerability – health is always maximum, falls from a great height are safe, no damage animation;
+◦ Infinite money – sets the amount of money to 100,000;
+◦ Infinite remedies – the current number of remedies does not decrease;
+◦ Infinite bullets – the current number of bullets does not decrease;
+◦ Infinite smoke bombs – the current number of smoke bombs does not decrease;
+◦ Infinite sleep darts – the current number of sleep darts does not decrease;
+◦ Infinite berserk darts – the current number of berserk darts does not decrease;
+◦ Infinite metal – sets the amount of metal to 5,000. You must have at least one metal to see the effect. The method works similarly for other resource types;
+◦ Infinite cloth – sets the amount of cloth to 5,000;
+◦ Infinite wood – sets the amount of wood to 5,000;
+◦ Infinite crew – sets the amount of crew to 40;
+◦ Infinite heavy shots ammo – the current amount of heavy shots ammo does not decrease;
+◦ Infinite mortars ammo – the current amount of mortars ammo does not decrease;
+◦ Infinite fire barrels – the current number of fire barrels does not decrease;
+◦ Invisibility – enemies and animals will not pay attention to you;
+◦ Fast movement speed – sets the movement speed to 1.55;
+◦ High jump – sets the jump height to 15.25;
+◦ Teleport to custom marker – sets the teleport height above marker to 0.25. Teleportation may does not work from water. Please note that the teleport will work correctly if you only have one marker on the map. Use it together with the "Invulnerability" function!;
+◦ No clip mode – to control the character use the W and S keys to move along the Y-axis (forward-backward), A and D to move along the X-axis (left-right). To go up use the Spacebar key, to go down use the Left Ctrl key. It is recommended to use it together with the "Invulnerability" function!;
+◦ Infinite ship health – the ship's health is always maximum;
+◦ Ship invisibility – enemy ships will not pay attention to you;
+◦ Infinite rowboat health – the rowboat's health is always maximum;
+◦ Infinite harpoons – the current number of harpoons does not decrease;
+◦ Infinite swivel guns ammo – the current amount of swivel guns ammo does not decrease when boarding the ship;
+◦ Infinite eagle vision effect – the effect of highlighting enemies, collectible and interactive objects after using the eagle vision is unlimited in time;
+◦ Highlight nearby enemies & items – highlight all nearby enemies and items as if you were manually highlight them with the eagle vision/observer mode. After deactivating the function to turn off the highlighting of items with yellow/green/white circles enter observation mode and then exit it;
+◦ Free items upgrade – allows you to upgrade items without having enough resources;
+◦ Unfog map – reveals all unvisited areas on the world map. To see the effect activate the function, save and load that save;
+◦ Show all map icons – shows and reveals all icons on the world map. To see the effect activate the function, save and load that save;
+◦ Infinite aloe – sets the amount of aloe to 1,000. You must have at least one aloe to see the effect. The method works similarly for other resource types;
+◦ Infinite sugar – sets the amount of sugar to 1,000;
+◦ Infinite rum barrels – sets the number of rum barrels to 1,000;
+◦ Infinite tobacco – sets the amount of tobacco to 1,000;
+◦ Infinite spices – sets the number of spices to 1,000;
+◦ Infinite wines – sets the number of wines to 1,000;
+◦ Fast berserk dart effect – the victim immediately dies when hit by a dart;
+◦ Fast naval missions completion – the duration of each naval mission is set to five seconds. The function does not work on already running naval missions;
+◦ High naval missions success odds – the success odds of each naval mission is always 100%. The function does not work on already running naval missions;
+◦ Infinite naval missions ships health  – the ship's health does not decrease after completing a naval mission;
+◦ No resource requirement in naval missions – the number of resources do not matter to start any naval mission;
+◦ Easy board ship – the enemy ship's morale drops to the minimum and the boarding the ship automatically ends;
+◦ Easy fort conquer – the towers' health drops to the minimum, the fort's morale bar drops to the minimum and the conquer is automatically completed.
