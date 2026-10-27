@@ -1,6 +1,10 @@
-[Message_EN][Message]
-// ====================================================================================================
-[Message_RU][Message]
+[Message_EN]Most of the trainer's functions have stopped working due to numerous changes in the game's code following the release of update 1.0.8 – the developers changed the compiler settings.
 
-[MessageHash][Hash]
-Message_bHideDontShowAgain=true
+Work is currently underway to ensure the functions are compatible with the new version. Please wait for an update.[Message]
+// ====================================================================================================
+[Message_RU]Большинство функций трейнера перестало работать из-за множественных изменений в коде игры после выхода обновления 1.0.8 – разработчики изменили параметры компилятора.
+
+Работа над совместимостью функций под новую версию ведется. Ожидайте обновление.[Message]
+
+[MessageHash]f051ff3d14dd1b2404786318c37dde2ec7db5cf989bcb5578c2e0353016a71fb[Hash]
+Message_bHideDontShowAgain=false
