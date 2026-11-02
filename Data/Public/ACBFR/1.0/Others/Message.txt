@@ -1,10 +1,27 @@
-[Message_EN]Most of the trainer's functions have stopped working due to numerous changes in the game's code following the release of update 1.0.8 – the developers changed the compiler settings.
-
-Work is currently underway to ensure the functions are compatible with the new version. Please wait for an update.[Message]
+[Message_EN]A new version - 1.1, has been released for this trainer. To download it visit the PlayGround.ru or Nexus Mods websites.
+Visit websites? The file download page will open.
+Changes:
+***Update: 06/14/2026 (version 1.1)***
+Added support for version 1.0.8 due to the game update on October 27, 2026.
+– Fixed:
+◦ A bug in the "Ship invisibility" function that prevented it from being reactivated after it had been deactivated;
+◦ A bug in the "Infinite eagle vision effect" function which sometimes made it impossible to manually disable eagle vision.
+– Changed:
+◦ Now when the "Highlight nearby enemies & items" function is activated the "Infinite eagle vision" function (if it was active) will be disabled and vice versa to prevent the effects of the two functions from overlapping;
+◦ The "Low animals health" function has been improved. It now also affects the health of prey when hunting with a harpoon;
+◦ Now when the "Infinite berserk dart effect duration" function is activated the "Fast berserk dart effect" function (if it was active) will be disabled and vice versa to prevent the effects of the two functions from overlapping.[Message]
 // ====================================================================================================
-[Message_RU]Большинство функций трейнера перестало работать из-за множественных изменений в коде игры после выхода обновления 1.0.8 – разработчики изменили параметры компилятора.
+[Message_RU]Для этого трейнера вышла новая версия - 1.1. Для того, чтобы ее загрузить, посетите сайты PlayGround.ru или Nexus Mods.
+Изменения:
+***Обновление: 01.11.2026 (версия 1.1)***
+Добавлена поддержка версии 1.8.0 в связи с обновлением игры от 27 октября 2026.
+– Исправлено:
+◦ Ошибка в функции "Невидимость корабля", из-за которой не получалось повторно активировать эту же функцию после ее деактивации;
+◦ Ошибка в функции "Бесконечный эффект орлиного зрения", из-за которой иногда было невозможно отключить орлиное зрение вручную.
+– Изменено:
+◦ Теперь при активации функции "Подсветить ближайших врагов и предметы" деактивируется функция "Бесконечный эффект орлиного зрения" (если она была активирована) и наоборот, чтобы не перекрывать эффект от одной из функций;
+◦ Улучшена функция "Низкое здоровье животных". Теперь влияет и на здоровье добычи при охоте с гарпуном;
+◦ Теперь при активации функции "Бесконечное действие яда берсерка" деактивируется функция "Быстрый эффект от яда берсерка" (если она была активирована) и наоборот, чтобы не перекрывать эффект от одной из функций.[Message]
 
-Работа над совместимостью функций под новую версию ведется. Ожидайте обновление.[Message]
-
-[MessageHash]f051ff3d14dd1b2404786318c37dde2ec7db5cf989bcb5578c2e0353016a71fb[Hash]
+[MessageHash]591f751b4ecbc849903375717ad19afdf2a7ebf96c78b78d1190e940b9ab65b2[Hash]
 Message_bHideDontShowAgain=false
