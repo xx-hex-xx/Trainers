@@ -1,12 +1,28 @@
 # ACBFR
-[Version]1.0[Version]
+[Version]1.1[Version]
 
-[Link_PlayGround.ru][Link]
-[Link_NexusMods][Link]
+[Link_PlayGround.ru]https://www.playground.ru/assassins_creed_4_black_flag/cheat/assassins_creed_black_flag_resynced_trejner_64_1_0_6_1_0_8_steam_i_ubisoft_connect_hex-1884725[Link]
+[Link_NexusMods]https://www.nexusmods.com/assassinscreedblackflagresynced/mods/616?tab=files[Link]
 
-[Changes_EN][Changes]
+[Changes_EN]***Update: 06/14/2026 (version 1.1)***
+Added support for version 1.0.8 due to the game update on October 27, 2026.
+– Fixed:
+◦ A bug in the "Ship invisibility" function that prevented it from being reactivated after it had been deactivated;
+◦ A bug in the "Infinite eagle vision effect" function which sometimes made it impossible to manually disable eagle vision.
+– Changed:
+◦ Now when the "Highlight nearby enemies & items" function is activated the "Infinite eagle vision" function (if it was active) will be disabled and vice versa to prevent the effects of the two functions from overlapping;
+◦ The "Low animals health" function has been improved. It now also affects the health of prey when hunting with a harpoon;
+◦ Now when the "Infinite berserk dart effect duration" function is activated the "Fast berserk dart effect" function (if it was active) will be disabled and vice versa to prevent the effects of the two functions from overlapping.[Changes]
 // ====================================================================================================
-[Changes_RU][Changes]
+[Changes_RU]***Обновление: 01.11.2026 (версия 1.1)***
+Добавлена поддержка версии 1.8.0 в связи с обновлением игры от 27 октября 2026.
+– Исправлено:
+◦ Ошибка в функции "Невидимость корабля", из-за которой не получалось повторно активировать эту же функцию после ее деактивации;
+◦ Ошибка в функции "Бесконечный эффект орлиного зрения", из-за которой иногда было невозможно отключить орлиное зрение вручную.
+– Изменено:
+◦ Теперь при активации функции "Подсветить ближайших врагов и предметы" деактивируется функция "Бесконечный эффект орлиного зрения" (если она была активирована) и наоборот, чтобы не перекрывать эффект от одной из функций;
+◦ Улучшена функция "Низкое здоровье животных". Теперь влияет и на здоровье добычи при охоте с гарпуном;
+◦ Теперь при активации функции "Бесконечное действие яда берсерка" деактивируется функция "Быстрый эффект от яда берсерка" (если она была активирована) и наоборот, чтобы не перекрывать эффект от одной из функций.[Changes]
 
 [GlobalMessage_EN][GlobalMessage]
 // ====================================================================================================
