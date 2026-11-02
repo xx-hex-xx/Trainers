@@ -1,5 +1,4 @@
 [Message_EN]A new version - 1.1, has been released for this trainer. To download it visit the PlayGround.ru or Nexus Mods websites.
-Visit websites? The file download page will open.
 Changes:
 ***Update: 06/14/2026 (version 1.1)***
 Added support for version 1.0.8 due to the game update on October 27, 2026.
@@ -23,5 +22,5 @@ Added support for version 1.0.8 due to the game update on October 27, 2026.
 ◦ Улучшена функция "Низкое здоровье животных". Теперь влияет и на здоровье добычи при охоте с гарпуном;
 ◦ Теперь при активации функции "Бесконечное действие яда берсерка" деактивируется функция "Быстрый эффект от яда берсерка" (если она была активирована) и наоборот, чтобы не перекрывать эффект от одной из функций.[Message]
 
-[MessageHash]591f751b4ecbc849903375717ad19afdf2a7ebf96c78b78d1190e940b9ab65b2[Hash]
+[MessageHash]759ceaf3b570ea608709e6b88b492d61d72cca43aefd39bf214c16bf6a75c8cb[Hash]
 Message_bHideDontShowAgain=false
