@@ -11,7 +11,7 @@ Added compatibility with Ubisoft Connect+ version.
 ◦ The "Kill civilians without desynchronization" function;
 ◦ The "Infinite mithril" function.
 – Changed:
-◦ The "Teleport to custom marker" function has been improved. It now works more reliably and no longer throws the player into an undefined state upon landing as could occasionally happen.
+◦ The "Teleport to custom marker" function has been improved. Now works more reliably and no longer throws the player an indefinite distance upon landing as could happen in some cases.
 ◦ The "No clip mode" function has been improved. Landing after deactivating the function is now more reliably.
 
 ***Update: 06/14/2026 (version 1.1)***
@@ -46,7 +46,7 @@ Added compatibility with Ubisoft Connect+ version.
 ◦ Функция "Убийство жителей без десинхронизации";
 ◦ Функция "Бесконечный мифрил".
 – Изменено:
-◦ Улучшена функция "Телепортироваться к метке". Теперь работает стабильнее и больше не отбрасывает игрока на неопределенное состояние при приземлении, как это могло случаться в некоторых моментах;
+◦ Улучшена функция "Телепортироваться к метке". Теперь работает стабильнее и больше не отбрасывает игрока на неопределенное расстояние при приземлении, как это могло случаться в некоторых моментах;
 ◦ Улучшена функция "Режим "No clip"". Теперь приземление игрока после деактивации функции работает стабильнее.
 
 ***Обновление: 14.06.2026 (версия 1.1)***
