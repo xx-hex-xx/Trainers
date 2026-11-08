@@ -1,10 +1,20 @@
 # ACV
-[Version]1.1[Version]
+[Version]1.2[Version]
 
-[Link_PlayGround.ru]https://www.playground.ru/assassins_creed_valhalla/cheat/assassins_creed_valhalla_trejner_64_1_7_0_steam_ubisoft_connect_hex-1836123[Link]
+[Link_PlayGround.ru]https://www.playground.ru/assassins_creed_valhalla/cheat/assassins_creed_valhalla_trejner_66_1_7_0_1_8_0_steam_ubisoft_connect_hex-1836123[Link]
 [Link_NexusMods]https://www.nexusmods.com/assassinscreedvalhalla/mods/390[Link]
 
-[Changes_EN]***Update: 06/14/2026 (version 1.1)***
+[Changes_EN]***Update: 11/07/2026 (version 1.2)***
+Added support for version 1.8.0 due to the game update on November 07, 2026.
+Added compatibility with Ubisoft Connect+ version.
+– Added:
+◦ The "Kill civilians without desynchronization" function;
+◦ The "Infinite mithril" function.
+– Changed:
+◦ The "Teleport to custom marker" function has been improved. It now works more reliably and no longer throws the player into an undefined state upon landing as could occasionally happen.
+◦ The "No clip mode" function has been improved. Landing after deactivating the function is now more reliably.
+
+***Update: 06/14/2026 (version 1.1)***
 – Added:
 ◦ The "Infinite ability duration" function;
 ◦ The "Stop countdown timer" function;
@@ -29,7 +39,17 @@
 – Changed:
 ◦ The "Show all map icons" function has been improved. It now also displays all unfinished activities on the map (wealth, mysteries and artifacts).[Changes]
 // ====================================================================================================
-[Changes_RU]***Обновление: 14.06.2026 (версия 1.1)***
+[Changes_RU]***Обновление: 07.11.2026 (версия 1.2)***
+Добавлена поддержка версии 1.8.0 в связи с обновлением игры от 05 ноября 2026.
+Добавлена совместимость с версией Ubisoft Connect+.
+– Добавлено:
+◦ Функция "Убийство жителей без десинхронизации";
+◦ Функция "Бесконечный мифрил".
+– Изменено:
+◦ Улучшена функция "Телепортироваться к метке". Теперь работает стабильнее и больше не отбрасывает игрока на неопределенное состояние при приземлении, как это могло случаться в некоторых моментах;
+◦ Улучшена функция "Режим "No clip"". Теперь приземление игрока после деактивации функции работает стабильнее.
+
+***Обновление: 14.06.2026 (версия 1.1)***
 – Добавлено:
 ◦ Функция "Бесконечное действие способности";
 ◦ Функция "Остановить таймер обратного отсчета";
