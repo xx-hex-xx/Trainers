@@ -1,0 +1,24 @@
+{
+    "languages":  [
+                      {
+                          "id":  "en",
+                          "translation_file_md5":  "7dcdb157b906e0b8f237453f39e5fb55",
+                          "information_file_md5":  "010be3cf69d4389c321d5b9c230e5dca"
+                      },
+                      {
+                          "id":  "ru",
+                          "translation_file_md5":  "9d935b03ea311dd10d6a47599a37d2b1",
+                          "information_file_md5":  "d354bac7e8a753b0161dd4b205b0e18b"
+                      },
+                      {
+                          "id":  "de",
+                          "translation_file_md5":  "617023a874712f6e519e7b27e7f85a76",
+                          "information_file_md5":  "2cb43e2b1def1fb07ff4a3d660684445"
+                      },
+                      {
+                          "id":  "zh-hans",
+                          "translation_file_md5":  "79399a163aed627116df672d55b05e54",
+                          "information_file_md5":  "09adf7d56bf1a739fb62dae5dc368571"
+                      }
+                  ]
+}
