@@ -1,6 +1,6 @@
 [Message_EN]A new version - 1.1, has been released for this trainer. To download it visit the PlayGround.ru or Nexus Mods websites.
 Changes:
-***Update: 06/14/2026 (version 1.1)***
+***Update: 11/01/2026 (version 1.1)***
 Added support for version 1.0.8 due to the game update on October 27, 2026.
 – Fixed:
 ◦ A bug in the "Ship invisibility" function that prevented it from being reactivated after it had been deactivated;
@@ -13,7 +13,7 @@ Added support for version 1.0.8 due to the game update on October 27, 2026.
 [Message_RU]Для этого трейнера вышла новая версия - 1.1. Для того, чтобы ее загрузить, посетите сайты PlayGround.ru или Nexus Mods.
 Изменения:
 ***Обновление: 01.11.2026 (версия 1.1)***
-Добавлена поддержка версии 1.8.0 в связи с обновлением игры от 27 октября 2026.
+Добавлена поддержка версии 1.0.8 в связи с обновлением игры от 27 октября 2026.
 – Исправлено:
 ◦ Ошибка в функции "Невидимость корабля", из-за которой не получалось повторно активировать эту же функцию после ее деактивации;
 ◦ Ошибка в функции "Бесконечный эффект орлиного зрения", из-за которой иногда было невозможно отключить орлиное зрение вручную.
