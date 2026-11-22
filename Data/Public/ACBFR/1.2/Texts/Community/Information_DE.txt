@@ -1,0 +1,68 @@
+Trainer version: <VERSION>.
+Erscheinungsdatum: <DATE>.
+Deutsche Übersetzung von: @Nyrdin (https://www.nexusmods.com/profile/nyrdin).
+
+Die Funktionsfähigkeit wurde auf folgenden Versionen getestet:
+◦ Steam: 1.0.8;
+◦ Ubisoft Connect: 1.0.8 (Ubisoft+ wird unterstützt).
+
+<SEARCHED PROCESSES>
+
+Der Trainer erstellt während seiner Arbeit ein Ereignisprotokoll. Sollten Sie also Probleme mit der Aktivierung oder der Funktionsfähigkeit der Funktionen haben, sollte das Spiel abstürzen oder ein anderes Problem auftreten, können Sie sich gerne an mich wenden und mir Ihre Protokolldateien zusenden. Sie finden diese, indem Sie das Einstellungsfenster öffnen und auf die Schaltfläche 'Ordner mit Ereignisprotokollen öffnen' klicken. Bei allen Fragen und Problemen können Sie mich per privater Nachricht auf den Websites PlayGround.ru und/oder Nexus Mods oder per E-Mail kontaktieren.
+Meine E-Mail-Adresse: 7x.hex.x7@gmail.com
+Mein Profil auf PlayGround.ru: https://users.playground.ru/1367691
+Mein Profil auf Nexus Mods: https://next.nexusmods.com/profile/hex
+
+Wenn Sie einen privaten Trainer für ein bestimmtes Spiel bestellen möchten, können Sie mich per E-Mail oder über private Nachrichten auf den Websites PlayGround.ru und/oder Nexus Mods kontaktieren.
+
+Wenn ihr euch für meine Arbeit bedanken möchtet, könnt ihr mich auf den Plattformen Patreon und/oder Boosty unterstützen. Ich würde mich sehr darüber freuen..
+Mein Patreon: https://www.patreon.com/trainersbyhex
+Mein Boosty: https://boosty.to/trainersbyhex
+
+Funktionsbeschreibung:
+◦ Unverwundbarkeit – Die Gesundheit ist immer auf dem Höchstwert, Stürze aus großer Höhe sind ungefährlich, keine Schadensanimation;
+◦ Unbegrenztes Geld – Der Geldbetrag wird auf 100.000 gesetzt;
+◦ Unbegrenzte Heilmittel – die aktuelle Anzahl an Heilmitteln verringert sich nicht;
+◦ Unbegrenzte Munition – die aktuelle Anzahl an Kugeln verringert sich nicht;
+◦ Unbegrenzte Rauchbomben – die aktuelle Anzahl an Rauchbomben verringert sich nicht;
+◦ Unbegrenzte Betäubungspfeile – die aktuelle Anzahl an Betäubungspfeilen verringert sich nicht;
+◦ Unbegrenzte Berserker-Pfeile – die aktuelle Anzahl an Berserker-Pfeilen verringert sich nicht;
+◦ Unbegrenztes Metall – setzt die Metallmenge auf 5.000. Du musst mindestens ein Stück Metall besitzen, um den Effekt zu sehen. Die Methode funktioniert ähnlich für andere Ressourcentypen;
+◦ Unbegrenztes Tuch – setzt die Tuchmenge auf 5.000;
+◦ Unendlich viel Holz – stellt die Holzmenge auf 5.000 ein;
+◦ Unendliche Besatzung – stellt die Besatzungszahl auf 40 ein;
+◦ Unendliche Munition für schwere Geschosse – die aktuelle Menge an Munition für schwere Geschosse verringert sich nicht;
+◦ Unendliche Mörser-Munition – die aktuelle Menge an Mörser-Munition verringert sich nicht;
+◦ Unbegrenzte Anzahl an Feuerfässern – die aktuelle Anzahl an Feuerfässern verringert sich nicht;
+◦ Unsichtbarkeit – Feinde und Tiere nehmen dich nicht wahr;
+◦ Hohe Bewegungsgeschwindigkeit – stellt die Bewegungsgeschwindigkeit auf 1,55 ein;
+◦ Hoher Sprung – stellt die Sprunghöhe auf 15,25 ein;
+◦ Zu benutzerdefiniertem Marker teleportieren – legt die Teleport-Höhe über dem Marker auf 0,25 fest. Die Teleportation funktioniert möglicherweise nicht aus dem Wasser heraus. Bitte beachte, dass die Teleportation nur dann korrekt funktioniert, wenn sich nur ein Marker auf der Karte befindet. Verwende diese Funktion zusammen mit der Funktion „Unverwundbarkeit“!;
+◦ No-Clip-Modus – zur Steuerung des Charakters benutze die Tasten W und S, um dich entlang der Y-Achse (vorwärts-rückwärts) zu bewegen, sowie A und D, um dich entlang der X-Achse (links-rechts) zu bewegen. Um nach oben zu gelangen, benutze die Leertaste, um nach unten zu gelangen, die linke Strg-Taste. Es wird empfohlen, diese Funktion zusammen mit der Funktion „Unverwundbarkeit“ zu verwenden!;
+◦ Unendliche Lebenspunkte des Schiffes – die Lebenspunkte des Schiffes sind immer auf dem Maximum;
+◦ Unsichtbarkeit des Schiffes – feindliche Schiffe nehmen dich nicht wahr;
+◦ Unendliche Lebenspunkte des Ruderboots – die Lebenspunkte des Ruderboots sind immer auf dem Maximum;
+◦ Unendliche Anzahl an Harpunen – die aktuelle Anzahl an Harpunen verringert sich nicht;
+◦ Unendliche Munition für Schwenkkanonen – die aktuelle Munitionsmenge für Schwenkkanonen verringert sich nicht beim Entern des Schiffes;
+◦ Unbegrenzter Adleraugen-Effekt – Der Effekt, durch den Gegner, sammelbare und interaktive Objekte nach der Nutzung des Adleraugen-Modus hervorgehoben werden, ist zeitlich unbegrenzt;
+◦ Gegner und Gegenstände in der Nähe hervorheben – Alle Gegner und Gegenstände in der Nähe werden so hervorgehoben, als würdest du sie manuell mit dem Adleraugen-Modus bzw. dem Beobachtungsmodus markieren. Um die Hervorhebung von Gegenständen durch gelbe, grüne oder weiße Kreise zu deaktivieren, wechsle in den Beobachtungsmodus und verlasse ihn anschließend wieder;
+◦ Kostenloses Upgraden von Gegenständen – ermöglicht es dir, Gegenstände zu verbessern, ohne über genügend Ressourcen zu verfügen;
+◦ Unbegrenzter Verkauf von Gegenständen – wenn du alle deine Gegenstände auf einmal verkaufst, verschwinden sie möglicherweise optisch aus dem Verkaufsmenü; wechsle in diesem Fall zum Reiter „Kaufen“ und kehre anschließend zum Reiter „Verkaufen“ zurück – alle verkauften Gegenstände werden wieder angezeigt;
+◦ Geringe Gesundheit von Tieren – wirkt sich auch auf die Gesundheit der Beute aus, wenn du mit einer Harpune jagst;
+◦ Karte aufklären – zeigt alle noch nicht besuchten Gebiete auf der Weltkarte an. Um den Effekt zu sehen, aktiviere die Funktion, speichere den Spielstand und lade ihn anschließend wieder;
+◦ Alle Kartensymbole anzeigen – zeigt alle Symbole auf der Weltkarte an. Um den Effekt zu sehen, aktiviere die Funktion, speichere den Spielstand und lade ihn anschließend wieder;
+◦ Unendliche Aloe – setzt die Menge an Aloe auf 1.000. Du musst mindestens eine Aloe besitzen, um den Effekt zu sehen. Die Methode funktioniert ähnlich für andere Ressourcentypen;
+◦ Unendlicher Zucker – setzt die Menge an Zucker auf 1.000;
+◦ Unendliche Rumfässer – setzt die Anzahl der Rumfässer auf 1.000;
+◦ Unendlicher Tabak – setzt die Tabakmenge auf 1.000;
+◦ Unendliche Gewürze – setzt die Anzahl der Gewürze auf 1.000;
+◦ Unendliche Weine – setzt die Anzahl der Weine auf 1.000;
+◦ Schneller Berserker-Pfeil-Effekt – das Opfer stirbt sofort, wenn es von einem Pfeil getroffen wird;
+◦ Schneller Abschluss von Seemissionen – Die Dauer jeder Seemission beträgt fünf Sekunden. Die Funktion wirkt sich nicht auf bereits laufende Seemissionen aus;
+◦ Hohe Erfolgschancen bei Seemissionen – Die Erfolgschance jeder Seemission beträgt immer 100 %. Die Funktion wirkt sich nicht auf bereits laufende Seemissionen aus;
+◦ Unendliche Lebenspunkte bei Seemissionen – die Lebenspunkte des Schiffes verringern sich nach Abschluss einer Seemission nicht;
+◦ Keine Ressourcenvoraussetzung bei Seemissionen – die Anzahl der Ressourcen spielt beim Start einer Seemission keine Rolle;
+◦ Einfaches Entern – die Moral des feindlichen Schiffes sinkt auf den Mindestwert und das Entern des Schiffes wird automatisch beendet;
+◦ Einfache Festungseroberung – die Lebenspunkte der Türme sinken auf den Mindestwert, die Moralanzeige der Festung sinkt auf den Mindestwert und die Eroberung wird automatisch abgeschlossen;
+◦ Unbegrenzte Anzahl an Knochen – setzt die Anzahl der Knochen auf 300;
+◦ Teilziel des Auftrags immer erfüllt – die Funktion funktioniert nicht, wenn du das Teilziel des Auftrags bereits verfehlt hast.
