@@ -1,7 +1,7 @@
 # ACBFR
 [Version]1.2[Version]
 
-[Link_PlayGround.ru]https://www.playground.ru/assassins_creed_4_black_flag/cheat/assassins_creed_black_flag_resynced_trejner_64_1_0_6_1_0_8_steam_i_ubisoft_connect_hex-1884725[Link]
+[Link_PlayGround.ru]https://www.playground.ru/assassins_creed_4_black_flag/cheat/assassins_creed_black_flag_resynced_trejner_68_1_0_6_1_0_8_steam_ubisoft_connect_hex-1884725[Link]
 [Link_NexusMods]https://www.nexusmods.com/assassinscreedblackflagresynced/mods/616?tab=files[Link]
 
 [Changes_EN]***Update: 11/22/2026 (version 1.2)***
